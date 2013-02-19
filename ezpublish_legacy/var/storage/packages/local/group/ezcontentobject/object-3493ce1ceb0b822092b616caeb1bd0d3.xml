@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4391" name="Governance &amp; Regulation" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Sun, 06 Jan 2013 16:35:16 GMT" ezremote:modified="Sun, 06 Jan 2013 16:35:16 GMT" remote_id="3493ce1ceb0b822092b616caeb1bd0d3" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Sun, 06 Jan 2013 16:35:01 GMT" ezremote:modified="Sun, 06 Jan 2013 16:35:16 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Governance &amp; Regulation">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56147" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Governance &amp; Regulation</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56148" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56149" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="6dc940b14560953e313578eda900e5b8" is-valid="1" last-checked="0" created="1357490115" modified="1357490115">http%3A%2F%2Fwww.datacenterdynamics.com%2Ffocus%2Fthemes%2Fgovernance-and-regulation</url>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56150" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="04d56d1bb563f5c44153924bd65dc9fb" name="Governance &amp; Regulation" node-id="4367" remote-id="6f6cb9bbe5d62222a6f45d483b07ae6d" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

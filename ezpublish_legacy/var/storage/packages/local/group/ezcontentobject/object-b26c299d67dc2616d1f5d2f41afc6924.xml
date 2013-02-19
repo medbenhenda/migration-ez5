@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4413" name="Atlanta" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="65" ezremote:published="Mon, 14 Jan 2013 01:52:13 GMT" ezremote:modified="Mon, 14 Jan 2013 01:52:13 GMT" remote_id="b26c299d67dc2616d1f5d2f41afc6924" class_remote_id="e4a3ba8c252b2fccc68c49698c25fc0b" ezremote:class_identifier="location_market" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Mon, 14 Jan 2013 01:48:20 GMT" ezremote:modified="Mon, 14 Jan 2013 01:52:13 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Atlanta">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56260" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Atlanta</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56261" ezremote:identifier="link" name="Link" type="ezurl">
+          <url original-url-md5="4b0f1bde2271eef218ab9dbc959fd821" is-valid="1" last-checked="0" created="1358128154" modified="1358128154">www.datacenterdynamics.com%2Fconferences%2F2011%2Fatlanta-2011</url>
+          <text>Atlanta</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56262" ezremote:identifier="flag" name="FLag" type="ezimage" image-file-key="7b6113355a114425135ddbc39ec74bac" alternative-text="USA"/>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="447fadd7a8421516ebdb22ac13283517" name="Atlanta" node-id="4388" remote-id="25a0c59e093169d0251cbcd9792eb024" sort-field="priority" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

@@ -1,0 +1,7 @@
+/vendor/
+.php~
+/nbproject/
+/.idea/
+/ezpublish/cache/
+/web/var
+/web/.htaccess

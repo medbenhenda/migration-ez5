@@ -1,0 +1,446 @@
+@charset "UTF-8";
+/**
+ * ezpublish override of styles
+ *
+ * Paul Leclercq
+ * paul.leclercq@datacenterdynamics.com
+ * 10/10/2012
+ *
+ */
+
+ .ceeda{
+background: #E3F5AB;background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2UzZjVhYiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNiN2RmMmQiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);  background: -moz-linear-gradient(top,  #e3f5ab 0%, #b7df2d 100%); /* FF3.6+ */  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e3f5ab), color-stop(100%,#b7df2d)); /* Chrome,Safari4+ */  background: -webkit-linear-gradient(top,  #e3f5ab 0%,#b7df2d 100%); /* Chrome10+,Safari5.1+ */  background: -o-linear-gradient(top,  #e3f5ab 0%,#b7df2d 100%); /* Opera 11.10+ */  background: -ms-linear-gradient(top,  #e3f5ab 0%,#b7df2d 100%); /* IE10+ */  background: linear-gradient(top,  #e3f5ab 0%,#b7df2d 100%); /* W3C */  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e3f5ab', endColorstr='#b7df2d',GradientType=0 ); /* IE6-8 */;color: #34A05A;
+}
+
+.renderedtable, .renderedtable tr, .renderedtable tr td{
+	padding:10px;
+}
+   	
+html body.search #container  input#query {
+   border: 1px solid #A2A2A2;
+   border-radius: 5px 5px 5px 5px;
+   box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+   color: #CCCCCC;
+   font-size: 14px;
+   padding: 9px 5px 7px;
+   width: 275px;
+   margin: 0 15px 15px 0;
+   float:left;
+}
+ 	
+html body.search #container > article.course_list form input.button {
+   background-image: -moz-linear-gradient(top, #71b1ec, #366a9f);
+   border-color: rgba(41, 65, 92, 0.8);
+   float: right;
+}
+ 	
+html body.search article.course_list .attribute-image {	
+	float: left;
+    margin: 3px 10px 5px 0;
+}
+
+ html body.search article.course_list .search_block label {	
+	float: left;
+    margin: 3px 10px 5px 0;
+ 	width: 150px; 
+}
+
+ html body.search article.course_list .search_block{
+	clear: both;
+}
+
+html body.calendar #content article table.calendar_table{
+	  margin: 0 auto;
+    width: 320px;
+}
+
+
+
+
+html body #container #main #content div.form-element.appended-form input.append-to  {
+            margin-right: -5px;
+            -webkit-border-top-left-radius: 5px;
+            -webkit-border-bottom-left-radius: 5px;
+            -moz-border-radius-topleft: 5px;
+            -moz-border-radius-bottomleft: 5px;
+            border-top-left-radius: 5px;
+            border-bottom-left-radius: 5px;
+            -webkit-border-top-right-radius: 0px;
+            -webkit-border-bottom-right-radius: 0px;
+            -moz-border-radius-topright: 0px;
+            -moz-border-radius-bottomright: 0px;
+            border-top-right-radius: 0px;
+            border-bottom-right-radius: 0px;
+            line-height: 16px;
+            height: 38px;
+            width:180px;
+        }
+
+ a.appended {
+     padding: 10px;
+     display: inline-block;
+     *display: inline;
+     /* IE7 inline-block hack */
+
+    *zoom: 1;
+    margin-bottom: 0;
+    font-size: 13px;
+    line-height: 16px;
+    color: #333333;
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+    vertical-align: baseline;
+    background-color: #f5f5f5;
+    background-image: -moz-linear-gradient(top, #ffffff, #e6e6e6);
+    background-image: -ms-linear-gradient(top, #ffffff, #e6e6e6);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#e6e6e6));
+    background-image: -webkit-linear-gradient(top, #ffffff, #e6e6e6);
+    background-image: -o-linear-gradient(top, #ffffff, #e6e6e6);
+    background-image: linear-gradient(top, #ffffff, #e6e6e6);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#e6e6e6', GradientType=0);
+    border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+    border: 1px solid #cccccc;
+    border-bottom-color: #b3b3b3;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    cursor: pointer;
+    *margin-left: .3em;
+    -webkit-border-top-left-radius: 0px;
+    -webkit-border-bottom-left-radius: 0px;
+    -moz-border-radius-topleft: 0px;
+    -moz-border-radius-bottomleft: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+ a.appended:active {
+    background-color: #E6E6E6;
+    background-image: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15) inset, 0 1px 2px rgba(0, 0, 0, 0.05);
+    outline-color: -moz-use-text-color;
+    outline-style: none;
+    outline-width: 0;
+}
+
+#bookingForm .step .stepname {
+    font-weight: bold;
+    font-size: 15pt;
+    margin: 5px;
+}
+
+#bookingForm .regFormError {
+    color: #f00;
+    display: inline-block;
+    text-align: left;
+    vertical-align:middle;
+    width:120px;
+}
+#mask {
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:9000;
+  background-color:#000;
+  display:none;
+}
+
+#boxes .window {
+  position:fixed;
+  left:0;
+  top:0;
+  width:600px;
+  height:400px;
+  display:none;
+  z-index:9999;
+  padding:20px;
+  text-align: center;
+}
+
+#boxes #dialog {
+  width:440px;
+  height:270px;
+  padding:10px;
+  background-color:#ffffff;
+}
+
+#boxes #dialog1 {
+  width:375px;
+  height:203px;
+}
+
+#dialog1 .d-header {
+  background:url(images/login-header.png) no-repeat 0 0 transparent;
+  width:375px;
+  height:150px;
+}
+
+#dialog1 .d-header input {
+  position:relative;
+  top:60px;
+  left:100px;
+  border:3px solid #cccccc;
+  height:22px;
+  width:200px;
+  font-size:15px;
+  padding:5px;
+  margin-top:4px;
+}
+
+#dialog1 .d-blank {
+  float:left;
+  background:url(images/login-blank.png) no-repeat 0 0 transparent;
+  width:267px;
+  height:53px;
+}
+
+#dialog1 .d-login {
+  float:left;
+  width:108px;
+  height:53px;
+}
+
+#boxes #dialog2 {
+  background:url(images/notice.png) no-repeat 0 0 transparent;
+  width:326px;
+  height:229px;
+  padding:50px 0 20px 25px;
+}
+
+#dialog .closeButton {
+    position:absolute;
+    right:-20px;
+    top:-20px;
+    width:40px;
+    height:40px;
+    font-size:27px;
+    line-height:40px;
+    font-weight:bold;
+    cursor: hand;
+    cursor:pointer;
+    display:inline-block;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    background-color: #fff;
+    border: 1px solid #A8A8A8;
+}
+
+/* Customize your modal window here, you can add background image too */
+#regPopup #boxes #dialog {
+  width:275px;
+  height:auto;
+}
+
+html body #container #main #content .warning p {
+    margin: 10px 20px;
+}
+
+.nav_inline ul li, html body #container > nav ul li, html body #container #main #content nav ul li {
+    float: right;
+    }
+    
+html body.about-us #container #main #content #person_listing article section .avatar img {
+    border: none;
+}
+
+html body #main #content .separator{
+    clear: both;
+    height: 10px;
+}
+
+div#links {
+    background-image: none!important;
+}
+
+#main #content .separator{
+clear: both;
+margin-top: 10px;
+}
+
+#main #content .separator{
+clear: both;
+margin-top: 10px;
+}
+
+#main #content .pagenavigator p{
+text-align:center;
+}
+
+#main #content .pagenavigator .previous{
+float:left;
+}
+
+#main #content .pagenavigator .next{
+float:right;
+}
+
+
+html body #container > header div #language_html_block{
+	display:none;	
+}
+
+#choose_language{
+    background: none repeat scroll 0 0 #FFFFFF;
+    float: left;
+    margin: 0;
+    padding: 10px 35px 40px;
+    width: 750px;
+}
+
+#choose_language .countries{
+   float: left;
+    position: relative;
+}
+
+#choose_language .countries h2 {
+    border-bottom: 1px solid #CCCCCC;
+    color: #E20026;
+    display: block;
+    font-size: 30px;
+    line-height: 35px;
+    margin: 10px 0 25px;
+    padding-bottom: 5px;
+    width: 750px;
+    text-transform: uppercase;
+}
+
+
+#choose_language .companies_list li {
+    width: 135px;
+    list-style: none outside none;
+ 	color: #999999;
+}
+
+#choose_language .companies_list li.entity{
+    width: 144px;
+	float:left;
+	min-height:200px;
+}
+
+#choose_language .countries #languages ul li{
+	width: 96px;
+	float:left;
+    list-style: none outside none;
+ 	color: #999999;
+}
+
+#choose_language .countries div#languages {
+	width:100%;
+}
+
+#choose_language .companies_list li a:hover, #choose_language .companies_list  li a.select,
+#choose_language .countries #languages ul li a:hover, #choose_language .countries #languages ul li a.select{
+    color: #E20026;
+}
+
+#choose_language .companies_list  li a, #choose_language .countries #languages ul li a {
+    color: #909090;
+    display: block;
+    font-size: 11px;
+    line-height: 16px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+#warning_message, .warning_message{
+	margin: 20px;
+	color: red;
+}
+
+
+/**
+ * DCD Moodle registration menu
+ */
+
+html body #container #factsheet .button {
+	float:right; 
+	margin-right: 0;
+	background-color: #666666;
+	background-image:none;
+	border-radius:0;
+	box-shadow: none;
+	color: #1a3e66;
+	font-size: 11px;
+	line-height: 1;
+	border: 1px solid rgba(41, 65, 92, 0.8);
+	box-shadow: none;
+	color: none;
+	display: block;
+	padding: 5px;
+	text-transform: none;
+	text-align: center;
+	text-shadow: 0 -1px 0 #577354;
+	cursor: hand;
+	cursor: pointer;
+	width:133px;
+}
+
+#factsheet h2 {
+    margin: 10px 20px;
+    color: #009444;
+    font-family: "Helvetica Neue",Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+html body #container #factsheet .registration_form .form-element {
+    zoom: 1;
+    margin: 0 0 5px; 
+    clear:both;
+}
+html body #container #factsheet .registration_form .form-element:before, html body #container #factsheet .registration_form .form-element:after {
+  content: "";
+  display: table; }
+html body #container #factsheet .registration_form .form-element:after {
+  clear: both; }
+html body #container #factsheet .registration_form .form-element label {
+  float: left;
+  text-align: right;
+  width: 110px;
+}
+html body #container #factsheet .registration_form .form-element ul label {
+  float: none;
+  margin-right: 10px;
+  text-align: right;
+  width: 125px;
+  margin-top: 10px; }
+html body #container #factsheet .registration_form .form-element input.text {
+  border: 1px solid #CECECE;
+  width: 125px;
+  float:right;
+  padding:3px;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  margin-right: 0;
+}
+input.form-autocomplete {
+    background-image: url("/extension/dcd/design/dcd/images/design/throbber.gif");
+    background-position: 100% -35px;
+    background-repeat: no-repeat; }
+html body #container #factsheet .registration_form .form-element select {
+  width: 133px;
+  margin: 0;
+  margin-right: 0;
+  float: right;
+  padding:3px;
+}
+html body #container #factsheet .registration_form .form-element ul {
+  float: left;
+  width: 400px;
+  margin: 10px 0 0 0;
+  padding: 0; }
+  html body #container #factsheet .registration_form .form-element ul li {
+    list-style-type: none;
+    margin: 0 0 10px 0;
+    padding: 0; }
+    html body #container #factsheet .registration_form .form-element ul li input.checkbox {
+      margin-right: 10px; }
+

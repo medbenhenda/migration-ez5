@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4421" name="Paris" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="65" ezremote:published="Mon, 14 Jan 2013 01:58:44 GMT" ezremote:modified="Mon, 14 Jan 2013 01:58:44 GMT" remote_id="3f83423e6bac8e8059b97bebc7ed5f25" class_remote_id="e4a3ba8c252b2fccc68c49698c25fc0b" ezremote:class_identifier="location_market" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Mon, 14 Jan 2013 01:58:25 GMT" ezremote:modified="Mon, 14 Jan 2013 01:58:44 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Paris">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56284" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Paris</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56285" ezremote:identifier="link" name="Link" type="ezurl">
+          <url original-url-md5="a17c3ecd3aae5b6e3cb1800ccee102dc" is-valid="1" last-checked="0" created="1358128717" modified="1358128717">http%3A%2F%2Fwww.datacenterdynamics.com%2Fnode%2F51290</url>
+          <text>Paris</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56286" ezremote:identifier="flag" name="FLag" type="ezimage" image-file-key="c6491670b8307219aac2f04be6f02f89" alternative-text="France"/>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="f86ff0f4330b78aaf43425f77cf0e5cd" name="Paris" node-id="4396" remote-id="3943ff70fb5eadd0230ec1177d791378" sort-field="priority" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

@@ -1,0 +1,27 @@
+
+<div class="block-type-feed-reader item-list">
+    <div class="attribute-header">
+        <h2>
+            <a href="http://ez.no/" title="eZ News">eZ News</a>
+        </h2>
+    </div>
+    <article>
+        <ul>
+                    <li>
+                <a href="http://ez.no/About-eZ/Events-News/News/Nominations-open-for-eZ-Awards" title="Nominations open for eZ Awards!">Nominations open for eZ Awards!</a>
+            </li>
+                    <li>
+                <a href="http://ez.no/About-eZ/Events-News/News/The-eZ-Publish-Users-Developers-Meetup-group-presents-a-webcast-recording" title="The eZ Publish Users ">The eZ Publish Users </a>
+            </li>
+                    <li>
+                <a href="http://ez.no/About-eZ/Events-News/News/Mobile-Web-a-growing-market" title="Mobile Web: a growing market">Mobile Web: a growing market</a>
+            </li>
+                    <li>
+                <a href="http://ez.no/About-eZ/Events-News/News/eZ-Publish-International-showcase-on-Deutsche-Telekom-s-WebTV-channel" title="eZ Publish International – showcase on Deutsche Telekom's WebTV channel">eZ Publish International – showcase on Deutsche Telekom's WebTV channel</a>
+            </li>
+                    <li>
+                <a href="http://ez.no/About-eZ/Events-News/News/eZ-Publish-5-Webinar-Online" title="eZ Publish 5 Webinar Online">eZ Publish 5 Webinar Online</a>
+            </li>
+                </ul>
+    </article>
+</div>

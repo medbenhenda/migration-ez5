@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4378" name="Video" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Sun, 06 Jan 2013 16:04:26 GMT" ezremote:modified="Sun, 06 Jan 2013 16:04:26 GMT" remote_id="fd81516296226add1916ee7d28e0771a" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Sun, 06 Jan 2013 16:04:07 GMT" ezremote:modified="Sun, 06 Jan 2013 16:04:26 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Video">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56095" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Video</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56096" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56097" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="609b017813e8f03002738c19b356f069" is-valid="1" last-checked="0" created="1357488266" modified="1357488266">http%3A%2F%2Fwww.datacenterdynamics.com%2Fvideos</url>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56098" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="c7a718cc6afde74e761913102ce3e215" name="Video" node-id="4354" remote-id="9a21831d8f83a6799b33ccad663b0e3b" sort-field="path" sort-order="1" priority="3"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

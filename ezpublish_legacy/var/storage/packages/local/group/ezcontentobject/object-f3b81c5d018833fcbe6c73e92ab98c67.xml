@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4455" name="Middle East &amp; Africa" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Fri, 18 Jan 2013 23:54:53 GMT" ezremote:modified="Fri, 18 Jan 2013 23:54:53 GMT" remote_id="f3b81c5d018833fcbe6c73e92ab98c67" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Fri, 18 Jan 2013 23:54:39 GMT" ezremote:modified="Fri, 18 Jan 2013 23:54:53 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Middle East &amp; Africa">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56434" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Middle East &amp; Africa</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56435" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56436" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="2c85d5550e6aeece6b4e30be2f16d527" is-valid="1" last-checked="0" created="1355868244" modified="1355868244">http%3A%2F%2Fwww.datacenterdynamics.com%2Fmea%2Ffocus</url>
+          <text>Middle East &amp; Africa</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56437" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="a65f8969be46432b46a3bb3b1fbdff8b" name="Middle East &amp; Africa" node-id="4430" remote-id="6cb73b392e456d287522ff5a5b66f9c1" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

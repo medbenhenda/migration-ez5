@@ -1,0 +1,653 @@
+[ Feb 19 2013 21:25:50 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:50 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:50 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:50 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:50 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:50 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:50 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:50 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:50 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:50 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:50 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:50 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:50 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:50 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:50 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZContentClassAttribute::eZContentClassAttribute:
+Could not get instance of datatype: ezimage
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:51 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:52 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:52 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:52 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:52 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:52 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:52 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:52 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:52 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:52 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:52 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:52 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:52 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:25:52 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:25:52 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZContentClassAttribute::eZContentClassAttribute:
+Could not get instance of datatype: ezimage
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:11 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZContentClassAttribute::eZContentClassAttribute:
+Could not get instance of datatype: ezimage
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZContentClassAttribute::eZContentClassAttribute:
+Could not get instance of datatype: ezimage
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:26:54 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZContentClassAttribute::eZContentClassAttribute:
+Could not get instance of datatype: ezimage
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:19 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:20 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:20 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:20 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:20 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:20 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:20 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:20 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:20 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:20 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:20 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:20 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:20 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:27:20 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:27:20 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZContentClassAttribute::eZContentClassAttribute:
+Could not get instance of datatype: ezimage
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:29:44 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] eZContentClassAttribute::eZContentClassAttribute:
+Could not get instance of datatype: ezimage
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:12 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:13 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] eZContentClassAttribute::eZContentClassAttribute:
+Could not get instance of datatype: ezimage
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:38 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:30:39 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZContentClassAttribute::eZContentClassAttribute:
+Could not get instance of datatype: ezimage
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] eZDataType::loadAndRegisterType:
+Datatype not found: 'ezimage', searched in these directories: kernel/classes/datatypes, extension/ezflow/datatypes, extension/ezcomments/datatypes, extension/ezgmaplocation/datatypes, extension/ezstarrating/datatypes, extension/eztags/datatypes

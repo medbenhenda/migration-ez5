@@ -1,0 +1,1891 @@
+@charset "UTF-8";
+/**
+ * HTML5 ✰ Boilerplate
+ *
+ * style.css contains a reset, font normalization and some base styles.
+ *
+ * Credit is left where credit is due.
+ * Much inspiration was taken from these projects:
+ * - yui.yahooapis.com/2.8.1/build/base/base.css
+ * - camendesign.com/design/
+ * - praegnanz.de/weblog/htmlcssjs-kickstart
+ */
+/**
+ * html5doctor.com Reset Stylesheet (Eric Meyer's Reset Reloaded + HTML5 baseline)
+ * v1.6.1 2010-09-17 | Authors: Eric Meyer & Richard Clark
+ * html5doctor.com/html-5-reset-stylesheet/
+ */
+/*
+	SA960 - 960.gs converted to SASS goodness.
+	James Pearson (@FearMediocrity) - 30/06/2011
+
+	Based on (and all credit belongs to):
+  		960 Grid System ~ Core CSS.
+  		Learn more ~ http://960.gs/
+
+  	Licensed under GPL and MIT.
+*/
+.grid_container, html body #container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px; }
+
+.grid_base, html body #container > header #logo, html body #container > header div, html body #container > nav, html body #container .title_image, html body #container > aside.banners, html body #container > footer #copyright, html body.individuals #container #course_search_critera,
+html body.corporate #container #course_search_critera,
+html body.prospectus #container #course_search_critera,
+html body.about-us #container #course_search_critera,
+html body.courses #container #course_search_critera,
+html body.course #container #course_search_critera,
+html body.search #container #course_search_critera, html body.individuals #container #secondary_navigation,
+html body.corporate #container #secondary_navigation,
+html body.prospectus #container #secondary_navigation,
+html body.about-us #container #secondary_navigation,
+html body.courses #container #secondary_navigation,
+html body.course #container #secondary_navigation,
+html body.search #container #secondary_navigation, html body.individuals #container .banners,
+html body.corporate #container .banners,
+html body.prospectus #container .banners,
+html body.about-us #container .banners,
+html body.courses #container .banners,
+html body.course #container .banners,
+html body.search #container .banners, html body.individuals #container #main,
+html body.corporate #container #main,
+html body.prospectus #container #main,
+html body.about-us #container #main,
+html body.courses #container #main,
+html body.course #container #main,
+html body.search #container #main, html body.professional-development #container #course_search_critera, html body.professional-development #container #secondary_navigation, html body.professional-development #container .banners, html body.professional-development #container #main, html body#index #main, html body#index #course_search_critera, html body.course #container #factsheet {
+  display: inline;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px; }
+
+.nav_inline ul, html body #container > nav ul, html body #container #main #content nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+  .nav_inline ul li, html body #container > nav ul li, html body #container #main #content nav ul li {
+    float: left;
+    margin: 0;
+    padding: 0; }
+    .nav_inline ul li a, html body #container > nav ul li a, html body #container #main #content nav ul li a {
+      display: block;
+      padding: 5px; }
+
+html, body, body div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: "";
+  content: none; }
+
+ins {
+  background-color: #ff9;
+  color: #000;
+  text-decoration: none; }
+
+mark {
+  background-color: #ff9;
+  color: #000;
+  font-style: italic;
+  font-weight: bold; }
+
+del {
+  text-decoration: line-through; }
+
+abbr[title], dfn[title] {
+  border-bottom: 1px dotted;
+  cursor: help; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0; }
+
+/**
+ * Font normalization inspired by YUI Library's fonts.css: developer.yahoo.com/yui/
+ */
+body {
+  font: 13px/1.231 sans-serif;
+  *font-size: small; }
+
+/* Hack retained to preserve specificity */
+/* Normalize monospace sizing:
+   en.wikipedia.org/wiki/MediaWiki_talk:Common.css/Archive_11#Teletype_style_fix_for_Chrome */
+pre, code, kbd, samp {
+  font-family: monospace, sans-serif; }
+
+/**
+ * Minimal base styles.
+ */
+/* 1) Always force a scrollbar in non-IE
+   2) Remove iOS text size adjust without disabling user zoom: www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/ */
+html {
+  overflow-y: scroll;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%; }
+
+/* j.mp/webkit-tap-highlight-color */
+a:link {
+  -webkit-tap-highlight-color: #FF5E99; }
+
+/* Accessible focus treatment: people.opera.com/patrickl/experiments/keyboard/test */
+a:hover, a:active {
+  outline: none; }
+
+a, a:active, a:visited {
+  color: #607890; }
+
+a:hover {
+  color: #036; }
+
+ul, ol {
+  margin-left: 2em; }
+
+ol {
+  list-style-type: decimal; }
+
+/* Remove margins for navigation lists */
+nav ul, nav li {
+  margin: 0;
+  list-style: none;
+  list-style-image: none; }
+
+small {
+  font-size: 85%; }
+
+b, strong, th {
+  font-weight: bold; }
+
+td {
+  vertical-align: top; }
+
+/* Set sub, sup without affecting line-height: gist.github.com/413930 */
+sub, sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative; }
+
+sup {
+  top: -0.5em; }
+
+sub {
+  bottom: -0.25em; }
+
+pre {
+  /* www.pathf.com/blogs/2008/05/formatting-quoted-code-in-blog-posts-css21-white-space-pre-wrap/ */
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  padding: 15px; }
+
+.ie6 legend, .ie7 legend {
+  margin-left: -7px; }
+
+/* 1) Make inputs and buttons play nice in IE: www.viget.com/inspire/styling-the-button-element-in-internet-explorer/
+   2) WebKit browsers add a 2px margin outside the chrome of form elements.
+      Firefox adds a 1px margin above and below textareas
+   3) Set font-size to match <body>'s, and font-family to sans-serif
+   4) Align to baseline */
+button, input, select, textarea {
+  width: auto;
+  overflow: visible;
+  margin: 0;
+  font-size: 100%;
+  font-family: sans-serif;
+  vertical-align: baseline; }
+
+/* 1) Remove default scrollbar in IE: www.sitepoint.com/blogs/2010/08/20/ie-remove-textarea-scrollbars/
+   2) Align to text-top */
+textarea {
+  overflow: auto;
+  vertical-align: text-top; }
+
+/* Hand cursor on clickable input elements */
+label, input[type="button"], input[type="submit"], input[type="image"], button {
+  cursor: pointer; }
+
+/* Remove extra padding and inner border in Firefox */
+input::-moz-focus-inner,
+button::-moz-focus-inner {
+  border: 0;
+  padding: 0; }
+
+/* Colors for form validity */
+input:invalid, textarea:invalid {
+  -moz-box-shadow: 0px 0px 5px red;
+  -webkit-box-shadow: 0px 0px 5px red;
+  box-shadow: 0px 0px 5px red; }
+
+.no-boxshadow input:invalid, .no-boxshadow textarea:invalid {
+  background-color: #f0dddd; }
+
+/* Bicubic resizing for non-native sized IMG:
+   code.flickr.com/blog/2008/11/12/on-ui-quality-the-little-things-client-side-image-resizing/ */
+.ie7 img {
+  -ms-interpolation-mode: bicubic; }
+
+/**
+ * You might tweak these..
+ */
+body, select, input, textarea {
+  /* #444 looks better than black: twitter.com/H_FJ/statuses/11800719859 */
+  color: #444;
+  /* Set your base font here, to apply evenly */
+  /* font-family: Georgia, serif;  */ }
+
+/* Headers (h1, h2, etc) have no default font-size or margin; define those yourself */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold; }
+
+/* These selection declarations have to be separate
+   No text-shadow: twitter.com/miketaylr/status/12228805301
+   Also: hot pink! */
+.button {
+  background-color: #444141;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#444141), to(#444141));
+  background-image: -webkit-linear-gradient(top, #444141, #444141);
+  background-image: -moz-linear-gradient(top, #444141, #444141);
+  background-image: -ms-linear-gradient(top, #444141, #444141);
+  background-image: -o-linear-gradient(top, #444141, #444141);
+  background-image: linear-gradient(top, #444141, #444141);
+  box-shadow: inset 0 1px 0 0 white;
+  color: #1a3e66;
+  font-size: 14px;
+  line-height: 1;
+  border: 1px solid rgba(41, 65, 92, 0.8);
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+  color: #FFF !important;
+  display: block;
+  padding: 10px 10px 6px;
+  text-transform: uppercase;
+  text-align: center;
+  text-shadow: 0 -1px 0 #577354;
+  text-decoration: none !important;
+  cursor: hand;
+  cursor: pointer;
+}
+
+
+a.buttonPaypal {
+	background: #003366; /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwMzM2NiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzMzY2OTkiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top,  #003366 0%, #336699 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#003366), color-stop(100%,#336699)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #003366 0%,#336699 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #003366 0%,#336699 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #003366 0%,#336699 100%); /* IE10+ */
+	background: linear-gradient(top,  #003366 0%,#336699 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003366', endColorstr='#336699',GradientType=0 ); /* IE6-8 */
+	box-shadow: inset 0 1px 0 0 white;
+	color: #1a3e66;
+	font-size: 14px;
+	line-height: 1;
+	border: 1px solid rgba(41, 65, 92, 0.8);
+	box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+	color: #FFF !important;
+	display: block;
+	padding: 10px 10px 6px;
+	text-transform: uppercase;
+	text-align: center;
+	text-shadow: 0 -1px 0 #577354;
+	text-decoration: none !important;
+}
+
+html {
+  background: #eeeeee;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; }
+  html body {
+    padding-bottom: 40px;
+    min-height: 800px; }
+    html body #container {
+      zoom: 1; }
+      html body #container:before, html body #container:after {
+        content: "";
+        display: table; }
+      html body #container:after {
+        clear: both; }
+      html body #container > header {
+        zoom: 1;
+        height: 125px; }
+        html body #container > header:before, html body #container > header:after {
+          content: "";
+          display: table; }
+        html body #container > header:after {
+          clear: both; }
+        html body #container > header #logo {
+          width: 520px;
+          background: transparent url(../images/logo_background_new.png) 0 0 no-repeat;
+          color: transparent;
+          display: block;
+          height: 120px;
+          text-indent: -5000px; }
+        html body #container > header div {
+          width: 400px;
+          margin-top: 25px; }
+          html body #container > header div #account_login {
+            float: left;
+            width: 140px;
+            color: #FFF; }
+            html body #container > header div p {
+            font-size: 14px;
+            color: #303030;
+            float: right;
+            text-align: right;
+            width: 212px;  }
+            html body #container > header div p a, html body #container > header div p .tel {
+              color: #3574ac;
+              text-decoration: none; }
+          html body #container > header div form {
+            float: left;
+            margin-top: 10px;
+            width: 400px; }
+            html body #container > header div form input#query {
+              border: 1px solid #A2A2A2;
+              box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+              color: #CCCCCC;
+              font-size: 14px;
+              padding: 6px 5px 7px;
+              width: 275px; }
+            html body #container > header div form input.button {
+              background-image: -moz-linear-gradient(top, #444141, #444141);
+              border-color: rgba(41, 65, 92, 0.8);
+              float: right; }
+      html body #container > nav {
+        width: 940px;
+        zoom: 1;
+        margin-bottom: 15px; }
+        html body #container > nav:before, html body #container > nav:after {
+          content: "";
+          display: table; }
+        html body #container > nav:after {
+          clear: both; }
+        html body #container > nav ul {
+          zoom: 1;
+          background: #417cb1;
+          /* Old browsers */
+          background: -moz-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+          /* FF3.6+ */
+          background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #417cb1), color-stop(100%, #417cb1));
+          /* Chrome,Safari4+ */
+          background: -webkit-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+          /* Chrome10+,Safari5.1+ */
+          background: -o-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+          /* Opera11.10+ */
+          background: -ms-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+          /* IE10+ */
+          filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#417cb1', endColorstr='#417cb1',GradientType=0 );
+          /* IE6-9 */
+          background: linear-gradient(top, #417cb1 0%, #417cb1 100%);
+          /* W3C */
+          -moz-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25);
+          -webkit-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25);
+          border: 1px solid #3574ac;
+          margin-bottom: 15px; }
+          html body #container > nav ul:before, html body #container > nav ul:after {
+            content: "";
+            display: table; }
+          html body #container > nav ul:after {
+            clear: both; }
+          html body #container > nav ul li a {
+            color: #FFF;
+            font-size: 13px;
+            text-decoration: none;
+            text-transform: uppercase;
+            padding: 12px 27px 8px;}
+        html body #container > nav .breadcrumbs {
+          margin-top: 10px;
+          font-size: 10px; }
+      html body #container .title_image {
+        width: 940px;
+        margin-bottom: 20px; }
+        html body #container .title_image img {
+          border: 1px solid #D6D0D0;
+          display: block; }
+      html body #container #main {
+        margin-bottom: 50px;
+        float: right; }
+        html body #container #main #content {
+          border: 1px solid #d6d0d0;
+          background: #f7f7f7; }
+          html body #container #main #content h1 {
+            color: #3574ac;
+            font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+            font-size: 16px;
+            margin-bottom: 20px; }
+          html body #container #main #content h2 {
+            color: #3574ac;
+            font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+            font-size: 16px;
+            margin-bottom: 20px; }
+          html body #container #main #content nav {
+            zoom: 1; }
+            html body #container #main #content nav:before, html body #container #main #content nav:after {
+              content: "";
+              display: table; }
+            html body #container #main #content nav:after {
+              clear: both; }
+            html body #container #main #content nav ul li {
+              background: #cacaca;
+              /* Old browsers */
+              background: -moz-linear-gradient(top, #cacaca 0%, #979797 100%);
+              /* FF3.6+ */
+              background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #cacaca), color-stop(100%, #979797));
+              /* Chrome,Safari4+ */
+              background: -webkit-linear-gradient(top, #cacaca 0%, #979797 100%);
+              /* Chrome10+,Safari5.1+ */
+              background: -o-linear-gradient(top, #cacaca 0%, #979797 100%);
+              /* Opera11.10+ */
+              background: -ms-linear-gradient(top, #cacaca 0%, #979797 100%);
+              /* IE10+ */
+              filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#cacaca', endColorstr='#979797',GradientType=0 );
+              /* IE6-9 */
+              background: linear-gradient(top, #cacaca 0%, #979797 100%);
+              /* W3C */
+              -moz-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25);
+              -webkit-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25);
+              border: 1px solid #8c8c8c; }
+              html body #container #main #content nav ul li a {
+                color: #FFFFFF;
+                font-size: 14px;
+                padding: 5px 10px;
+                text-align: center;
+                text-transform: uppercase;
+                width: 113px; }
+              html body #container #main #content nav ul li.selected {
+                background: #417cb1;
+                /* Old browsers */
+                background: -moz-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+                /* FF3.6+ */
+                background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #417cb1), color-stop(100%, #417cb1));
+                /* Chrome,Safari4+ */
+                background: -webkit-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+                /* Chrome10+,Safari5.1+ */
+                background: -o-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+                /* Opera11.10+ */
+                background: -ms-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+                /* IE10+ */
+                filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#417cb1', endColorstr='#417cb1',GradientType=0 );
+                /* IE6-9 */
+                background: linear-gradient(top, #417cb1 0%, #417cb1 100%);
+                /* W3C */
+                -moz-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25);
+                -webkit-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25);
+                border: 1px solid #3574ac; }
+          html body #container #main #content article h2 {
+            margin: 10px 20px; }
+          html body #container #main #content article .no-columns {
+            margin: 0 20px; }
+          html body #container #main #content article .columns {
+            margin: 0 20px; }
+            html body #container #main #content article .columns .first p {
+              margin-right: 10px; }
+            html body #container #main #content article .columns .last p {
+              margin-left: 10px; }
+            html body #container #main #content article .columns img {
+              margin: 0 10px 10px 10px;
+              width: 280px;
+              height: 200px; }
+          html body #container #main #content article .form-element {
+            zoom: 1;
+            /*margin-bottom: 10px;*/
+            padding: 5px 10px; }
+            html body #container #main #content article .form-element:before, html body #container #main #content article .form-element:after {
+              content: "";
+              display: table; }
+            html body #container #main #content article .form-element:after {
+              clear: both; }
+            html body #container #main #content article .form-element label {
+              float: left;
+              margin-right: 10px;
+              text-align: right;
+              width: 125px;
+              margin-top: 10px; }
+            html body #container #main #content article .form-element ul label {
+              float: none;
+              margin-right: 10px;
+              text-align: right;
+              width: 125px;
+              margin-top: 10px; }
+            html body #container #main #content article .form-element input.text {
+              border: 1px solid #CECECE;
+              padding: 10px;
+              width: 250px; /* was 400 */ }
+            input.form-autocomplete {
+                background-image: url("/extension/dcpro/design/dcpro/images/design/throbber.gif");
+                background-position: 100% -35px;
+                background-repeat: no-repeat; }
+            html body #container #main #content article .form-element select {
+              width: 250px #000/* was 420px */;
+              margin: 0; }
+            html body #container #main #content article .form-element ul {
+              float: left;
+              width: 400px;
+              margin: 10px 0 0 0;
+              padding: 0; }
+              html body #container #main #content article .form-element ul li {
+                list-style-type: none;
+                margin: 0 0 10px 0;
+                padding: 0; }
+                html body #container #main #content article .form-element ul li input.checkbox {
+                  margin-right: 10px; }
+          html body #container #main #content p {
+            margin-bottom: 20px; }
+          html body #container #main #content a {
+            color: #417cb1; }
+          html body #container #main #content a.button {
+            background: #417cb1;
+            /* Old browsers */
+            background: -moz-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+            /* FF3.6+ */
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #417cb1), color-stop(100%, #417cb1));
+            /* Chrome,Safari4+ */
+            background: -webkit-linear-gradient(top, #417cb1 0%,#417cb1 100%);
+            /* Chrome10+,Safari5.1+ */
+            background: -o-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+            /* Opera11.10+ */
+            background: -ms-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+            /* IE10+ */
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#417cb1', endColorstr='#417cb1',GradientType=0 );
+            /* IE6-9 */
+            background: linear-gradient(top, #417cb1 0%, #417cb1 100%);
+            /* W3C */
+            -moz-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25);
+            -webkit-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25);
+            border: 1px solid #3574ac;
+            display: block;
+            border: 1px solid #3574ac;
+            color: #FFF;
+            font-size: 12px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            text-transform: uppercase;
+            text-align: center; }
+      html body #container > aside {
+      	/*padding: 0px 10px;*/
+        float: left;
+        margin-bottom: 20px; }
+        html body #container > aside a.button {
+          background: #417cb1;
+          /* Old browsers */
+          background: -moz-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+          /* FF3.6+ */
+          background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #417cb1), color-stop(100%, #417cb1));
+          /* Chrome,Safari4+ */
+          background: -webkit-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+          /* Chrome10+,Safari5.1+ */
+          background: -o-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+          /* Opera11.10+ */
+          background: -ms-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+          /* IE10+ */
+          filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#417cb1', endColorstr='#417cb1',GradientType=0 );
+          /* IE6-9 */
+          background: linear-gradient(top, #417cb1 0%, #417cb1 100%);
+          /* W3C */
+          -moz-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25);
+          -webkit-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25);
+          border: 1px solid #3574ac;
+          display: block;
+          border: 1px solid #3574ac;
+          color: #FFF;
+          font-size: 14px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          text-transform: uppercase;
+          text-align: center; }
+        html body #container #main #content a.red, html body #container > aside a.red {
+            background: #ff3019;
+            /* Old browsers */
+            background: -moz-linear-gradient(top, #ff3019 0%, #cf0404 100%);
+            /* FF3.6+ */
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ff3019), color-stop(100%, #cf0404));
+            /* Chrome,Safari4+ */
+            background: -webkit-linear-gradient(top, #ff3019 0%, #cf0404 100%);
+            /* Chrome10+,Safari5.1+ */
+            background: -o-linear-gradient(top, #ff3019 0%, #cf0404 100%);
+            /* Opera 11.10+ */
+            background: -ms-linear-gradient(top, #ff3019 0%, #cf0404 100%);
+            /* IE10+ */
+            background: linear-gradient(top, #ff3019 0%, #cf0404 100%);
+            /* W3C */
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3019', endColorstr='#cf0404',GradientType=0 );
+            /* IE6-9 */
+            border: 1px solid #cf0404; }
+        html body #container > aside h3 {
+          font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+          color: #3574ac;
+          font-size: 20px;
+          text-transform: uppercase; }
+        html body #container > aside#course_search_critera {
+          border: 1px solid #d6d0d0;
+          background: #f7f7f7; }
+        html body #container > aside#secondary_navigation ul li a {
+          background: #417cb1;
+          /* Old browsers */
+          background: -moz-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+          /* FF3.6+ */
+          background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #417cb1), color-stop(100%, #417cb1));
+          /* Chrome,Safari4+ */
+          background: -webkit-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+          /* Chrome10+,Safari5.1+ */
+          background: -o-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+          /* Opera11.10+ */
+          background: -ms-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+          /* IE10+ */
+          filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#417cb1', endColorstr='#417cb1',GradientType=0 );
+          /* IE6-9 */
+          background: linear-gradient(top, #417cb1 0%, #417cb1 100%);
+          /* W3C */
+          -moz-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25);
+          -webkit-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25);
+          border: 1px solid #3574ac;
+          display: block;
+          color: #FFF;
+          font-size: 12px;
+          padding: 10px;
+          margin-bottom: 10px;
+          text-decoration: none;
+          text-transform: uppercase; }
+        html body #container > aside.banners {
+          width: 380px; }
+          html body #container > aside.banners ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0; }
+            html body #container > aside.banners ul li {
+              margin: 0 0 20px 0; }
+              html body #container > aside.banners ul li a {
+                background: #d6d0d0;
+                display: block;
+                height: 125px; }
+                html body #container > aside.banners ul li a img {
+                  border: 1px solid #d6d0d0; }
+      html body #container form select {
+        border: 1px solid #CECECE;
+        padding: 10px;
+        margin-bottom: 20px; }
+      html body #container form .submit_button {
+        background: #417cb1;
+        /* Old browsers */
+        background: -moz-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+        /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #417cb1), color-stop(100%, #417cb1));
+        /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+        /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+        /* Opera11.10+ */
+        background: -ms-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+        /* IE10+ */
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#417cb1', endColorstr='#417cb1',GradientType=0 );
+        /* IE6-9 */
+        background: linear-gradient(top, #417cb1 0%, #417cb1 100%);
+        /* W3C */
+        -moz-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25);
+        -webkit-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25);
+        border: 1px solid #3574ac;
+        color: #FFF;
+        font-size: 14px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-transform: uppercase; }
+      html body #container > footer {
+        zoom: 1;
+        border-top: 1px solid  #5e5e5e;
+        background: #e9e9e9 url(/extension/dcpro/design/dcpro/images/footer_background.png) 0 0 no-repeat;
+        padding: 25px 15px;
+        color: #FFF;
+        font-size: 11px; }
+        html body #container > footer:before, html body #container > footer:after {
+          content: "";
+          display: table; }
+        html body #container > footer:after {
+          clear: both; }
+        html body #container > footer #copyright {
+          width: 940px;
+          zoom: 1;
+          font-size: 10px;
+          color: #000; }
+          html body #container > footer #copyright:before, html body #container > footer #copyright:after {
+            content: "";
+            display: table; }
+          html body #container > footer #copyright:after {
+            clear: both; }
+        html body #container > footer section {
+          float: left;
+          margin: 0 8px;
+          padding-bottom: 10px;
+          font-size: 11px;
+          color: #FFF; }
+          html body #container > footer section:first-child {
+            margin-left: 0; }
+          html body #container > footer section:last-child {
+            margin-right: 0; }
+          html body #container > footer section h4 {
+            font-size: 14px;
+            color: #444141;
+            margin-bottom: 5px;
+            text-transform: uppercase; }
+          html body #container > footer section a {
+            text-decoration: none;
+            color: #3574ac; }
+          html body #container > footer section nav ul li a {
+            display: block;
+            padding: 3px 0; }
+
+html body.individuals #container #course_search_critera,
+html body.corporate #container #course_search_critera,
+html body.prospectus #container #course_search_critera,
+html body.about-us #container #course_search_critera,
+html body.courses #container #course_search_critera,
+html body.course #container #course_search_critera,
+html body.search #container #course_search_critera {
+  width: 940px;
+  padding: 20px;
+  width: 900px; }
+  html body.individuals #container #course_search_critera form select,
+  html body.corporate #container #course_search_critera form select,
+  html body.prospectus #container #course_search_critera form select,
+  html body.about-us #container #course_search_critera form select,
+  html body.courses #container #course_search_critera form select,
+  html body.course #container #course_search_critera form select,
+  html body.search #container #course_search_critera form select {
+    margin: 5px 5px 0 0;
+    width: 230px; }
+html body.individuals #container #secondary_navigation,
+html body.corporate #container #secondary_navigation,
+html body.prospectus #container #secondary_navigation,
+html body.about-us #container #secondary_navigation,
+html body.courses #container #secondary_navigation,
+html body.course #container #secondary_navigation,
+html body.search #container #secondary_navigation {
+  width: 300px; }
+html body.individuals #container .banners,
+html body.corporate #container .banners,
+html body.prospectus #container .banners,
+html body.about-us #container .banners,
+html body.courses #container .banners,
+html body.course #container .banners,
+html body.search #container .banners {
+  width: 300px; }
+html body.individuals #container #main,
+html body.corporate #container #main,
+html body.prospectus #container #main,
+html body.about-us #container #main,
+html body.courses #container #main,
+html body.course #container #main,
+html body.search #container #main {
+  width: 620px;
+  float: right; }
+  html body.individuals #container #main #content,
+  html body.corporate #container #main #content,
+  html body.prospectus #container #main #content,
+  html body.about-us #container #main #content,
+  html body.courses #container #main #content,
+  html body.course #container #main #content,
+  html body.search #container #main #content {
+    min-height: 480px; }
+    html body.individuals #container #main #content ul.short,
+    html body.corporate #container #main #content ul.short,
+    html body.prospectus #container #main #content ul.short,
+    html body.about-us #container #main #content ul.short,
+    html body.courses #container #main #content ul.short,
+    html body.course #container #main #content ul.short,
+    html body.search #container #main #content ul.short {
+      margin: 0 30px;
+      padding: 0; }
+      html body.individuals #container #main #content ul.short li,
+      html body.corporate #container #main #content ul.short li,
+      html body.prospectus #container #main #content ul.short li,
+      html body.about-us #container #main #content ul.short li,
+      html body.courses #container #main #content ul.short li,
+      html body.course #container #main #content ul.short li,
+      html body.search #container #main #content ul.short li {
+        margin: 0 0 5px;
+        padding: 0; }
+        html body.individuals #container #main #content ul.short li p, html body.individuals #container #main #content ul.short li a,
+        html body.corporate #container #main #content ul.short li p,
+        html body.corporate #container #main #content ul.short li a,
+        html body.prospectus #container #main #content ul.short li p,
+        html body.prospectus #container #main #content ul.short li a,
+        html body.about-us #container #main #content ul.short li p,
+        html body.about-us #container #main #content ul.short li a,
+        html body.courses #container #main #content ul.short li p,
+        html body.courses #container #main #content ul.short li a,
+        html body.course #container #main #content ul.short li p,
+        html body.course #container #main #content ul.short li a,
+        html body.search #container #main #content ul.short li p,
+        html body.search #container #main #content ul.short li a {
+          margin: 0;
+          display: block; }
+    html body.individuals #container #main #content .faq_question,
+    html body.corporate #container #main #content .faq_question,
+    html body.prospectus #container #main #content .faq_question,
+    html body.about-us #container #main #content .faq_question,
+    html body.courses #container #main #content .faq_question,
+    html body.course #container #main #content .faq_question,
+    html body.search #container #main #content .faq_question {
+      border-bottom: 1px solid #d6d0d0;
+      margin: 20px;
+      padding-bottom: 10px; }
+      html body.individuals #container #main #content .faq_question header h4,
+      html body.corporate #container #main #content .faq_question header h4,
+      html body.prospectus #container #main #content .faq_question header h4,
+      html body.about-us #container #main #content .faq_question header h4,
+      html body.courses #container #main #content .faq_question header h4,
+      html body.course #container #main #content .faq_question header h4,
+      html body.search #container #main #content .faq_question header h4 {
+        font-style: bold;
+        margin-bottom: 10px;
+        display: block; }
+        html body.individuals #container #main #content .faq_question header h4 p,
+        html body.corporate #container #main #content .faq_question header h4 p,
+        html body.prospectus #container #main #content .faq_question header h4 p,
+        html body.about-us #container #main #content .faq_question header h4 p,
+        html body.courses #container #main #content .faq_question header h4 p,
+        html body.course #container #main #content .faq_question header h4 p,
+        html body.search #container #main #content .faq_question header h4 p {
+          display: block; }
+      html body.individuals #container #main #content .faq_question p,
+      html body.corporate #container #main #content .faq_question p,
+      html body.prospectus #container #main #content .faq_question p,
+      html body.about-us #container #main #content .faq_question p,
+      html body.courses #container #main #content .faq_question p,
+      html body.course #container #main #content .faq_question p,
+      html body.search #container #main #content .faq_question p {
+        margin-bottom: 10px; }
+    html body.individuals #container #main #content .faq_question_open,
+    html body.corporate #container #main #content .faq_question_open,
+    html body.prospectus #container #main #content .faq_question_open,
+    html body.about-us #container #main #content .faq_question_open,
+    html body.courses #container #main #content .faq_question_open,
+    html body.course #container #main #content .faq_question_open,
+    html body.search #container #main #content .faq_question_open {
+      background: transparent url(/extension/dcpro/design/dcpro/images/faq_arrow_open.png) 100% 50% no-repeat; }
+    html body.individuals #container #main #content .download_list,
+    html body.corporate #container #main #content .download_list,
+    html body.prospectus #container #main #content .download_list,
+    html body.about-us #container #main #content .download_list,
+    html body.courses #container #main #content .download_list,
+    html body.course #container #main #content .download_list,
+    html body.search #container #main #content .download_list {
+      zoom: 1;
+      margin: 20px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #d6d0d0; }
+      html body.individuals #container #main #content .download_list:before, html body.individuals #container #main #content .download_list:after,
+      html body.corporate #container #main #content .download_list:before,
+      html body.corporate #container #main #content .download_list:after,
+      html body.prospectus #container #main #content .download_list:before,
+      html body.prospectus #container #main #content .download_list:after,
+      html body.about-us #container #main #content .download_list:before,
+      html body.about-us #container #main #content .download_list:after,
+      html body.courses #container #main #content .download_list:before,
+      html body.courses #container #main #content .download_list:after,
+      html body.course #container #main #content .download_list:before,
+      html body.course #container #main #content .download_list:after,
+      html body.search #container #main #content .download_list:before,
+      html body.search #container #main #content .download_list:after {
+        content: "";
+        display: table; }
+      html body.individuals #container #main #content .download_list:after,
+      html body.corporate #container #main #content .download_list:after,
+      html body.prospectus #container #main #content .download_list:after,
+      html body.about-us #container #main #content .download_list:after,
+      html body.courses #container #main #content .download_list:after,
+      html body.course #container #main #content .download_list:after,
+      html body.search #container #main #content .download_list:after {
+        clear: both; }
+      html body.individuals #container #main #content .download_list:last-child,
+      html body.corporate #container #main #content .download_list:last-child,
+      html body.prospectus #container #main #content .download_list:last-child,
+      html body.about-us #container #main #content .download_list:last-child,
+      html body.courses #container #main #content .download_list:last-child,
+      html body.course #container #main #content .download_list:last-child,
+      html body.search #container #main #content .download_list:last-child {
+        border-bottom: 0; }
+      html body.individuals #container #main #content .download_list header h4,
+      html body.corporate #container #main #content .download_list header h4,
+      html body.prospectus #container #main #content .download_list header h4,
+      html body.about-us #container #main #content .download_list header h4,
+      html body.courses #container #main #content .download_list header h4,
+      html body.course #container #main #content .download_list header h4,
+      html body.search #container #main #content .download_list header h4 {
+        margin-bottom: 5px; }
+        html body.individuals #container #main #content .download_list header h4 span,
+        html body.corporate #container #main #content .download_list header h4 span,
+        html body.prospectus #container #main #content .download_list header h4 span,
+        html body.about-us #container #main #content .download_list header h4 span,
+        html body.courses #container #main #content .download_list header h4 span,
+        html body.course #container #main #content .download_list header h4 span,
+        html body.search #container #main #content .download_list header h4 span {
+          font-weight: normal;
+          font-size: 10px; }
+      html body.individuals #container #main #content .download_list a.button,
+      html body.corporate #container #main #content .download_list a.button,
+      html body.prospectus #container #main #content .download_list a.button,
+      html body.about-us #container #main #content .download_list a.button,
+      html body.courses #container #main #content .download_list a.button,
+      html body.course #container #main #content .download_list a.button,
+      html body.search #container #main #content .download_list a.button {
+        float: right; }
+
+html body.about-us #container #main #content {
+  min-height: 568px; }
+  html body.about-us #container #main #content #person_listing {
+    zoom: 1; }
+    html body.about-us #container #main #content #person_listing:before, html body.about-us #container #main #content #person_listing:after {
+      content: "";
+      display: table; }
+    html body.about-us #container #main #content #person_listing:after {
+      clear: both; }
+    html body.about-us #container #main #content #person_listing article {
+      zoom: 1;
+      margin: 0 10px 15px 10px; }
+      html body.about-us #container #main #content #person_listing article:before, html body.about-us #container #main #content #person_listing article:after {
+        content: "";
+        display: table; }
+      html body.about-us #container #main #content #person_listing article:after {
+        clear: both; }
+      html body.about-us #container #main #content #person_listing article section {
+        zoom: 1;
+        min-height: 300px; }
+        html body.about-us #container #main #content #person_listing article section:before, html body.about-us #container #main #content #person_listing article section:after {
+          content: "";
+          display: table; }
+        html body.about-us #container #main #content #person_listing article section:after {
+          clear: both; }
+        html body.about-us #container #main #content #person_listing article section .avatar {
+          float: left;
+          width: 108px;
+          margin-right: 20px; }
+          html body.about-us #container #main #content #person_listing article section .avatar img {
+            border: 2px solid #417cb1; }
+        html body.about-us #container #main #content #person_listing article section .meta {
+          float: left;
+          width: 450px; }
+          html body.about-us #container #main #content #person_listing article section .meta .title {
+            margin-bottom: 5px; }
+          html body.about-us #container #main #content #person_listing article section .meta p {
+            font-size: 12px; }
+html body.courses #container #main #content {
+  min-height: 568px; }
+  html body.courses #container #main #content #person_listing {
+    zoom: 1; }
+    html body.courses #container #main #content #person_listing:before, html body.courses #container #main #content #person_listing:after {
+      content: "";
+      display: table; }
+    html body.courses #container #main #content #person_listing:after {
+      clear: both; }
+    html body.courses #container #main #content #person_listing article {
+      zoom: 1;
+      margin: 0 10px 15px 10px;
+      float: left; }
+      html body.courses #container #main #content #person_listing article:before, html body.courses #container #main #content #person_listing article:after {
+        content: "";
+        display: table; }
+      html body.courses #container #main #content #person_listing article:after {
+        clear: both; }
+      html body.courses #container #main #content #person_listing article .avatar {
+        float: left;
+        width: 75px;
+        margin-right: 20px; }
+        html body.courses #container #main #content #person_listing article .avatar img {
+          border: 2px solid #417cb1;
+          width: 75px;
+          height: 90px;
+          display: block; }
+      html body.courses #container #main #content #person_listing article .meta {
+        float: left;
+        width: 180px; }
+        html body.courses #container #main #content #person_listing article .meta .title {
+          margin-bottom: 5px;
+          font-size: 11px; }
+        html body.courses #container #main #content #person_listing article .meta p {
+          font-size: 12px; }
+    html body.courses #container #main #content #person_listing article.wide .title {
+      font-size: 12px; }
+    html body.courses #container #main #content #person_listing article.wide .meta {
+      width: 480px; }
+
+html body.professional-development #container #course_search_critera {
+  width: 940px;
+  padding: 20px;
+  width: 900px; }
+  html body.professional-development #container #course_search_critera form select {
+    margin-bottom: 0; }
+html body.professional-development #container #secondary_navigation {
+  width: 300px; }
+html body.professional-development #container .banners {
+  width: 300px; }
+html body.professional-development #container #main {
+  width: 620px;
+  float: right; }
+  html body.professional-development #container #main #content {
+    min-height: 625px; }
+
+html body#index #classroom_courses,
+html body#index #online_courses,
+html body#index #ashray_courses {
+  display: none; }
+html body#index #main {
+  width: 540px; }
+  html body#index #main #content_brief {
+    margin-bottom: 20px; }
+    html body#index #main #content_brief .slides_container {
+      border: 1px solid #3574ac;
+      border-bottom: 0; }
+      html body#index #main #content_brief .slides_container article {
+        background: transparent url(http://dummyimage.com/540x260/fff/cecece) 0 0 no-repeat;
+        width: 540px;
+        height: 260px;
+        display: block;
+        position: relative; }
+        html body#index #main #content_brief .slides_container article a.meta {
+          position: absolute;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          padding: 10px 10px;
+          background: rgba(0, 0, 0, 0.6);
+          color: #FFF;
+          display: block;
+          text-decoration: none; }
+          html body#index #main #content_brief .slides_container article a.meta h3 {
+            margin-bottom: 3px;
+            font-size: 18px; }
+          html body#index #main #content_brief .slides_container article a.meta p {
+            font-size: 13px;
+            line-height: 1.4; }
+    html body#index #main #content_brief #pagination_wrapper {
+      background: #417cb1;
+      /* Old browsers */
+      background: -moz-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #417cb1), color-stop(100%, #417cb1));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+      /* Chrome10+,Safari5.1+ */
+      background: -o-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+      /* Opera11.10+ */
+      background: -ms-linear-gradient(top, #417cb1 0%, #417cb1 100%);
+      /* IE10+ */
+      filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#417cb1', endColorstr='#417cb1',GradientType=0 );
+      /* IE6-9 */
+      background: linear-gradient(top, #417cb1 0%, #417cb1 100%);
+      /* W3C */
+      -moz-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25);
+      -webkit-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25);
+      border: 1px solid #3574ac;
+      zoom: 1;
+      border: 1px solid #3574ac;
+      border-top: 0; }
+      html body#index #main #content_brief #pagination_wrapper:before, html body#index #main #content_brief #pagination_wrapper:after {
+        content: "";
+        display: table; }
+      html body#index #main #content_brief #pagination_wrapper:after {
+        clear: both; }
+      html body#index #main #content_brief #pagination_wrapper ul.pagination {
+        zoom: 1;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        float: right; }
+        html body#index #main #content_brief #pagination_wrapper ul.pagination:before, html body#index #main #content_brief #pagination_wrapper ul.pagination:after {
+          content: "";
+          display: table; }
+        html body#index #main #content_brief #pagination_wrapper ul.pagination:after {
+          clear: both; }
+        html body#index #main #content_brief #pagination_wrapper ul.pagination li {
+          margin: 0;
+          padding: 0;
+          float: left; }
+          html body#index #main #content_brief #pagination_wrapper ul.pagination li a {
+            display: block;
+            background: #f1624c;
+            width: 14px;
+            height: 14px;
+            text-indent: -5000px;
+            margin: 5px 5px 4px; }
+          html body#index #main #content_brief #pagination_wrapper ul.pagination li.current a {
+            background: #FFF; }
+          html body#index #main #content_brief #pagination_wrapper ul.pagination li a {
+            outline: none; }
+  html body#index #main #content {
+    min-height: 413px; }
+    html body#index #main #content nav {
+      margin-bottom: 10px; }
+      html body#index #main #content nav ul li {
+        border-top: 0; }
+        html body#index #main #content nav ul li:first-child {
+          border-left: 0; }
+        html body#index #main #content nav ul li:last-child {
+          border-right: 0; }
+        html body#index #main #content nav ul li.selected {
+          border-top: 0; }
+        html body#index #main #content nav ul li a {
+          text-decoration: none; }
+html body#index #course_search_critera {
+  width: 380px;
+  padding: 15px;
+  width: 348px; }
+  html body#index #course_search_critera h3 {
+    margin-bottom: 20px; }
+  html body#index #course_search_critera form select {
+    width: 345px; }
+  html body#index #course_search_critera form .submit_button {
+    width: 345px; }
+
+html body.courses #container #main #content .course_key,
+html body.search #container #main #content .course_key {
+  zoom: 1;
+  margin: 20px; }
+  html body.courses #container #main #content .course_key:before, html body.courses #container #main #content .course_key:after,
+  html body.search #container #main #content .course_key:before,
+  html body.search #container #main #content .course_key:after {
+    content: "";
+    display: table; }
+  html body.courses #container #main #content .course_key:after,
+  html body.search #container #main #content .course_key:after {
+    clear: both; }
+  html body.courses #container #main #content .course_key ul,
+  html body.search #container #main #content .course_key ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none; }
+    html body.courses #container #main #content .course_key ul li,
+    html body.search #container #main #content .course_key ul li {
+      margin: 0;
+      float: left;
+      width: 280px;
+      margin-bottom: 10px; }
+      html body.courses #container #main #content .course_key ul li img,
+      html body.search #container #main #content .course_key ul li img {
+        vertical-align: middle; }
+html body.courses #container #main #content .course_list,
+html body.search #container #main #content .course_list {
+  zoom: 1;
+  margin: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #d6d0d0; }
+  html body.courses #container #main #content .course_list:before, html body.courses #container #main #content .course_list:after,
+  html body.search #container #main #content .course_list:before,
+  html body.search #container #main #content .course_list:after {
+    content: "";
+    display: table; }
+  html body.courses #container #main #content .course_list:after,
+  html body.search #container #main #content .course_list:after {
+    clear: both; }
+  html body.courses #container #main #content .course_list:last-child,
+  html body.search #container #main #content .course_list:last-child {
+    border-bottom: 0; }
+  html body.courses #container #main #content .course_list header h4,
+  html body.search #container #main #content .course_list header h4 {
+    font-size: 14px;
+    margin-bottom: 5px; }
+  html body.courses #container #main #content .course_list p,
+  html body.search #container #main #content .course_list p {
+    font-size: 12px; }
+  html body.courses #container #main #content .course_list table,
+  html body.search #container #main #content .course_list table {
+    float: left;
+    width: 300px; }
+    html body.courses #container #main #content .course_list table tr td,
+    html body.search #container #main #content .course_list table tr td {
+      font-size: 11px; }
+      html body.courses #container #main #content .course_list table tr td.title,
+      html body.search #container #main #content .course_list table tr td.title {
+        font-weight: bold;
+        width: 82px; }
+      html body.courses #container #main #content .course_list table tr td div,
+      html body.search #container #main #content .course_list table tr td div {
+        float: left; }
+  html body.courses #container #main #content .course_list a.button,
+  html body.search #container #main #content .course_list a.button {
+    float: right; }
+
+html body.course #container #main {
+  float: left; }
+  html body.course #container #main #content #course_meta {
+    margin: 0 20px;
+    padding: 0;
+    list-style-type: none; }
+    html body.course #container #main #content #course_meta li {
+      zoom: 1;
+      border-bottom: 1px solid black;
+      padding: 5px 0; }
+      html body.course #container #main #content #course_meta li:before, html body.course #container #main #content #course_meta li:after {
+        content: "";
+        display: table; }
+      html body.course #container #main #content #course_meta li:after {
+        clear: both; }
+      html body.course #container #main #content #course_meta li span {
+        font-weight: bold;
+        float: left;
+        width: 100px;
+        text-align: right;
+        margin-right: 10px; }
+      html body.course #container #main #content #course_meta li a.button {
+        float: left;
+        width: 445px; }
+      html body.course #container #main #content #course_meta li ul {
+        float: left;
+        margin: 0;
+        padding: 0;
+        list-style-type: none; }
+        html body.course #container #main #content #course_meta li ul li {
+          border-bottom: 0;
+          padding: 0;
+          margin: 0; }
+      html body.course #container #main #content #course_meta li table {
+        zoom: 1;
+        width: 465px;
+        float: left; }
+        html body.course #container #main #content #course_meta li table:before, html body.course #container #main #content #course_meta li table:after {
+          content: "";
+          display: table; }
+        html body.course #container #main #content #course_meta li table:after {
+          clear: both; }
+  html body.course #container #main #content h3 {
+    margin: 10px 20px; }
+  html body.course #container #main #content p {
+    margin: 10px 20px 0; }
+  html body.course #container #main #content ol li {
+    border-bottom: 1px solid white;
+    margin-left: 15px; }
+  html body.course #container #main #content #course_outline ol li {
+    margin-right: 20px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px  dotted #000; }
+html body.course #container #book_now a.button {
+  margin: 0 10px;
+  width: 278px; }
+html body.course #container #factsheet {
+  width: 300px;
+  zoom: 1;
+  border: 1px solid #D6D0D0;
+  background: #F7F7F7;
+  float: right;
+  padding: 20px;
+  width: 258px; }
+  html body.course #container #factsheet:before, html body.course #container #factsheet:after {
+    content: "";
+    display: table; }
+  html body.course #container #factsheet:after {
+    clear: both; }
+  html body.course #container #factsheet h3 {
+    color: #000;
+    font-size: 14px;
+    text-transform: none;
+    margin-bottom: 10px; }
+  html body.course #container #factsheet h4 {
+    color: #000;
+    font-size: 12px;
+    margin: 10px 0; }
+  html body.course #container #factsheet ul {
+    padding: 0;
+    margin: 0; }
+    html body.course #container #factsheet ul li {
+      padding: 0;
+      margin-left: 15px; }
+  html body.course #container #factsheet #who_should_attend ul,
+  html body.course #container #factsheet #minimum_requirements ul {
+    margin-top: 10px; }
+    html body.course #container #factsheet #who_should_attend ul li,
+    html body.course #container #factsheet #minimum_requirements ul li {
+      margin-bottom: 10px; }
+  html body.course #container #factsheet #accreditations a {
+    display: block;
+    float: left;
+    width: 124px;
+    margin: 2px; }
+    html body.course #container #factsheet #accreditations a img {
+      display: block;
+      border: 0;
+      max-width: 124px; }
+
+html body.accreditations #container #main #content ul,
+html body.partner-organisations #container #main #content ul {
+  list-style-type: none; }
+  html body.accreditations #container #main #content ul li,
+  html body.partner-organisations #container #main #content ul li {
+    zoom: 1;
+    margin-bottom: 10px; }
+    html body.accreditations #container #main #content ul li:before, html body.accreditations #container #main #content ul li:after,
+    html body.partner-organisations #container #main #content ul li:before,
+    html body.partner-organisations #container #main #content ul li:after {
+      content: "";
+      display: table; }
+    html body.accreditations #container #main #content ul li:after,
+    html body.partner-organisations #container #main #content ul li:after {
+      clear: both; }
+    html body.accreditations #container #main #content ul li .accreditation_logo,
+    html body.partner-organisations #container #main #content ul li .accreditation_logo {
+      float: left;
+      width: 150px; }
+      html body.accreditations #container #main #content ul li .accreditation_logo img,
+      html body.partner-organisations #container #main #content ul li .accreditation_logo img {
+        border: 0;
+        width: 140px; }
+    html body.accreditations #container #main #content ul li .accreditation_content,
+    html body.partner-organisations #container #main #content ul li .accreditation_content {
+      float: left;
+      width: 415px; }
+      html body.accreditations #container #main #content ul li .accreditation_content p,
+      html body.partner-organisations #container #main #content ul li .accreditation_content p {
+        margin: 5px 0; }
+      html body.accreditations #container #main #content ul li .accreditation_content .accreditation_url,
+      html body.partner-organisations #container #main #content ul li .accreditation_content .accreditation_url {
+        display: block;
+        text-align: right;
+        margin-bottom: 10px; }
+
+html body#career-progression-framework #container h2 {
+  color: #3574ac;
+  font-family: "Helvetica Neue",Arial,Helvetica,sans-serif;
+  font-size: 16px;
+  margin-bottom: 20px;
+  padding: 0 15px; }
+html body#career-progression-framework #container #cpf {
+  padding: 0 15px; }
+  html body#career-progression-framework #container #cpf .cpf_level {
+    zoom: 1;
+    border-top: 2px solid #0E6633;
+    padding: 20px; }
+    html body#career-progression-framework #container #cpf .cpf_level:before, html body#career-progression-framework #container #cpf .cpf_level:after {
+      content: "";
+      display: table; }
+    html body#career-progression-framework #container #cpf .cpf_level:after {
+      clear: both; }
+    html body#career-progression-framework #container #cpf .cpf_level label {
+      text-transform: uppercase;
+      font-size: 14px;
+      color: #0E6633;
+      font-weight: bold; }
+    html body#career-progression-framework #container #cpf .cpf_level .courses {
+      float: right;
+      width: 800px;
+      color: #009442;
+      border-color: #009441; }
+      html body#career-progression-framework #container #cpf .cpf_level .courses .course {
+        width: 250px;
+        float: left;
+        margin: 5px;
+        border: 2px solid;
+        background: #FFF; }
+        html body#career-progression-framework #container #cpf .cpf_level .courses .course .meta {
+          float: left;
+          width: 210px;
+          border-right: 1px solid;
+          min-height: 75px;
+          padding: 5px; }
+          html body#career-progression-framework #container #cpf .cpf_level .courses .course .meta h4 a {
+            text-decoration: none;
+            color: #009442; }
+        html body#career-progression-framework #container #cpf .cpf_level .courses .course .icons {
+          float: right;
+          width: 25px;
+          text-align: center;
+          padding-top: 5px; }
+          html body#career-progression-framework #container #cpf .cpf_level .courses .course .icons .pdhs {
+            background: transparent url(/img/cpf_pdh.png) 50% 50%;
+            width: 22px;
+            height: 22px;
+            text-align: center;
+            line-height: 2.4;
+            font-size: 10px;
+            margin-bottom: 5px; }
+          html body#career-progression-framework #container #cpf .cpf_level .courses .course .icons .qualification {
+            width: 22px;
+            height: 22px;
+            background: transparent url(/img/cpf_qualification.png) 0 0 no-repeat; }
+          html body#career-progression-framework #container #cpf .cpf_level .courses .course .icons .exam {
+            width: 22px;
+            height: 22px;
+            background: transparent url(/img/cpf_exam.png) 0 0 no-repeat;
+            margin-bottom: 5px; }
+        html body#career-progression-framework #container #cpf .cpf_level .courses .course.futher_courses_in_development {
+          border-color: #e4e4e5;
+          color: #a7a9ab; }
+          html body#career-progression-framework #container #cpf .cpf_level .courses .course.futher_courses_in_development .meta {
+            border-color: #e4e4e5; }
+            html body#career-progression-framework #container #cpf .cpf_level .courses .course.futher_courses_in_development .meta h4 a {
+              color: #a7a9ab; }
+          html body#career-progression-framework #container #cpf .cpf_level .courses .course.futher_courses_in_development .icons .pdhs {
+            background: transparent url(/img/cpf_pdh_inactive.png) 50% 50%;
+            color: #FFF; }
+          html body#career-progression-framework #container #cpf .cpf_level .courses .course.futher_courses_in_development .icons .exam {
+            background: transparent url(/img/cpf_exam_inactive.png) 50% 50%; }
+          html body#career-progression-framework #container #cpf .cpf_level .courses .course.futher_courses_in_development .icons .qualification {
+            background: transparent url(/img/cpf_qualification_inactive.png) 50% 50%; }
+        html body#career-progression-framework #container #cpf .cpf_level .courses .course.third_party {
+          border-color: #123a66;
+          color: #113b67; }
+          html body#career-progression-framework #container #cpf .cpf_level .courses .course.third_party .meta {
+            border-color: #123a66; }
+            html body#career-progression-framework #container #cpf .cpf_level .courses .course.third_party .meta h4 a {
+              color: #113b67; }
+          html body#career-progression-framework #container #cpf .cpf_level .courses .course.third_party .icons .pdhs {
+            background: transparent url(/img/cpf_pdh_3rdparty.png) 50% 50%;
+            color: #FFF; }
+          html body#career-progression-framework #container #cpf .cpf_level .courses .course.third_party .icons .exam {
+            background: transparent url(/img/cpf_exam_3rdparty.png) 50% 50%; }
+          html body#career-progression-framework #container #cpf .cpf_level .courses .course.third_party .icons .qualification {
+            background: transparent url(/img/cpf_qualification_3rdparty.png) 50% 50%; }
+  html body#career-progression-framework #container #cpf #cpf_level_3 {
+    border-top: 4px solid #0E6633; }
+
+html body.schedule #content article table {
+  margin: 10px;
+  width: 590px;
+  border: 1px solid #ddd; }
+  html body.schedule #content article table tbody tr:nth-child(odd) td {
+    background-color: #f9f9f9; }
+  html body.schedule #content article table tbody tr:hover td {
+    background-color: #f5f5f5; }
+  html body.schedule #content article table th, html body.schedule #content article table td {
+    padding: 10px 10px 9px;
+    line-height: 1;
+    text-align: left; }
+  html body.schedule #content article table th {
+    padding-top: 9px;
+    font-weight: bold;
+    vertical-align: middle;
+    border-bottom: 1px solid #ddd;
+    font-size: 12px; }
+  html body.schedule #content article table td {
+    vertical-align: top;
+    font-size: 11px; }
+  html body.schedule #content article table th + th,
+  html body.schedule #content article table td + td {
+    border-left: 1px solid #ddd; }
+  html body.schedule #content article table tr + tr td {
+    border-top: 1px solid #ddd; }
+ 
+html body#courses #content article p {
+  margin: 0 20px;
+  font-size: 12px; }
+html body.calendar #content article table {
+  margin: 10px;
+  width: 590px;
+  border: 1px solid #ddd; }
+  html body.calendar #content article table tbody tr:nth-child(odd) td {
+    background-color: #f9f9f9; }
+  html body.calendar #content article table tbody tr:hover td {
+    background-color: #f5f5f5; }
+  html body.calendar #content article table th, html body.calendar #content article table td {
+    padding: 10px 10px 9px;
+    line-height: 1;
+    text-align: left; }
+  html body.calendar #content article table th {
+    padding-top: 9px;
+    font-weight: bold;
+    vertical-align: middle;
+    border-bottom: 1px solid #ddd;
+    font-size: 12px; }
+  html body.calendar #content article table td {
+    vertical-align: top;
+    font-size: 11px; }
+  html body.calendar #content article table th + th,
+  html body.calendar #content article table td + td {
+    border-left: 1px solid #ddd; }
+  html body.calendar #content article table tr + tr td {
+    border-top: 1px solid #ddd; }
+  html body.calendar #content article table tbody tr:first-child td:first-child {
+    width: 450px; }
+
+
+/**
+ * Non-semantic helper classes: please define your styles before this section.
+ */
+/* For image replacement */
+.ir {
+  display: block;
+  text-indent: -999em;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  text-align: left;
+  direction: ltr; }
+
+.ir br {
+  display: none; }
+
+/* Hide for both screenreaders and browsers:
+   css-discuss.incutio.com/wiki/Screenreader_Visibility */
+.hidden {
+  display: none;
+  visibility: hidden; }
+
+/* Hide only visually, but have it available for screenreaders: by Jon Neal.
+  www.webaim.org/techniques/css/invisiblecontent/  &  j.mp/visuallyhidden */
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px; }
+
+/* Extends the .visuallyhidden class to allow the element to be focusable when navigated to via the keyboard: drupal.org/node/897638 */
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto; }
+
+/* Hide visually and from screenreaders, but maintain layout */
+.invisible {
+  visibility: hidden; }
+
+/* The Magnificent Clearfix: Updated to prevent margin-collapsing on child elements in most situations.
+   nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before, .clearfix:after {
+  content: "";
+  display: table; }
+
+.clearfix:after {
+  clear: both; }
+
+.clearfix {
+  zoom: 1; }
+
+/**
+ * Print styles.
+ *
+ * Inlined to avoid required HTTP connection: www.phpied.com/delay-loading-your-print-css/
+ */
+@media print {
+  * {
+    background: transparent !important;
+    color: black !important;
+    filter: none !important;
+    -ms-filter: none !important; }
+
+  /* Black prints faster: sanbeiji.com/archives/953 */
+  a, a:visited {
+    color: #444 !important;
+    text-decoration: underline; }
+
+  a[href]:after {
+    content: " (" attr(href) ")"; }
+
+  abbr[title]:after {
+    content: " (" attr(title) ")"; }
+
+  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after {
+    content: ""; }
+
+  /* Don't show links for images, or javascript/internal links */
+  pre, blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid; }
+
+  thead {
+    display: table-header-group; }
+
+  /* css-discuss.incutio.com/wiki/Printing_Tables */
+  tr, img {
+    page-break-inside: avoid; }
+
+  img {
+    max-width: 100% !important; }
+
+  @page {
+    margin: 0.5cm; }
+
+  p, h2, h3 {
+    orphans: 3;
+    widows: 3; }
+
+  h2, h3 {
+    page-break-after: avoid; } }
+
+  i.icon {
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 16px;
+    width: 16px;
+  }
+    i.icon.iconeg {
+        background-image: url("/extension/dcpro/design/dcpro/images/design/neg.png");
+    }
+    i.icon.icopos {
+        background-image: url("/extension/dcpro/design/dcpro/images/design/pos.png");
+    }
+
+#loading {
+    font-family: Lucida Grande, Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #333;
+}
+
+#loading span {
+    display: block;
+    margin: 0 auto;
+}
+
+#loading span[class*="l-"] {
+    display: inline-block;
+    background: #000;
+    width: 4px;
+    height: 4px;
+
+    -webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius: 100%;
+
+    margin: 12px 2px;
+    position: relative;
+
+    -webkit-animation: loader 4s infinite;
+    -webkit-animation-timing-function: cubic-bezier(0.030, 0.615, 0.995, 0.415);
+    -webkit-animation-fill-mode: both;
+    -moz-animation: loader 4s infinite;
+    -moz-animation-timing-function: cubic-bezier(0.030, 0.615, 0.995, 0.415);
+    -moz-animation-fill-mode: both;
+    -ms-animation: loader 4s infinite;
+    -ms-animation-timing-function: cubic-bezier(0.030, 0.615, 0.995, 0.415);
+    -ms-animation-fill-mode: both;
+    animation: loader 4s infinite;
+    animation-timing-function: cubic-bezier(0.030, 0.615, 0.995, 0.415);
+    animation-fill-mode: both;
+}
+
+#loading span.l-1 { -webkit-animation-delay: 1s; -moz-animation-delay: 1s; -ms-animation-delay: 1s; animation-delay: 1s; }
+#loading span.l-2 { -webkit-animation-delay: 0.8s; -moz-animation-delay: 0.8s; -ms-animation-delay: 0.8s; animation-delay: 0.8s; }
+#loading span.l-3 { -webkit-animation-delay: 0.6s; -moz-animation-delay: 0.6s; -ms-animation-delay: 0.6s; animation-delay: 0.6s; }
+#loading span.l-4 { -webkit-animation-delay: 0.4s; -moz-animation-delay: 0.4s; -ms-animation-delay: 0.4s; animation-delay: 0.4s; }
+#loading span.l-5 { -webkit-animation-delay: 0.2s; -moz-animation-delay: 0.2s; -ms-animation-delay: 0.2s; animation-delay: 0.2s; }
+#loading span.l-6 { -webkit-animation-delay: 0s; -moz-animation-delay: 0s; -ms-animation-delay: 0s; animation-delay: 0s; }
+
+@-webkit-keyframes loader {
+    0% { -webkit-transform: translateX(-30px); opacity: 0; }
+    25% { opacity: 1; }
+    50% { -webkit-transform: translateX(30px); opacity: 0; }
+    100% { opacity: 0; }
+}
+@-moz-keyframes loader {
+    0% { -moz-transform: translateX(-30px); opacity: 0; }
+    25% { opacity: 1; }
+    50% { -moz-transform: translateX(30px); opacity: 0; }
+    100% { opacity: 0; }
+}
+@-ms-keyframes loader {
+    0% { -ms-transform: translateX(-30px); opacity: 0; }
+    25% { opacity: 1; }
+    50% { -ms-transform: translateX(30px); opacity: 0; }
+    100% { opacity: 0; }
+}
+@keyframes loader {
+    0% { transform: translateX(-30px); opacity: 0; }
+    25% { opacity: 1; }
+    50% { transform: translateX(30px); opacity: 0; }
+    100% { opacity: 0; }
+}
+
+
+
+.validationTip {
+    background: #111;
+    background: rgba(0,0,0,.8);
+    border-radius: .5em;
+    color: #fff;
+    display: block;
+    left: 1em;
+    padding: .3em 1em;
+    position: absolute;
+    white-space: nowrap;
+    z-index: 98;
+}
+
+.validationTip:before {
+    border: solid;
+    border-color: #111 transparent;
+    border-color: rgba(0,0,0,.8) transparent;
+    border-width: .4em .4em 0 .4em;
+    display: block;
+    position: absolute;
+    z-index: 99;
+    content: "";
+    position:relative;
+    left: -10px;
+    top: -5px;
+}
+
+div.errorBox {
+    display: none;
+    float: right;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(206, 206, 206);
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    width: 320px;
+    olor: rgb(255, 0, 0);
+    text-align:left;
+}
+
+div.errorBox.alert-info {
+    background-color: rgb(217, 237, 247);
+    color: rgb(58, 135, 173);
+    padding: 8px 35px 8px 14px;
+    border: 1px solid rgb(188, 232, 241);
+}
+
+/**
+* DCP Custom CSS
+*
+* @author Hartley Jean-Aimee <hartley@dc-professional.com>
+* @since  2012-02-02
+*
+*/
+
+/* Admin Panel CSS */
+html #container #main #content tr.course_listing {
+    font-size: 15px;
+}
+
+.course_links {
+    width: 70%;
+    padding: 5px 0 5px 0px;
+    font-size: 13px !important;
+    font-weight: bold !important;
+}
+
+.course_code {
+    width: 15%;
+    padding: 5px 0 5px 30px;
+    font-size: 13px !important;
+    font-weight: bold !important;
+    color: #183B66;
+}
+
+article table.event_calendar {
+  margin: 10px;
+  width: 590px;
+  border: 1px solid #ddd; }
+  article table.event_calendar tbody tr:nth-child(odd) td {
+    background-color: #f9f9f9; }
+  html #content article table.event_calendar tbody tr:hover td {
+    background-color: #f5f5f5; }
+  html #content article table.event_calendar th, html  #content article table.event_calendar td {
+    padding: 10px 10px 9px;
+    line-height: 1;
+    text-align: left; }
+  html #content article table.event_calendar th {
+    padding-top: 9px;
+    font-weight: bold;
+    vertical-align: middle;
+    border-bottom: 1px solid #ddd;
+    font-size: 12px; }
+  html #content article table.event_calendar td {
+    vertical-align: top;
+    font-size: 11px; }
+  html #content article table.event_calendar th + th,
+  html #content article table.event_calendar td + td {
+    border-left: 1px solid #ddd; }
+  html #content article table.event_calendar  tr + tr td {
+    border-top: 1px solid #ddd; }
+  html #content article table.event_calendar  tbody tr:first-child td:first-child {
+    width: 450px; }
+  html #content article table.event_calendar  tbody tr:first-child td:last-child {
+   }
+  html #content article table.event_calendar  tbody tr:last-child td:first-child {
+   }
+  html #content article tabl.event_calendar e tbody tr:last-child td:last-child {
+   }
+
+article div.ceeda_image img
+{
+    width: 100% !important;
+    padding: 5px;
+}
+
+/* Registration Popup */
+/* Z-index of #mask must lower than #boxes .window */
+#regPopup #mask {
+  position:absolute;
+  z-index:9000;
+  background-color:#000;
+  display:none;
+}
+
+#regPopup #boxes .window {
+  position:fixed;
+  width:440px;
+  height:200px;
+  display:none;
+  z-index:9999;
+  padding:20px;
+}
+
+
+/* Customize your modal window here, you can add background image too */
+#regPopup #boxes #dialog {
+  width:275px;
+  height:270px;
+}
+.columns_lang #regPopup #boxes #dialog { 
+  width:275px;
+  height:295px;
+}
+
+/* Blue Gradient Course Packages */
+#course_packages a
+{           /*-webkit-linear-gradient(top, #444141, #444141)*/
+          background: #89ABC4 !important;
+          /* Old browsers */
+          background: -moz-linear-gradient(top, #89ABC4 0%, #7D9EB6 6%, #7A9BB3 9%, #7C9DB5 15%, #78A1B4 21%, #4B81A7 45%, #427CA5 48%, #3B77A255%, #21689B 67%, #0F5E96 79%, #0B5A92 85%, #0F5C92 94%, #2A74A9 100%) !important;
+          /* FF3.6+ */
+          background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #4B89C3), color-stop(6%, #7D9EB6), color-stop(9%, #7A9BB3), color-stop(15%, #7C9DB5), color-stop(21%, #78A1B4), color-stop(45%, #4B81A7), color-stop(48%, #427CA5), color-stop(55%, #3B76A2), color-stop(67%, #21689B), color-stop(79%, #0F5E96), color-stop(85%, #0B5A92), color-stop(94%, #0F5C92), color-stop(100%, #2A74A9)) !important;
+          /* Chrome,Safari4+ */
+          background: -webkit-linear-gradient(top, #89ABC4 0%, #7D9EB6 6%, #7A9BB3 9%, #7C9DB5 15%, #78A1B4 21%, #4B81A7 45%, #427CA5 48%, #3B77A255%, #21689B 67%, #0F5E96 79%, #0B5A92 85%, #0F5C92 94%, #2A74A9 100%) !important;
+          /* Chrome10+,Safari5.1+ */
+          background: -o-linear-gradient(top, #89ABC4 0%, #7D9EB6 6%, #7A9BB3 9%, #7C9DB5 15%, #78A1B4 21%, #4B81A7 45%, #427CA5 48%, #3B77A255%, #21689B 67%, #0F5E96 79%, #0B5A92 85%, #0F5C92 94%, #2A74A9 100%) !important;
+          /* Opera11.10+ */
+          background: -ms-linear-gradient(top, #89ABC4 0%, #7D9EB6 6%, #7A9BB3 9%, #7C9DB5 15%, #78A1B4 21%, #4B81A7 45%, #427CA5 48%, #3B77A255%, #21689B 67%, #0F5E96 79%, #0B5A92 85%, #0F5C92 94%, #2A74A9 100%) !important;
+          /* IE10+ */
+          filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4B89C3', endColorstr='#2A74A9',GradientType=0 ) !important;
+          /* IE6-9 */
+          background: linear-gradient(top, #89ABC4 0%, #7D9EB6 6%, #7A9BB3 9%, #7C9DB5 15%, #78A1B4 21%, #4B81A7 45%, #427CA5 48%, #3B77A255%, #21689B 67%, #0F5E96 79%, #0B5A92 85%, #0F5C92 94%, #2A74A9 100%) !important;
+          /* W3C */
+          -moz-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25) !important;
+          -webkit-box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.25) !important;
+          border: 1px solid #165683 !important;
+}
+

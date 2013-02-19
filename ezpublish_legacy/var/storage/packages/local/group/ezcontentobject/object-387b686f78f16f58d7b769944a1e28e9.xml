@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4392" name="Cabling &amp; Network" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Sun, 06 Jan 2013 16:35:46 GMT" ezremote:modified="Sun, 06 Jan 2013 16:35:46 GMT" remote_id="387b686f78f16f58d7b769944a1e28e9" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Sun, 06 Jan 2013 16:35:31 GMT" ezremote:modified="Sun, 06 Jan 2013 16:35:45 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Cabling &amp; Network">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56151" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Cabling &amp; Network</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56152" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56153" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="eaa85529b16661c1bc0ff159c7398565" is-valid="1" last-checked="0" created="1357490145" modified="1357490145">http%3A%2F%2Fwww.datacenterdynamics.com%2Ffocus%2Fthemes%2Fcabling-and-network</url>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56154" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="04d56d1bb563f5c44153924bd65dc9fb" name="Cabling &amp; Network" node-id="4368" remote-id="327b2b23362a875138df2c6d1bc1dce1" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

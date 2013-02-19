@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4441" name="Datacenter Leaders' Awards" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Fri, 18 Jan 2013 23:46:27 GMT" ezremote:modified="Fri, 18 Jan 2013 23:46:27 GMT" remote_id="955a9b10649e90f14a2f0974c20344bc" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Fri, 18 Jan 2013 23:46:12 GMT" ezremote:modified="Fri, 18 Jan 2013 23:46:27 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Datacenter Leaders' Awards">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56366" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Datacenter Leaders' Awards</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56367" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Datacenter Leaders' Awards</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56368" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="57e8cd6de658a8d0b90d93edcfde126e" is-valid="1" last-checked="0" created="1357488347" modified="1357488347">http%3A%2F%2Fwww.datacenterdynamics.com%2Fawards</url>
+          <text>Datacenter Leaders' Awards</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56369" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="a0d88ade7902d737c4990913be3828e5" name="Datacenter Leaders' Awards" node-id="4416" remote-id="fe246c84764cf989164b8976b277968d" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4453" name="Latin America &amp; Spain" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Fri, 18 Jan 2013 23:53:58 GMT" ezremote:modified="Fri, 18 Jan 2013 23:53:58 GMT" remote_id="f8edb870943b1556c210e4938acb3416" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Fri, 18 Jan 2013 23:53:46 GMT" ezremote:modified="Fri, 18 Jan 2013 23:53:58 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Latin America &amp; Spain">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56426" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Latin America &amp; Spain</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56427" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56428" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="f6ef2121679d590b18a906b38433dfea" is-valid="1" last-checked="0" created="1355868916" modified="1355868916">http%3A%2F%2Fwww.datacenterdynamics.es%2F</url>
+          <text>Latin America &amp; Spain</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56429" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="a65f8969be46432b46a3bb3b1fbdff8b" name="Latin America &amp; Spain" node-id="4428" remote-id="8ac4629cde232070fb1932f176330203" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

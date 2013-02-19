@@ -1,0 +1,13 @@
+
+<div id="header-topmenu">
+<ul>    <li class="unselected first ezmynavigationpart"><div>    <a href="/ezdemo_site_admin/content/dashboard" title="Manage items and settings that belong to your account.">Dashboard</a></div></li>        <li class="selected middle ezcontentnavigationpart"><div>    <a href="/ezdemo_site_admin/content/view/full/2" title="Manage the main content structure of the site.">Content structure</a></div></li>    <li class="unselected middle ezmedianavigationpart"><div>    <a href="/ezdemo_site_admin/content/view/full/43" title="Manage images, files, documents, etc.">Media library</a></div></li>    <li class="unselected middle ezusernavigationpart"><div>    <a href="/ezdemo_site_admin/content/view/full/5" title="Manage users, user groups and permission settings.">User accounts</a></div></li>    <li class="unselected middle ezsetupnavigationpart"><div>    <a href="/ezdemo_site_admin/setup/cache" title="Configure settings and manage advanced functionality.">Setup</a></div></li>    <li class="unselected middle ezcommentsnavigationpart"><div>    <a href="/ezdemo_site_admin/comment/list" title="eZ Comments dashboard">eZ Comments</a></div></li>    <li class="unselected last eztagsnavigationpart"><div>    <a href="/ezdemo_site_admin/tags/dashboard" title="eZ Tags dashboard">eZ Tags</a></div></li></ul>
+</div>
+
+<script type="text/javascript">
+
+jQuery( '#header-topmenu ul li' ).click(function(){ jQuery(this).addClass('active'); });
+
+</script>
+
+</div>
+</div>

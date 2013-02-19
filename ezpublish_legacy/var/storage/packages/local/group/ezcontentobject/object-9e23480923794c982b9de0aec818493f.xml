@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4176" name="Group" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="23" ezremote:published="Fri, 09 Nov 2012 11:54:28 GMT" ezremote:modified="Tue, 29 Jan 2013 18:31:14 GMT" remote_id="9e23480923794c982b9de0aec818493f" class_remote_id="e36c458e3e4a81298a0945f53a2c81f4" ezremote:class_identifier="frontpage" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="88">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="88" ezremote:status="1" ezremote:created="Tue, 29 Jan 2013 18:30:06 GMT" ezremote:modified="Tue, 29 Jan 2013 18:31:14 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Group">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="52933" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Group</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="52934" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Group</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55384" ezremote:identifier="page" name="Layout" type="ezpage">
+          <page>
+  <zone_layout>GroupLayout</zone_layout>
+  <zone id="id_a3c537897a71a0c2ea471e5ab2b9ff3f">
+    <zone_identifier>left</zone_identifier>
+    <block id="id_f70e642bdaf16f46160e7fd9d3e68ed8">
+      <name>Zones</name>
+      <zone_id>a3c537897a71a0c2ea471e5ab2b9ff3f</zone_id>
+      <type>DcdZones</type>
+      <view>dcd_zones</view>
+      <overflow_id/>
+    </block>
+    <block id="id_2b95a6f9d399d9964d09142fcfb345a7">
+      <name>Archives</name>
+      <zone_id>a3c537897a71a0c2ea471e5ab2b9ff3f</zone_id>
+      <type>Archives</type>
+      <view>archives</view>
+      <overflow_id/>
+    </block>
+    <block id="id_5a9e52387a0521acb76d702a3b0429f2">
+      <name/>
+      <zone_id>a3c537897a71a0c2ea471e5ab2b9ff3f</zone_id>
+      <type>BannerLeft</type>
+      <view>banner_left</view>
+      <overflow_id/>
+    </block>
+    <block id="id_77a2e0dfad671a8a4b7b32f4ba365651">
+      <name>Videos</name>
+      <zone_id>a3c537897a71a0c2ea471e5ab2b9ff3f</zone_id>
+      <type>VideoLeft</type>
+      <custom_attributes>
+        <source>http://www.datacenterdynamics.com/focus/themes/modular-design/feed</source>
+        <limit>2</limit>
+        <offset/>
+        <link>http://www.datacenterdynamics.com/videos</link>
+      </custom_attributes>
+      <view>video_left</view>
+    </block>
+  </zone>
+  <zone id="id_c62c43f970e25ee3205124dac6d16110">
+    <zone_identifier>main</zone_identifier>
+    <block id="id_532a527204f1479ef3c7313c98497085">
+      <name>Top All News</name>
+      <zone_id>c62c43f970e25ee3205124dac6d16110</zone_id>
+      <type>MainTop</type>
+      <custom_attributes>
+        <source>http://www.datacenterdynamics.com/focus/themes/industry-news/feed</source>
+        <limit>3</limit>
+        <offset/>
+        <link>http://www.datacenterdynamics.com/focus/themes/industry-news</link>
+      </custom_attributes>
+      <view>maintop</view>
+    </block>
+    <block id="id_beaab4d07ecdd180ff9377dd4c962a9c">
+      <name>Today's Headlines</name>
+      <zone_id>c62c43f970e25ee3205124dac6d16110</zone_id>
+      <type>HeadlinesFeedReader</type>
+      <custom_attributes>
+        <source>http://www.datacenterdynamics.com/focus/themes/it-optimisation/feed</source>
+        <limit>5</limit>
+        <offset/>
+      </custom_attributes>
+      <view>headlines_feed_reader</view>
+    </block>
+    <block id="id_079d687272592d93cb6eb6e499480ade">
+      <name>NEWS AND ANALYSIS</name>
+      <zone_id>c62c43f970e25ee3205124dac6d16110</zone_id>
+      <type>NewsFeedReader</type>
+      <custom_attributes>
+        <source>http://www.datacenterdynamics.com/focus/themes/critical-power/feed</source>
+        <limit>5</limit>
+        <offset/>
+        <link>http://www.datacenterdynamics.com/focus/themes/construction-news</link>
+      </custom_attributes>
+      <view>news_feed_reader</view>
+    </block>
+    <block id="id_a26c7b83cec3d261d5c4db7c0599c4ec">
+      <name>Features and Opinion</name>
+      <zone_id>c62c43f970e25ee3205124dac6d16110</zone_id>
+      <type>FeaturesFeedReader</type>
+      <custom_attributes>
+        <source>http://www.datacenterdynamics.com/focus/themes/construction-news/feed</source>
+        <limit>4</limit>
+        <offset/>
+        <link>http://www.datacenterdynamics.com/features</link>
+      </custom_attributes>
+      <view>features_feed_reader</view>
+    </block>
+    <block id="id_f6184146d3402657f4114384c0858863">
+      <name>Featured Videos </name>
+      <zone_id>c62c43f970e25ee3205124dac6d16110</zone_id>
+      <type>FeaturedVideoFeedReader</type>
+      <custom_attributes>
+        <source>http://www.datacenterdynamics.com/focus/themes/metrics-and-standards/feed</source>
+        <limit>9</limit>
+        <offset/>
+        <link>http://www.datacenterdynamics.com/videos</link>
+      </custom_attributes>
+      <view>featured_video_feed_reader</view>
+    </block>
+    <block id="id_f2d9de961f7fd129ca7f8e793caf65ca">
+      <name/>
+      <zone_id>c62c43f970e25ee3205124dac6d16110</zone_id>
+      <type>BannerMainBottom</type>
+      <view>banner_main_bottom</view>
+      <overflow_id/>
+    </block>
+  </zone>
+  <zone id="id_7cf65f608801891b45aaf35ed0f5f734">
+    <zone_identifier>right</zone_identifier>
+    <block id="id_75f8a7aa5c2deb245e7dfc4cbe6136f9">
+      <name/>
+      <zone_id>7cf65f608801891b45aaf35ed0f5f734</zone_id>
+      <type>Regions</type>
+      <view>regions</view>
+      <overflow_id/>
+    </block>
+    <block id="id_cbab182e1f30eed7f5c91cbb0fabfed5">
+      <name/>
+      <zone_id>7cf65f608801891b45aaf35ed0f5f734</zone_id>
+      <type>BannerRight</type>
+      <view>banner_right</view>
+      <overflow_id/>
+    </block>
+    <block id="id_6175f9d412256b5dda21bef9f81dc06a">
+      <name/>
+      <zone_id>7cf65f608801891b45aaf35ed0f5f734</zone_id>
+      <type>BlogsAndFeaturedRightFeedReader</type>
+      <custom_attributes>
+        <source_blogs>http://www.datacenterdynamics.com/focus/themes/modular-design/feed</source_blogs>
+        <limit_blogs>2</limit_blogs>
+        <offset_blogs/>
+        <source_featured>http://www.datacenterdynamics.com/focus/themes/uptime-and-availability/feed</source_featured>
+        <limit_featured>3</limit_featured>
+        <offset_featured/>
+        <source_blog>http://www.datacenterdynamics.com/focus/themes/it-optimisation/feed</source_blog>
+        <limit_blog>2</limit_blog>
+        <offset_blog/>
+        <link_blog>http://www.datacenterdynamics.com/focus/blogs_archive</link_blog>
+        <link_featured>http://www.datacenterdynamics.com/features</link_featured>
+      </custom_attributes>
+      <view>blogs_featured_right_feed_reader</view>
+    </block>
+    <block id="id_5c9b961d1c493b0d25b6e9633f8b1c34">
+      <name/>
+      <zone_id>7cf65f608801891b45aaf35ed0f5f734</zone_id>
+      <type>BannerRight</type>
+      <view>banner_right</view>
+      <overflow_id/>
+    </block>
+    <block id="id_fb224009a4279cd49dfad89709f12951">
+      <name>Whitepapers</name>
+      <zone_id>7cf65f608801891b45aaf35ed0f5f734</zone_id>
+      <type>WhitepapersFeedReader</type>
+      <custom_attributes>
+        <source>http://www.datacenterdynamics.com/focus/themes/modular-design/feed</source>
+        <limit>2</limit>
+        <offset/>
+        <link>http://www.datacenterdynamics.com/white-papers</link>
+      </custom_attributes>
+      <view>whitepapers_feed_reader</view>
+    </block>
+  </zone>
+</page>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="52935" ezremote:identifier="logo" name="Logo" type="ezimage" image-file-key="3d030efee1f9d1caf2b3a0c60e17a5c2" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="52936" ezremote:identifier="billboard" name="Billboard" type="ezobjectrelation"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="52937" ezremote:identifier="header" name="Header Text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="52938" ezremote:identifier="footer" name="Footer" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>DCD Performance</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="52939" ezremote:identifier="tags" name="Tags" type="ezkeyword">
+          <keyword-string></keyword-string>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:object-translation language="esl-ES" object_name="Grupo">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55905" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Grupo</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55906" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Grupo</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55907" ezremote:identifier="page" name="Layout" type="ezpage">
+          <page>
+  <zone_layout>GroupLayout</zone_layout>
+  <zone id="id_754cf907f3c7669e3b816cbc440969d6">
+    <zone_identifier>left</zone_identifier>
+    <block id="id_9a3b8c16df8661a0ae92a70581b9e2e5">
+      <name>Zonas</name>
+      <zone_id>754cf907f3c7669e3b816cbc440969d6</zone_id>
+      <type>DcdZones</type>
+      <view>dcd_zones</view>
+      <overflow_id/>
+    </block>
+    <block id="id_9e94e1a48a247d08512c00268a6e95fe">
+      <name>Archivo</name>
+      <zone_id>754cf907f3c7669e3b816cbc440969d6</zone_id>
+      <type>Archives</type>
+      <view>archives</view>
+      <overflow_id/>
+    </block>
+  </zone>
+  <zone id="id_114bd8a9b99e3a19ed4307b73e2b600e">
+    <zone_identifier>main</zone_identifier>
+    <block id="id_23767f3a4ae454b8b5e3b219541c5d4e">
+      <name>Top All News </name>
+      <zone_id>c62c43f970e25ee3205124dac6d16110</zone_id>
+      <type>MainTop</type>
+      <view>maintop</view>
+      <overflow_id/>
+    </block>
+    <block id="id_d7d05244620899fcfa0c666e2f1a4bbe">
+      <name>Today's Headlines</name>
+      <zone_id>c62c43f970e25ee3205124dac6d16110</zone_id>
+      <type>HeadlinesFeedReader</type>
+      <custom_attributes>
+        <source>http://www.datacenterdynamics.com/focus/themes/it-optimisation/feed</source>
+        <limit>5</limit>
+        <offset/>
+      </custom_attributes>
+      <view>headlines_feed_reader</view>
+    </block>
+    <block id="id_6ae1202dfa9b5170bcd0bb873ec31e8c">
+      <name>News and Analysis</name>
+      <zone_id>c62c43f970e25ee3205124dac6d16110</zone_id>
+      <type>NewsFeedReader</type>
+      <custom_attributes>
+        <source>http://www.datacenterdynamics.com/focus/themes/critical-power/feed</source>
+        <limit>5</limit>
+        <offset/>
+      </custom_attributes>
+      <view>news_feed_reader</view>
+    </block>
+    <block id="id_d5228561c2a191f9113252d3d0ece0d2">
+      <name>Features and Opinion</name>
+      <zone_id>c62c43f970e25ee3205124dac6d16110</zone_id>
+      <type>FeaturesFeedReader</type>
+      <custom_attributes>
+        <source>http://www.datacenterdynamics.com/focus/themes/construction-news/feed</source>
+        <limit>4</limit>
+        <offset/>
+      </custom_attributes>
+      <view>features_feed_reader</view>
+    </block>
+    <block id="id_f8d458d81e2b6997a0316a5e95df3b1d">
+      <name>Featured Videos </name>
+      <zone_id>c62c43f970e25ee3205124dac6d16110</zone_id>
+      <type>FeaturedVideoFeedReader</type>
+      <custom_attributes>
+        <source>http://www.datacenterdynamics.com/focus/themes/metrics-and-standards/feed</source>
+        <limit>9</limit>
+        <offset/>
+      </custom_attributes>
+      <view>featured_video_feed_reader</view>
+    </block>
+    <block id="id_579b1e9e3b8138ced7fa79b9eaec4e3d">
+      <name>Banner</name>
+      <zone_id>c62c43f970e25ee3205124dac6d16110</zone_id>
+      <type>BannerMainBottom</type>
+      <view>banner_main_bottom</view>
+      <overflow_id/>
+    </block>
+  </zone>
+  <zone id="id_20e9bc7fbfe3ba5ab15dd9653becb8ee">
+    <zone_identifier>right</zone_identifier>
+    <block id="id_206b6f2a8fef160cf5569b41b7486c94">
+      <name>CONNECT WITH US</name>
+      <zone_id>7cf65f608801891b45aaf35ed0f5f734</zone_id>
+      <type>BannerRight</type>
+      <view>banner_right</view>
+      <overflow_id/>
+    </block>
+    <block id="id_697280371b6ba7758cda086ece555ea6">
+      <name>Regions</name>
+      <zone_id>7cf65f608801891b45aaf35ed0f5f734</zone_id>
+      <type>Regions</type>
+      <view>regions</view>
+      <overflow_id/>
+    </block>
+    <block id="id_320129d7304515e7b0128542a1650178">
+      <name/>
+      <zone_id>7cf65f608801891b45aaf35ed0f5f734</zone_id>
+      <type>BannerRight</type>
+      <view>banner_right</view>
+      <overflow_id/>
+    </block>
+    <block id="id_09e8e64bbd853a3990658bd9f9009863">
+      <name/>
+      <zone_id>7cf65f608801891b45aaf35ed0f5f734</zone_id>
+      <type>BlogsAndFeaturedRightFeedReader</type>
+      <custom_attributes>
+        <source_blogs>http://www.datacenterdynamics.com/focus/themes/modular-design/feed</source_blogs>
+        <limit_blogs>2</limit_blogs>
+        <offset_blogs/>
+        <source_featured>http://www.datacenterdynamics.com/focus/themes/uptime-and-availability/feed</source_featured>
+        <limit_featured>3</limit_featured>
+        <offset_featured/>
+        <source_blog>http://www.datacenterdynamics.com/focus/themes/it-optimisation/feed</source_blog>
+        <limit_blog>2</limit_blog>
+        <offset_blog/>
+      </custom_attributes>
+      <view>blogs_featured_right_feed_reader</view>
+    </block>
+    <block id="id_ac5eb9a8e12a3b4f4ae0a84381a17610">
+      <name/>
+      <zone_id>7cf65f608801891b45aaf35ed0f5f734</zone_id>
+      <type>BannerRight</type>
+      <view>banner_right</view>
+      <overflow_id/>
+    </block>
+    <block id="id_c06ebb97596a89c79be6fb804cf58d39">
+      <name>Whitepapers</name>
+      <zone_id>7cf65f608801891b45aaf35ed0f5f734</zone_id>
+      <type>WhitepapersFeedReader</type>
+      <custom_attributes>
+        <source>http://www.datacenterdynamics.com/focus/themes/modular-design/feed</source>
+        <limit>2</limit>
+        <offset/>
+      </custom_attributes>
+      <view>whitepapers_feed_reader</view>
+    </block>
+  </zone>
+</page>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55908" ezremote:identifier="logo" name="Logo" type="ezimage" image-file-key="b2c5f21418b3fec461166d658b2da8b0" alternative-text="Logo"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55909" ezremote:identifier="billboard" name="Billboard" type="ezobjectrelation"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55910" ezremote:identifier="header" name="Header Text" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55911" ezremote:identifier="footer" name="Footer" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>DCD Performance</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55912" ezremote:identifier="tags" name="Tags" type="ezkeyword">
+          <keyword-string></keyword-string>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" name="Group" node-id="4314" remote-id="c7a718cc6afde74e761913102ce3e215" sort-field="published" sort-order="0" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4382" name="MyDcD" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Sun, 06 Jan 2013 16:07:11 GMT" ezremote:modified="Sun, 06 Jan 2013 16:07:11 GMT" remote_id="224f5bd5e375725a2c3a5248d477c8ce" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Sun, 06 Jan 2013 16:06:52 GMT" ezremote:modified="Sun, 06 Jan 2013 16:07:11 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="MyDcD">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56111" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>MyDcD</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56112" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56113" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="7fef525ab1339085dc10a5f94d83bb68" is-valid="1" last-checked="0" created="1357488431" modified="1357488431">http%3A%2F%2Fwww.datacenterdynamics.com%2Fuser%2Flogin</url>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56114" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="c7a718cc6afde74e761913102ce3e215" name="MyDcD" node-id="4358" remote-id="176eb59ca161acd986fc00ec0d6e6fc9" sort-field="path" sort-order="1" priority="7"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

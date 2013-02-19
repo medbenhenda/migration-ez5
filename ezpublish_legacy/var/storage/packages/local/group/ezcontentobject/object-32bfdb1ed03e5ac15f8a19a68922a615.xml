@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4376" name=" Training" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Sun, 06 Jan 2013 16:03:14 GMT" ezremote:modified="Sun, 06 Jan 2013 16:03:14 GMT" remote_id="32bfdb1ed03e5ac15f8a19a68922a615" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Sun, 06 Jan 2013 16:02:29 GMT" ezremote:modified="Sun, 06 Jan 2013 16:03:14 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name=" Training">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56087" ezremote:identifier="name" name="Name" type="ezstring">
+          <text> Training</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56088" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56089" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="f935c12aea82eb5d6666c520c53025db" is-valid="1" last-checked="0" created="1357488188" modified="1357488188">http%3A%2F%2Fdc-professional.com%2F</url>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56090" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="c7a718cc6afde74e761913102ce3e215" name=" Training" node-id="4352" remote-id="67f812e6c540011ce1918ea414419b6f" sort-field="path" sort-order="1" priority="1"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

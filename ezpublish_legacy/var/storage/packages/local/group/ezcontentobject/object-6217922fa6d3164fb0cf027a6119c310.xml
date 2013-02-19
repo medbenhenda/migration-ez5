@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4440" name="Focus Magazine" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Fri, 18 Jan 2013 23:45:54 GMT" ezremote:modified="Fri, 18 Jan 2013 23:45:54 GMT" remote_id="6217922fa6d3164fb0cf027a6119c310" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Fri, 18 Jan 2013 23:45:42 GMT" ezremote:modified="Fri, 18 Jan 2013 23:45:54 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Focus Magazine">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56362" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Focus Magazine</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56363" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Focus Magazine</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56364" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="dc2c87f198f70233867bb9025bb75917" is-valid="1" last-checked="0" created="1357488226" modified="1357488226">http%3A%2F%2Fwww.datacenterdynamics.com%2Ffocus%2Fdigital-editions</url>
+          <text>Focus Magazine</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56365" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="a0d88ade7902d737c4990913be3828e5" name="Focus Magazine" node-id="4415" remote-id="8c9b61d87ca2b75731c135a6154c49fa" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

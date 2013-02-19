@@ -1,0 +1,1 @@
+<b{if ne($classification|trim,'')} class="{$classification|wash}"{/if}  style="{if is_set( $color )}color: {$color};{/if}{if is_set( $style )}{$style}{/if}">{$content}</b>

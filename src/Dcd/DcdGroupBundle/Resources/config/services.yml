@@ -1,0 +1,7 @@
+parameters:
+#    dcd_dcd_group.example.class: Dcd\DcdGroupBundle\Example
+
+services:
+#    dcd_dcd_group.example:
+#        class: %dcd_dcd_group.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

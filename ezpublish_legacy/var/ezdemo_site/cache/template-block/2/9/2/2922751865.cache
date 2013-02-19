@@ -1,0 +1,170 @@
+                    <title>Home - DCD Group</title>
+
+    
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+
+            <meta name="Content-language" content="en-GB" />
+
+                    <meta name="author" content="eZ Systems" />
+    
+                <meta name="copyright" content="eZ Systems" />
+    
+                <meta name="description" content="Content Management System" />
+    
+                <meta name="keywords" content="cms, publish, e-commerce, content management, development framework" />
+    
+    
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+        
+<link rel="Home" href="/ezdemo_site_admin" title="DCD Group front page" />
+<link rel="Index" href="/ezdemo_site_admin" />
+<link rel="Top"  href="/ezdemo_site_admin" title="Home - DCD Group" />
+<link rel="Search" href="/ezdemo_site_admin/content/advancedsearch" title="Search DCD Group" />
+<link rel="Shortcut icon" href="/design/standard/images/favicon.ico" type="image/x-icon" />
+<link rel="Copyright" href="/ezdemo_site_admin/ezinfo/copyright" />
+<link rel="Author" href="/ezdemo_site_admin/ezinfo/about" />
+<link rel="Alternate" type="application/rss+xml" title="RSS" href="/ezdemo_site_admin/rss/feed/my_feed" />
+
+<script type="text/javascript">
+(function() {
+    var head = document.getElementsByTagName('head')[0];
+    var printNode = document.createElement('link');
+    printNode.rel = 'Alternate';
+    printNode.href = "/ezdemo_site_admin/layout/set/print/content/view/full/2" + document.location.search;
+    printNode.media = 'print';
+    printNode.title = "Printable version";
+    head.appendChild(printNode);
+})();
+</script>
+        
+      <link rel="stylesheet" type="text/css" href="/var/ezdemo_site/cache/public/stylesheets/1c1a03c34ee338055593c7c347d98aee_all.css" />
+
+  
+  
+
+<!--[if lt IE 8]>
+<style>
+/* Terminate floating elements flow in IE < 8 */
+.float-break
+{
+  height: 1%;
+}
+</style>
+<![endif]-->
+<!--[if lte IE 8]>
+<style>
+#controlbar-top .box-bc
+{
+  filter:progid:DXImageTransform.Microsoft.Shadow(color='gray', Direction=180, Strength=8);
+  zoom: 1;
+}
+</style>
+<![endif]-->
+<!--[if lte IE 7]>
+<style>
+#controlbar-top .box-bc
+{
+padding-bottom:8px;
+}
+</style>
+<![endif]-->
+<!--[if IE 6]>
+<style>
+.yui3-js-enabled .scroll-to-top {display: none;}
+input.box, textarea.box {width: 99%}
+</style>
+<![endif]-->
+
+
+  <script type="text/javascript" src="/var/ezdemo_site/cache/public/javascript/cc9a65a22b675d15d71761c8bc008340.js" charset="utf-8"></script>
+
+</head>
+<body>
+
+<div id="page" class="ezcontentnavigationpart section_id_1">
+
+<div id="header">
+<div id="header-design" class="float-break">
+
+<div id="header-logo">    <a href="/ezdemo_site_admin/content/dashboard" title="eZ Publish Community Project 2012.12">
+    </a></div>
+
+<div id="header-search"><div class="searchblock">
+<form action="/ezdemo_site_admin/content/search" method="get">
+                                        <div id="searchtextwrapper">
+            <input id="searchtext" name="SearchText" type="text" size="20" value="" title="Search in 'Home'" />
+        </div>
+        <input id="searchbutton" class="button hide" name="SearchButton" type="submit" value="Search" />
+                    <p class="advanced hide"><a href="/ezdemo_site_admin/content/advancedsearch" title="Advanced search.">Advanced</a></p>
+                <div class="searchbuttonfield" id="searchbuttonfield"></div>
+        <div class="searchscope" id="searchscope"></div>
+
+        <div class="searchscope-menu-container">
+            <div class="searchscope-pane" id="searchscope-pane">
+                <a href="javascript:;" class="close" id="searchscope-pane-close"><span class="mini-icon mini-icon-remove-close"></span></a>
+                <div class="searchscope-title">Search scope</div>
+                <div class="searchscope-body">
+                                                                                                                                                            <label>Section</label>
+                    <select name="SectionID">
+                        <option value="-1">All</option>
+                                                <option value="5">Design</option>
+                                                <option value="3">Media</option>
+                                                <option value="6">Restricted</option>
+                                                <option value="4">Setup</option>
+                                                <option value="1">Standard</option>
+                                                <option value="2">Users</option>
+                                            </select>
+
+                    <label><input type="radio" name="SubTreeArray" value="2" checked="checked" title="Search in 'Home'" />Search in 'Home'</label>
+                                        <label><input type="radio" name="SubTreeArray" value="1" title="Search in all content" />Search in all content</label>
+                                        <label><input type="radio" name="SubTreeArray" value="2" title="Search only from the current location" />Current location</label>
+                                    </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+<script type="text/javascript">
+
+
+(function($){
+    if ( !document.getElementById('searchbuttonfield') )return;
+
+    $('#searchbuttonfield').click(function(){
+        if ( $('#searchtext').val() === $('#searchtext').attr('title') )return;
+          $('#searchbutton').click();
+    });
+    $('#searchscope').click(function(){
+        $('#searchscope-pane').addClass('active');
+    });
+    $('#searchscope-pane-close').click(function(){
+        $('#searchscope-pane').removeClass('active');
+    });
+    $('input:radio[name=SubTreeArray]').change( function() {
+        $('#searchtext').attr('value', $(this).attr('title'));
+        $('#searchtext').attr('title', $(this).attr('title'));
+    } );
+})( jQuery );
+
+</script></div>
+
+<div id="header-usermenu">    <a href="/ezdemo_site_admin/user/logout" title="Logout from the system." id="header-usermenu-logout">Logout</a></div>
+
+
+
+<div id="header-topmenu">
+<ul>    <li class="unselected first ezmynavigationpart"><div>    <a href="/ezdemo_site_admin/content/dashboard" title="Manage items and settings that belong to your account.">Dashboard</a></div></li>        <li class="selected middle ezcontentnavigationpart"><div>    <a href="/ezdemo_site_admin/content/view/full/2" title="Manage the main content structure of the site.">Content structure</a></div></li>    <li class="unselected middle ezmedianavigationpart"><div>    <a href="/ezdemo_site_admin/content/view/full/43" title="Manage images, files, documents, etc.">Media library</a></div></li>    <li class="unselected middle ezusernavigationpart"><div>    <a href="/ezdemo_site_admin/content/view/full/5" title="Manage users, user groups and permission settings.">User accounts</a></div></li>    <li class="unselected middle ezsetupnavigationpart"><div>    <a href="/ezdemo_site_admin/setup/cache" title="Configure settings and manage advanced functionality.">Setup</a></div></li>    <li class="unselected middle ezcommentsnavigationpart"><div>    <a href="/ezdemo_site_admin/comment/list" title="eZ Comments dashboard">eZ Comments</a></div></li>    <li class="unselected last eztagsnavigationpart"><div>    <a href="/ezdemo_site_admin/tags/dashboard" title="eZ Tags dashboard">eZ Tags</a></div></li></ul>
+</div>
+
+<script type="text/javascript">
+
+jQuery( '#header-topmenu ul li' ).click(function(){ jQuery(this).addClass('active'); });
+
+</script>
+
+</div>
+</div>
+
+<hr class="hide" />

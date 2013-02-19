@@ -1,0 +1,3 @@
+dcd_group_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: dcdGroupBundle:Default:index }

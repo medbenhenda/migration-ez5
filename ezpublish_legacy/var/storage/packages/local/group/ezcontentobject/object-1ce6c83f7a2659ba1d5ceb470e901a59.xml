@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4434" name="Beijing" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="65" ezremote:published="Mon, 14 Jan 2013 02:07:30 GMT" ezremote:modified="Mon, 14 Jan 2013 02:07:30 GMT" remote_id="1ce6c83f7a2659ba1d5ceb470e901a59" class_remote_id="e4a3ba8c252b2fccc68c49698c25fc0b" ezremote:class_identifier="location_market" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Mon, 14 Jan 2013 02:07:05 GMT" ezremote:modified="Mon, 14 Jan 2013 02:07:30 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Beijing">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56323" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Beijing</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56324" ezremote:identifier="link" name="Link" type="ezurl">
+          <url original-url-md5="279b50826a43015d611d0fbba18e3b46" is-valid="1" last-checked="0" created="1358129242" modified="1358129242">http%3A%2F%2Fwww.datacenterdynamics.com%2Fconferences%2F2011%2Fbeijing-2011</url>
+          <text>Beijing</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56325" ezremote:identifier="flag" name="FLag" type="ezimage" image-file-key="e1f409d4e5dd4c88d608fd943c6e04f3" alternative-text="China"/>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="adb1f829a39dea251394b5189ba3ce14" name="Beijing" node-id="4409" remote-id="4dada3298707d3e4f3b760627b7c166d" sort-field="priority" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

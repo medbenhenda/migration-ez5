@@ -1,0 +1,3 @@
+parameters:
+    secret: DcdGroup_Ezpublish5
+    ezpublish_legacy.view.default_layout: dcdGroupBundle::pagelayout.html.twig

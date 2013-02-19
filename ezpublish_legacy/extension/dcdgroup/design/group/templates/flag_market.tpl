@@ -1,0 +1,1 @@
+{attribute_view_gui attribute=$content.data_map.flag}

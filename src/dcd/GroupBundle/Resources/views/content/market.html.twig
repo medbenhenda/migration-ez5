@@ -1,0 +1,16 @@
+<ul>
+    <div class="view view-conference-listing-NA-market view-id-conference_listing_NA_market view-display-id-default view-dom-id-1">
+        <div class="view-content">
+            <div class="item-list">
+                <ul>
+                    {% for location in locationList %}
+                        <li class="views-row views-row-1 views-row-odd {%if loop.first %}views-row-first{% elseif loop.last %}views-row-last{% endif %}"> 
+                            {% ez_legacy_include 'design:flag_market.tpl' with {'message': messageForLegacy, 'konamiCode': ['Up', 'Up', 'Down', 'Down', 'Left', 'Right', 'Left', 'Right', 'B', 'A'], 'content': location} %}
+                            <a class="following_year_link" href="#" title="{{ location.contentInfo.name }} ">{{ location.contentInfo.name }} </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</ul>

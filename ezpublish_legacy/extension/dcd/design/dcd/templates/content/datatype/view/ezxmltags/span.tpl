@@ -1,0 +1,1 @@
+<span style="{if is_set( $color )}color: {$color};{/if}{if is_set( $style )}{$style}{/if}">{$content}</span>

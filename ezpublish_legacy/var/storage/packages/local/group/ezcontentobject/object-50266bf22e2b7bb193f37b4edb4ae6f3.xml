@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4338" name="Middle East Africa " ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="62" ezremote:published="Tue, 18 Dec 2012 22:04:35 GMT" ezremote:modified="Wed, 26 Dec 2012 22:13:49 GMT" remote_id="50266bf22e2b7bb193f37b4edb4ae6f3" class_remote_id="d303e4870aeb852045379831a7fcb1bc" ezremote:class_identifier="region" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Tue, 18 Dec 2012 22:03:51 GMT" ezremote:modified="Tue, 18 Dec 2012 22:04:35 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Middle East Africa ">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55611" ezremote:identifier="region_name" name="Region name" type="ezstring">
+          <text>Middle East Africa </text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55612" ezremote:identifier="alternative_text" name="Alternative text" type="ezstring">
+          <text>Middle East Africa </text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55613" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Middle East Africa </text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55614" ezremote:identifier="link" name="Link" type="ezurl">
+          <url original-url-md5="2c85d5550e6aeece6b4e30be2f16d527" is-valid="1" last-checked="0" created="1355868244" modified="1355868244">http%3A%2F%2Fwww.datacenterdynamics.com%2Fmea%2Ffocus</url>
+          <text>http://www.datacenterdynamics.com/mea/focus</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55615" ezremote:identifier="shape" name="Shape" type="ezselection">
+          <data-int></data-int>
+          <data-float>0</data-float>
+          <data-text>0</data-text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55616" ezremote:identifier="coords1" name="Coords 1" type="ezinteger">
+          <value>165</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55617" ezremote:identifier="coords2" name="Coords 2" type="ezinteger">
+          <value>94</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55618" ezremote:identifier="coords3" name="Coords 3" type="ezinteger">
+          <value>264</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55619" ezremote:identifier="coords4" name="Coords 4" type="ezinteger">
+          <value>109</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="c15bddfbef524b9d8c99537740ee8cd8" name="Middle East Africa " node-id="4343" remote-id="47949d0bde6402a4f681ed0bbf6d16ae" sort-field="published" sort-order="0" priority="5"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4333" name="Rackspace's 3Q revenue 27%" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="16" ezremote:published="Tue, 18 Dec 2012 21:51:56 GMT" ezremote:modified="Wed, 26 Dec 2012 22:19:49 GMT" remote_id="383b79eeb659d1d873054745939f8d4c" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="2">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="2" ezremote:status="1" ezremote:created="Tue, 18 Dec 2012 23:07:20 GMT" ezremote:modified="Tue, 18 Dec 2012 23:08:21 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Rackspace's 3Q revenue 27%">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55558" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Rackspace's 3Q revenue 27%</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55559" ezremote:identifier="short_title" name="Short title" type="ezstring">
+          <text>Rackspace's 3Q revenue 27%</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55560" ezremote:identifier="author" name="Author" type="ezauthor">
+          <ezauthor>
+            <authors>
+              <author id="0" name="Administrator User" email="paul.leclercq@datacenterdynamics.com"/>
+            </authors>
+          </ezauthor>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55561" ezremote:identifier="intro" name="Summary" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Rackspace's 3Q revenue 27%</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">up year over year</line>
+            </paragraph>
+            <paragraph>Company completes rollout of OpenStack-based cloud services</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55562" ezremote:identifier="body" name="Body" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">Rackspace's 3Q revenue 27%</line>
+              <line xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">up year over year</line>
+            </paragraph>
+            <paragraph>Company completes rollout of OpenStack-based cloud services</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55563" ezremote:identifier="enable_comments" name="Enable comments" type="ezboolean">
+          <value>0</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55564" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="bafeb6310338ac087feb0b1dba1dc874" alternative-text="Rackspace's 3Q revenue 27%"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55565" ezremote:identifier="caption" name="Caption (Image)" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55566" ezremote:identifier="publish_date" name="Publish date" type="ezdatetime">
+          <date_time>Tue, 18 Dec 2012 11:00:00 GMT</date_time>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55567" ezremote:identifier="unpublish_date" name="Unpublish date" type="ezdatetime">
+          <date_time>Thu, 01 Jan 1970 00:00:00 GMT</date_time>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55568" ezremote:identifier="tags" name="Tags" type="ezkeyword">
+          <keyword-string></keyword-string>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55569" ezremote:identifier="star_rating" name="Star Rating" type="ezsrrating">
+          <data-int></data-int>
+          <data-float>0</data-float>
+          <data-text></data-text>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="7950eb962ed18f05afbf82afffaaa0d7" name="Rackspace's 3Q revenue 27%" node-id="4345" remote-id="d3110e21cca16cf12b69596ed2ea5618" sort-field="published" sort-order="0" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

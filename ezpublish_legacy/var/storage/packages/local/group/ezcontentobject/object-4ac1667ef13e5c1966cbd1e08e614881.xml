@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4460" name="Contact Us" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Fri, 18 Jan 2013 23:57:02 GMT" ezremote:modified="Fri, 18 Jan 2013 23:57:02 GMT" remote_id="4ac1667ef13e5c1966cbd1e08e614881" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Fri, 18 Jan 2013 23:56:51 GMT" ezremote:modified="Fri, 18 Jan 2013 23:57:02 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Contact Us">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56458" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Contact Us</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56459" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56460" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="8b43dda52264c82abff2bf4281c03755" is-valid="1" last-checked="0" created="1358553422" modified="1358553422">http%3A%2F%2Fwww.datacenterdynamics.com%2Fabout-us%2Foffice-locations</url>
+          <text>Contact Us</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56461" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="462883460c37b7d8893174a51a0c7178" name="Contact Us" node-id="4435" remote-id="e3da62d89471dcc93787fc456f90b64c" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

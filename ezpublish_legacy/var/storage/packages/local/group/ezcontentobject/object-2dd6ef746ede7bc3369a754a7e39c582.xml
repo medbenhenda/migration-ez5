@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4339" name="Em Português " ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="62" ezremote:published="Tue, 18 Dec 2012 22:05:44 GMT" ezremote:modified="Wed, 26 Dec 2012 22:11:18 GMT" remote_id="2dd6ef746ede7bc3369a754a7e39c582" class_remote_id="d303e4870aeb852045379831a7fcb1bc" ezremote:class_identifier="region" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Tue, 18 Dec 2012 22:04:43 GMT" ezremote:modified="Tue, 18 Dec 2012 22:05:44 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Em Português ">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55620" ezremote:identifier="region_name" name="Region name" type="ezstring">
+          <text>Em Português </text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55621" ezremote:identifier="alternative_text" name="Alternative text" type="ezstring">
+          <text>Em Português </text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55622" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Em Português </text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55623" ezremote:identifier="link" name="Link" type="ezurl">
+          <url original-url-md5="816d004d6e64014684d031cc274b2991" is-valid="1" last-checked="0" created="1355868301" modified="1355868301">http%3A%2F%2Fwww.datacenterdynamics.com.br%2F</url>
+          <text>http://www.datacenterdynamics.com.br/</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55624" ezremote:identifier="shape" name="Shape" type="ezselection">
+          <data-int></data-int>
+          <data-float>0</data-float>
+          <data-text>0</data-text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55625" ezremote:identifier="coords1" name="Coords 1" type="ezinteger">
+          <value>25</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55626" ezremote:identifier="coords2" name="Coords 2" type="ezinteger">
+          <value>112</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55627" ezremote:identifier="coords3" name="Coords 3" type="ezinteger">
+          <value>96</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55628" ezremote:identifier="coords4" name="Coords 4" type="ezinteger">
+          <value>128</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="c15bddfbef524b9d8c99537740ee8cd8" name="Em Português " node-id="4337" remote-id="d03ed1576e3114b0587b060a2f38e4da" sort-field="published" sort-order="0" priority="3"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

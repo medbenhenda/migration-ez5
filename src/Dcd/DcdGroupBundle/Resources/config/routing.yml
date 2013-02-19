@@ -1,0 +1,7 @@
+dcd_dcd_group_homepage:
+    pattern:  /{contentId}
+    defaults:
+        _controller: DcdDcdGroupBundle:Default:index
+        contentId: 100
+    requirements:
+        contentId: \d+

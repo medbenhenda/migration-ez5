@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4401" name="Advanced Search" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Sun, 06 Jan 2013 16:40:54 GMT" ezremote:modified="Sun, 06 Jan 2013 16:40:54 GMT" remote_id="9c0c45eb84ed3e2c06aae3ca33a9c76b" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Sun, 06 Jan 2013 16:40:44 GMT" ezremote:modified="Sun, 06 Jan 2013 16:40:54 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Advanced Search">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56187" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Advanced Search</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56188" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56189" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="ff4c3bf83eb8036257767b62cc86a20a" is-valid="1" last-checked="0" created="1357490454" modified="1357490454">http%3A%2F%2Fwww.datacenterdynamics.com%2Fsearch</url>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56190" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="be569e050f9ae6ca3d99d7287bdca1c7" name="Advanced Search" node-id="4377" remote-id="9f5baf94ec47022ab989667118b58ab8" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

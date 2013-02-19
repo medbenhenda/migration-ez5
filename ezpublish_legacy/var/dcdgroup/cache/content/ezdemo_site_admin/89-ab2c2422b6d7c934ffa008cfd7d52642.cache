@@ -1,0 +1,612 @@
+a:10:{s:7:"content";s:24438:"
+<!-- START: including template: design/admin/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<div class="content-view-full">
+ <div class="class-product">
+
+<!-- START: including template: design/admin/templates/infocollection_validation.tpl (design/admin/templates/infocollection_validation.tpl) -->
+
+<!-- STOP: including template: design/admin/templates/infocollection_validation.tpl (design/admin/templates/infocollection_validation.tpl) -->
+
+<div class="content-navigation">
+
+
+<div class="context-block">
+
+<div class="box-header">
+
+
+<h1 class="context-title"><a href="/ezdemo_site_admin/class/view/21" onclick="ezpopmenu_showTopLevel( event, 'ClassMenu', ez_createAArray( new Array( '%classID%', 21, '%objectID%', 87, '%nodeID%', 89, '%currentURL%', 'City-Shopping/Products/New-York-Cab', '%languages%', [{'locale':'eng-GB','name':'English (United Kingdom)'}] ) ), 'Product', ['class-createnodefeed', 'class-removenodefeed'], -1 ); return false;"><img class="transparent-png-icon" src="/share/icons/crystal-admin/32x32/apps/package.png" width="32" height="32" alt="Product" title="Product" /></a>&nbsp;New York Cab&nbsp;[Product]&nbsp;</h1>
+
+<div class="header-mainline"></div>
+
+</div>
+
+
+<div class="box-content">
+
+<div class="context-information">
+<p class="left modified">Last modified: 28/03/2012 12:22 pm, <a href="/ezdemo_site_admin/Users/Administrator-users/Administrator-User">Administrator User</a> (Node ID: 89, Object ID: 87)</p>
+<p class="right translation">English (United Kingdom)&nbsp;<img src="/share/icons/flags/eng-GB.gif" width="18" height="12" alt="" style="vertical-align: middle;" /></p>
+<div class="break"></div>
+</div>
+
+<div id="window-controls" class="tab-block">
+
+<!-- START: including template: design/admin/templates/window_controls.tpl (design/admin/templates/window_controls.tpl) -->
+                            <div class="button-left"><a id="maincontent-hide" class="show-hide-tabs" href="/ezdemo_site_admin/user/preferences/set/admin_navigation_content/0" title="Disable &quot;Tabs&quot; by default while browsing content.">&nbsp;</a></div>
+<ul class="tabs tabs-by-cookie">
+    
+    <li id="node-tab-view" class="first selected">
+                    <a href="/ezdemo_site_admin/City-Shopping/Products/New-York-Cab/(tab)/view" title="Show simplified view of content.">View</a>
+            </li>
+
+    
+    <li id="node-tab-details" class="middle">
+                    <a href="/ezdemo_site_admin/City-Shopping/Products/New-York-Cab/(tab)/details" title="Show details.">Details</a>
+            </li>
+
+    
+            <li id="node-tab-translations" class="middle">
+                    <a href="/ezdemo_site_admin/City-Shopping/Products/New-York-Cab/(tab)/translations" title="Show available translations.">Translations (1)</a>
+            </li>
+        
+    
+    <li id="node-tab-locations" class="middle">
+                    <a href="/ezdemo_site_admin/City-Shopping/Products/New-York-Cab/(tab)/locations" title="Show location overview.">Locations (1)</a>
+            </li>
+
+    
+    <li id="node-tab-relations" class="middle">
+                    <a href="/ezdemo_site_admin/City-Shopping/Products/New-York-Cab/(tab)/relations" title="Show object relation overview.">Relations (0)</a>
+            </li>
+
+    
+    <li id="node-tab-ordering" class="last">
+                    <a href="/ezdemo_site_admin/City-Shopping/Products/New-York-Cab/(tab)/ordering" title="Show published ordering overview.">Ordering</a>
+            </li>
+
+<!-- START: including template: design/admin/templates/window_controls_extratabs.tpl (design/admin/templates/window_controls_extratabs.tpl) -->
+            
+<!-- STOP: including template: design/admin/templates/window_controls_extratabs.tpl (design/admin/templates/window_controls_extratabs.tpl) -->
+</ul>
+<div class="float-break"></div>
+<div class="tabs-content">
+    
+<!-- START: including template: design/admin/templates/windows.tpl (design/admin/templates/windows.tpl) -->
+
+<div id="node-tab-view-content" class="tab-content selected">
+    
+<!-- START: including template: design/admin/templates/preview.tpl (design/admin/templates/preview.tpl) -->
+    <form method="post" action="/ezdemo_site_admin/content/action">
+        <input type="hidden" name="TopLevelNode" value="89" />
+        <input type="hidden" name="ContentNodeID" value="89" />
+        <input type="hidden" name="ContentObjectID" value="87" />
+    
+<!-- START: including template: design/admin/override/templates/admin_preview/product.tpl (design/admin/override/templates/admin_preview/product.tpl) -->
+
+
+<div class="content-view-full">
+    <div class="class-product">
+
+    <h1>New York Cab</h1>
+
+    
+            <div class="attribute-image">
+            
+<!-- START: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+
+
+    
+                <div class="imageright">
+    
+    
+                                                                                                                                            <img src="/var/storage/images/city-shopping/products/new-york-cab/413-1-eng-GB/New-York-Cab_medium.jpg" width="200" height="150"  style="border: 0px  ;" alt="NYC Cab" title="NYC Cab" />
+            
+    
+            </div>
+    
+    
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+        </div>
+    
+        
+        <div class="attribute-short">
+           
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- START: including template: extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>This is a sample product showing how you can use e-commerce in eZ Publish.</p>
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+        </div>
+
+        
+        <div class="attribute-long">
+           
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+        </div>
+
+        
+        <div class="attribute-price">
+          <p>
+<!-- START: including template: extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezprice.tpl (design:content/datatype/view/ezprice.tpl) -->
+Price £ 142.00<br />
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezprice.tpl (design:content/datatype/view/ezprice.tpl) -->
+</p>
+        </div>
+
+        
+                        
+        
+        <div class="attribute-pdf">
+          <p><a href="/ezdemo_site_admin/content/pdf/89">Download this product sheet as PDF</a></p>
+        </div>
+
+       
+                     
+   </div>
+</div>
+
+<!-- STOP: including template: design/admin/override/templates/admin_preview/product.tpl (design/admin/override/templates/admin_preview/product.tpl) -->
+        <div class="button-right">
+        <div class="block">
+            
+                            <input class="button" type="submit" name="ActionAddToBasket" value="Add to basket" />
+                            <input class="button" type="submit" name="ActionAddToWishList" value="Add to wish list" />
+                    </div>
+        </div>
+    </form>
+<!-- STOP: including template: design/admin/templates/preview.tpl (design/admin/templates/preview.tpl) -->
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-details-content" class="tab-content hide">
+    
+<!-- START: including template: design/admin/templates/details.tpl (design/admin/templates/details.tpl) -->
+<div class="block">
+
+
+<table class="list" cellspacing="0" summary="Node and object details like creator, when it was created, section it belongs to, number of versions and translations, Node ID and Object ID.">
+<tr>
+    <th>Creator</th>
+    <th>Created</th>
+    <th>Section</th>
+    <th class="tight">Versions</th>
+    <th class="tight">Translations</th>
+    <th class="tight">Node ID</th>
+    <th class="tight">Object ID</th>
+</tr>
+<tr class="bglight">
+    <td><a href="/ezdemo_site_admin/Users/Administrator-users/Administrator-User">Administrator User</a></td>
+    <td>28/03/2012 12:21 pm</td>
+    <td>
+    <form name="changesection" id="changesection" method="post" action="/ezdemo_site_admin/content/edit/87">
+    <input type="hidden" name="RedirectRelativeURI" value="City-Shopping/Products/New-York-Cab" />
+    <input type="hidden" name="ChangeSectionOnly" value="1" />
+
+    <select id="selected-section-id" name="SelectedSectionId">
+                    <option value="5">Design</option>
+                            <option value="3">Media</option>
+                            <option value="6">Restricted</option>
+                            <option value="4">Setup</option>
+                            <option value="1" selected="selected">Standard</option>
+                            <option value="2">Users</option>
+                </select>
+    <input id="tab-details-set-section" type="submit" value="Set" name="SectionEditButton" class="button" />
+    </form>
+
+    </td>
+    <td class="number" align="right">1</td>
+    <td class="number" align="right">1</td>
+    <td class="number" align="right">89</td>
+    <td class="number" align="right">87</td>
+</tr>
+</table>
+</div>
+
+<div class="block">
+<table class="list" cellspacing="0" summary="Node Remote ID and Object Remote ID">
+    <tr>
+        <th>Node Remote ID</th>
+        <th>Object Remote ID</th>
+    </tr>
+    <tr>
+         <td>9121d4ca38abdd42999c4c5ad1bd8c3d</td>
+         <td>36e4d2c8185dd4216b15c2ce950dec9d</td>
+    </tr>
+</table>
+</div>
+
+<br />
+
+<div class="block">
+<h3>Content state</h3>
+
+
+<form name="statesform" method="post" action="/ezdemo_site_admin/state/assign">
+<input type="hidden" name="ObjectID" value="87" />
+<input type="hidden" name="RedirectRelativeURI" value="City-Shopping/Products/New-York-Cab" />
+
+<table id="tab-details-states-list" class="list" cellspacing="0" summary="States and their states groups for current object.">    <tr class="bgdark">
+    <td colspan="2">
+    <em>No content object state is configured. This can be done <a href="/ezdemo_site_admin/state/groups"> here</a>.</em>
+    </td>
+    </tr></table>
+
+<div class="block">
+<div class="button-left">
+        <input type="submit" id="tab-details-set-states" value="Set states" name="AssignButton" class="button-disabled" disabled="disabled" title="No state to be applied to this content object. You might need to be assigned a more permissive access policy."/>
+    </div>
+<div class="break"></div>
+</div>
+
+</form>
+</div>
+<script type="text/javascript">
+
+(function( $ )
+{
+    $('#tab-details-states-list select').change(function()
+    {
+        var btn = $('#tab-details-set-states');
+        if ( !btn.attr('disabled') )
+        {
+            btn.removeClass('button').addClass('defaultbutton');
+        }
+    });
+    $('#selected-section-id').change(function()
+    {
+        var btn = $('#tab-details-set-section');
+        if ( !btn.attr('disabled') )
+        {
+            btn.removeClass('button').addClass('defaultbutton');
+        }
+    });
+})( jQuery );
+
+</script>
+
+<!-- STOP: including template: design/admin/templates/details.tpl (design/admin/templates/details.tpl) -->
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-translations-content" class="tab-content hide">
+    
+<!-- START: including template: design/admin/templates/translations.tpl (design/admin/templates/translations.tpl) -->
+
+<form name="translationsform" method="post" action="/ezdemo_site_admin/content/translation">
+<input type="hidden" name="ContentNodeID" value="89" />
+<input type="hidden" name="ContentObjectID" value="87" />
+<input type="hidden" name="ViewMode" value="full" />
+<input type="hidden" name="ContentObjectLanguageCode" value="" />
+
+<fieldset>
+<legend>Existing translations</legend>
+
+<table id="tab-translations-list" class="list" cellspacing="0" summary="Language list of translations for current object.">
+<tr>
+    <th class="tight"><img src="/design/admin/images/toggle-button-16x16.gif" width="16" height="16" alt="Invert selection." title="Invert selection." onclick="ezjs_toggleCheckboxes( document.translationsform, 'LanguageID[]' ); return false;"/></th>
+    <th>Language</th>
+    <th>Locale</th>
+    <th class="tight">Main</th>
+    <th class="tight">&nbsp;</th>
+</tr>
+
+<tr class="bglight">
+
+
+<td>
+    <input type="checkbox" name="LanguageID[]" value="2" disabled="disabled" />
+</td>
+
+
+<td>
+<img src="/share/icons/flags/eng-GB.gif" width="18" height="12" alt="eng-GB" />
+&nbsp;<b><a href="/ezdemo_site_admin/City-Shopping/Products/New-York-Cab/(language)/eng-GB" title="View translation.">English (United Kingdom)</a></b></td>
+
+
+<td>eng-GB</td>
+
+
+<td>
+
+<input type="radio"  checked="checked" class="main-translation-radio main-translation-radio-initial" name="InitialLanguageID" value="2" title="Use these radio buttons to select the desired main language." />
+
+</td>
+
+
+<td>
+
+<a href="/ezdemo_site_admin/content/edit/87/f/eng-GB"><img src="/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Edit in &lt;English (United Kingdom)&gt;." title="Edit in &lt;English (United Kingdom)&gt;." /></a>
+
+</td>
+
+</tr>
+</table>
+
+<div class="block">
+<div class="button-left">        <input class="button-disabled" type="submit" name="RemoveTranslationButton" value="Remove selected" title="There is no removable language." disabled="disabled" />
+    </div>
+
+<div class="button-right">        <input class="button-disabled" type="submit" name="UpdateInitialLanguageButton" value="Set main" disabled="disabled" title="You cannot change the main language because the object is not translated to any other languages." />
+    </div>
+
+<div class="break"></div>
+</div>
+
+</fieldset>
+
+
+<div class="block">
+
+<div class="block">
+<input id="tab-translations-alwaysavailable-checkbox" type="checkbox" name="AlwaysAvailable" value="1" /> Use the main language if there is no prioritized translation.
+</div>
+
+<div class="block">    <input id="tab-translations-alwaysavailable-btn" class="button" type="submit" name="UpdateAlwaysAvailableButton" value="Update" title="Use this button to store the value of the checkbox above." />
+    <script type="text/javascript">
+    
+    (function( $ )
+    {
+        $('#tab-translations-alwaysavailable-checkbox').change(function()
+        {
+            $('#tab-translations-alwaysavailable-btn').removeClass('button').addClass('defaultbutton');
+        });
+    })( jQuery );
+    
+    </script></div>
+</div>
+
+
+</form>
+
+<!-- STOP: including template: design/admin/templates/translations.tpl (design/admin/templates/translations.tpl) -->
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-locations-content" class="tab-content hide">
+    
+<!-- START: including template: design/admin/templates/locations.tpl (design/admin/templates/locations.tpl) -->
+
+<form name="locationsform" method="post" action="/ezdemo_site_admin/content/action">
+<input type="hidden" name="ContentNodeID" value="89" />
+<input type="hidden" name="ContentObjectID" value="87" />
+<input type="hidden" name="ViewMode" value="full" />
+<input type="hidden" name="ContentObjectLanguageCode" value="" />
+
+<table id="tab-locations-list" class="list" cellspacing="0" summary="Locations (aka Nodes) for current object.">
+<tr>
+    <th class="tight"><img src="/design/admin/images/toggle-button-16x16.gif" width="16" height="16" alt="Invert selection." title="Invert selection." onclick="ezjs_toggleCheckboxes( document.locationsform, 'LocationIDSelection[]' ); return false;"/></th>
+    <th class="wide">Location</th>
+    <th class="tight">Sub items</th>
+
+    <th class="tight">Visibility</th>
+    <th class="tight">Main</th>
+</tr>    
+<tr class="bglight">
+
+    
+    <td>
+            <input type="checkbox" name="LocationIDSelection[]" value="89" disabled="disabled" title="This location cannot be removed either because you do not have permission to remove it or because it is currently being displayed." />
+        </td>
+
+    
+        <td> <a href="/ezdemo_site_admin">Home</a> /  <a href="/ezdemo_site_admin/City-Shopping">City Shopping</a> /  <a href="/ezdemo_site_admin/City-Shopping/Products">Products</a> /  <a href="/ezdemo_site_admin/City-Shopping/Products/New-York-Cab">New York Cab</a></td>
+    
+
+    
+    <td class="number" align="right">0</td>
+
+    
+
+
+    
+    <td class="nowrap">
+            Visible
+        [ <a href="/ezdemo_site_admin/content/hide/89" title="Hide location and all sub items." >Hide</a> ]
+        </td>
+
+    
+    <td>
+
+    
+        <input type="radio" checked="checked" name="MainAssignmentCheck" value="89" disabled="disabled" title="The item being displayed has only one location, which is by default the main location." />
+    
+    
+    </td>
+</tr></table>
+
+
+<input type="hidden" name="HasMainAssignment" value="1" />
+
+
+<div class="block">
+<div class="button-left">
+        <input class="button-disabled" type="submit" name="RemoveAssignmentButton" value="Remove selected" title="There is no removable location." disabled="disabled" />
+    
+        <input class="button" type="submit" name="AddAssignmentButton" value="Add locations" title="Add one or more new locations." />
+    </div>
+
+<div class="button-right">    <input class="button-disabled" type="submit" name="UpdateMainAssignmentButton" value="Set main" disabled="disabled" title="You cannot set the main location because there is only one location present." /></div>
+
+<div class="break"></div>
+</div>
+
+</form>
+<!-- STOP: including template: design/admin/templates/locations.tpl (design/admin/templates/locations.tpl) -->
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-relations-content" class="tab-content hide">
+    
+<!-- START: including template: design/admin/templates/relations.tpl (design/admin/templates/relations.tpl) -->
+
+<table class="list" cellspacing="0" summary="Object relation list from current object.">
+<tr>
+    <th>Related objects (0)</th>
+    </tr>    <tr><td>The item being viewed does not make use of any other objects.</td></tr></table>
+
+<br />
+
+
+<table class="list" cellspacing="0" summary="Reverse object relation list to current object.">
+<tr>
+    <th>Reverse related objects (0)</th>
+    </tr>    <tr><td>The item being viewed is not used by any other objects.</td></tr></table>
+<!-- START: including template: design/admin/templates/navigator/google.tpl (design/admin/templates/navigator/google.tpl) -->
+
+
+ 
+
+<!-- STOP: including template: design/admin/templates/navigator/google.tpl (design/admin/templates/navigator/google.tpl) -->
+
+<!-- STOP: including template: design/admin/templates/relations.tpl (design/admin/templates/relations.tpl) -->
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-ordering-content" class="tab-content hide">
+    
+<!-- START: including template: design/admin/templates/ordering.tpl (design/admin/templates/ordering.tpl) -->
+
+<form name="ordering" method="post" action="/ezdemo_site_admin/content/action">
+<input type="hidden" name="ContentNodeID" value="89" />
+<div class="block">    
+    <fieldset>
+        <legend>Published order</legend>
+    
+            
+                                            <input type="hidden" name="ContentObjectID" value="87" />
+                
+        <div class="block">Use these controls to set the sorting method for the sub items of the current location.</div>
+        <select id="ezasi-sort-field" name="SortingField" title="Use these controls to set the sorting method for the sub items of the current location.">
+                    <option value="6" >Class identifier</option>
+                    <option value="7" >Class name</option>
+                    <option value="5" >Depth</option>
+                    <option value="3" >Modified</option>
+                    <option value="9" >Name</option>
+                    <option value="1" selected="selected">Path String</option>
+                    <option value="8" >Priority</option>
+                    <option value="2" >Published</option>
+                    <option value="4" >Section</option>
+                </select>
+    
+        <select id="ezasi-sort-order" name="SortingOrder" title="Use these controls to set the sorting method for the sub items of the current location.">
+            <option value="0">Descending</option>
+            <option value="1" selected="selected">Ascending</option>
+        </select>
+    
+        <input  id="ezasi-sort-set" class="button" type="submit" name="SetSorting" value="Set" title="Use these controls to set the sorting method for the sub items of the current location."  />
+    
+            </fieldset>
+</div>
+</form>
+
+
+
+<script type="text/javascript">
+jQuery('#ezasi-sort-field, #ezasi-sort-order').each( function(){
+    jQuery( this ).attr( 'initial', this.value );
+} ).change(function(){
+    var t = $(this), o = $(this.id === 'ezasi-sort-field' ? '#ezasi-sort-order' : '#ezasi-sort-field'), s = $('#ezasi-sort-set');
+    // signal in gui if user needs to save this or not
+    if ( t.val() === t.attr('initial') && o.val() === o.attr('initial') )
+        s.removeClass('defaultbutton').addClass('button');
+    else
+        s.removeClass('button').addClass('defaultbutton');
+});
+</script>
+
+
+<!-- STOP: including template: design/admin/templates/ordering.tpl (design/admin/templates/ordering.tpl) -->
+<div class="break"></div>
+</div>
+
+<!-- START: including template: design/admin/templates/windows_extratabs.tpl (design/admin/templates/windows_extratabs.tpl) -->
+
+<!-- STOP: including template: design/admin/templates/windows_extratabs.tpl (design/admin/templates/windows_extratabs.tpl) -->
+
+<!-- STOP: including template: design/admin/templates/windows.tpl (design/admin/templates/windows.tpl) -->
+</div>
+
+<!-- STOP: including template: design/admin/templates/window_controls.tpl (design/admin/templates/window_controls.tpl) -->
+
+</div>
+
+</div>
+
+<div class="controlbar">
+
+
+<form method="post" action="/ezdemo_site_admin/content/action">
+<input type="hidden" name="TopLevelNode" value="89" />
+<input type="hidden" name="ContentNodeID" value="89" />
+<input type="hidden" name="ContentObjectID" value="87" />
+
+<div class="button-left">
+<div class='block'>
+                <select name="ContentObjectLanguageCode">
+                                   <option value="eng-GB" selected="selected">English (United Kingdom)</option>
+                                        <option value="">New translation</option>
+                        </select>
+        <input class="button" type="submit" name="EditButton" value="Edit" title="Edit the contents of this item." />
+    <input class="button" type="submit" name="MoveNodeButton" value="Move" title="Move this item to another location." />
+    <input class="button" type="submit" name="ActionRemove" value="Remove" title="Remove this item." /></div>
+</div>
+
+<div class="button-right">
+	<p class='versions'>
+    
+    <a href="/ezdemo_site_admin/content/history/87" title="View and manage (copy, delete, etc.) the versions of this object.">Manage versions</a>
+    </p>
+</div>
+
+<div class="float-break"></div>
+</form>
+
+</div>
+
+
+</div>
+
+
+<div id="content-view-children">    
+<!-- START: including template: design/admin/templates/no_children.tpl (design/admin/templates/no_children.tpl) -->
+<div class="context-block">
+
+<div class="box-header"><div class="box-ml">
+
+<h2 class="context-title"><a href="/ezdemo_site_admin/City-Shopping/Products"><img src="/design/admin/images/up-16x16-grey.png" width="16" height="16" alt="Up one level" title="Up one level" /></a> Sub items (0)</h2>
+
+
+
+</div></div>
+
+<div class="box-bc"><div class="box-ml"><div class="box-content">
+
+<div class="block">
+    <p>The &lt;Product&gt; class is not configured to contain any sub items.</p>
+</div>
+
+</div></div></div>
+
+</div>
+
+<!-- STOP: including template: design/admin/templates/no_children.tpl (design/admin/templates/no_children.tpl) -->
+</div>
+
+</div>
+
+ </div>
+</div>
+<!-- STOP: including template: design/admin/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+";s:15:"view_parameters";a:5:{s:6:"offset";b:0;s:4:"year";b:0;s:5:"month";b:0;s:3:"day";b:0;s:10:"namefilter";b:0;}s:4:"path";a:4:{i:0;a:4:{s:4:"text";s:4:"Home";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:13:"City Shopping";s:3:"url";s:21:"/content/view/full/87";s:9:"url_alias";s:13:"City-Shopping";s:7:"node_id";s:2:"87";}i:2;a:4:{s:4:"text";s:8:"Products";s:3:"url";s:21:"/content/view/full/88";s:9:"url_alias";s:22:"City-Shopping/Products";s:7:"node_id";s:2:"88";}i:3;a:4:{s:4:"text";s:12:"New York Cab";s:3:"url";b:0;s:9:"url_alias";b:0;s:7:"node_id";s:2:"89";}}s:10:"title_path";a:4:{i:0;a:4:{s:4:"text";s:4:"Home";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:13:"City Shopping";s:3:"url";s:21:"/content/view/full/87";s:9:"url_alias";s:13:"City-Shopping";s:7:"node_id";s:2:"87";}i:2;a:4:{s:4:"text";s:8:"Products";s:3:"url";s:21:"/content/view/full/88";s:9:"url_alias";s:22:"City-Shopping/Products";s:7:"node_id";s:2:"88";}i:3;a:3:{s:4:"text";s:12:"New York Cab";s:3:"url";b:0;s:9:"url_alias";b:0;}}s:10:"section_id";s:1:"1";s:7:"node_id";s:2:"89";s:15:"navigation_part";s:23:"ezcontentnavigationpart";s:12:"content_info";a:24:{s:9:"object_id";s:2:"87";s:7:"node_id";s:2:"89";s:14:"parent_node_id";s:2:"88";s:8:"class_id";s:2:"21";s:16:"class_identifier";s:7:"product";s:9:"remote_id";s:32:"36e4d2c8185dd4216b15c2ce950dec9d";s:14:"node_remote_id";s:32:"9121d4ca38abdd42999c4c5ad1bd8c3d";s:6:"offset";b:0;s:8:"viewmode";s:4:"full";s:26:"navigation_part_identifier";s:23:"ezcontentnavigationpart";s:10:"node_depth";s:1:"4";s:9:"url_alias";s:35:"City-Shopping/Products/New-York-Cab";s:16:"current_language";s:6:"eng-GB";s:13:"language_mask";s:1:"2";s:12:"main_node_id";s:2:"89";s:19:"main_node_url_alias";b:0;s:19:"persistent_variable";a:1:{s:8:"js_files";a:1:{i:0;s:12:"node_tabs.js";}}s:11:"class_group";b:0;s:5:"state";a:1:{i:2;s:1:"1";}s:16:"state_identifier";a:1:{i:0;s:18:"ez_lock/not_locked";}s:15:"parent_class_id";s:1:"1";s:23:"parent_class_identifier";s:6:"folder";s:21:"parent_node_remote_id";s:32:"c07971827e6e6cdbb9ab4e65a1ca7634";s:23:"parent_object_remote_id";s:32:"88ebdebc4d5e55ebe841c50a92882961";}s:13:"template_list";a:19:{i:0;s:41:"design/admin/templates/node/view/full.tpl";i:1;s:52:"design/admin/templates/infocollection_validation.tpl";i:2;s:42:"design/admin/templates/window_controls.tpl";i:3;s:52:"design/admin/templates/window_controls_extratabs.tpl";i:4;s:34:"design/admin/templates/windows.tpl";i:5;s:34:"design/admin/templates/preview.tpl";i:6;s:57:"design/admin/override/templates/admin_preview/product.tpl";i:7;s:59:"design/standard/templates/content/datatype/view/ezimage.tpl";i:8;s:61:"design/standard/templates/content/datatype/view/ezxmltext.tpl";i:9;s:86:"extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezxmltags/paragraph.tpl";i:11;s:74:"extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezprice.tpl";i:12;s:34:"design/admin/templates/details.tpl";i:13;s:39:"design/admin/templates/translations.tpl";i:14;s:36:"design/admin/templates/locations.tpl";i:15;s:36:"design/admin/templates/relations.tpl";i:16;s:43:"design/admin/templates/navigator/google.tpl";i:17;s:35:"design/admin/templates/ordering.tpl";i:18;s:44:"design/admin/templates/windows_extratabs.tpl";i:19;s:38:"design/admin/templates/no_children.tpl";}s:9:"cache_ttl";i:-1;}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4380" name="Awards" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Sun, 06 Jan 2013 16:05:47 GMT" ezremote:modified="Sun, 06 Jan 2013 16:05:47 GMT" remote_id="cc116a8861416cb37d3118b40b32901f" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Sun, 06 Jan 2013 16:05:35 GMT" ezremote:modified="Sun, 06 Jan 2013 16:05:47 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Awards">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56103" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Awards</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56104" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56105" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="57e8cd6de658a8d0b90d93edcfde126e" is-valid="1" last-checked="0" created="1357488347" modified="1357488347">http%3A%2F%2Fwww.datacenterdynamics.com%2Fawards</url>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56106" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="c7a718cc6afde74e761913102ce3e215" name="Awards" node-id="4356" remote-id="8a106133de7401fb3a4779157270f84c" sort-field="path" sort-order="1" priority="5"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4393" name="Company News" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Sun, 06 Jan 2013 16:36:18 GMT" ezremote:modified="Sun, 06 Jan 2013 16:36:18 GMT" remote_id="df5f296e171705f2523d78bf21ea078d" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Sun, 06 Jan 2013 16:35:58 GMT" ezremote:modified="Sun, 06 Jan 2013 16:36:18 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Company News">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56155" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Company News</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56156" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56157" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="86020b20acabf7cdd34a50876b5cb74a" is-valid="1" last-checked="0" created="1357490178" modified="1357490178">http%3A%2F%2Fwww.datacenterdynamics.com%2Ffocus%2Fthemes%2Findustry-news</url>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56158" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="04d56d1bb563f5c44153924bd65dc9fb" name="Company News" node-id="4369" remote-id="860480b867783949a9ad2f8d0b3cb914" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

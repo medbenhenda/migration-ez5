@@ -1,0 +1,446 @@
+[ Feb 19 2013 21:31:30 ] [127.0.0.1] :
+design/standard/templates/setup/clear_cache.tpl, utf-8
+[ Feb 19 2013 21:31:30 ] [127.0.0.1] :
+design/admin/templates/setup/quick_settings.tpl, utf-8
+[ Feb 19 2013 21:31:30 ] [127.0.0.1] :
+eZTemplate: Loading template "design/standard/templates/setup/clear_cache.tpl" with resource ""
+[ Feb 19 2013 21:31:30 ] [127.0.0.1] :
+design/standard/templates/setup/clear_cache.tpl, utf-8
+[ Feb 19 2013 21:31:30 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin/templates/setup/quick_settings.tpl" with resource ""
+[ Feb 19 2013 21:31:30 ] [127.0.0.1] :
+design/admin/templates/setup/quick_settings.tpl, utf-8
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin/override/templates/admin_preview/folder.tpl" with resource ""
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] :
+design/admin/override/templates/admin_preview/folder.tpl, utf-8
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] :
+eZTemplate: Loading template "parts/content/menu.tpl" with resource "design"
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] :
+eZTemplate: Loading template "node/oocontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezflcontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezmucontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] :
+eZTemplate: Loading template "node/oosubitemscontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezflsubitemscontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezmusubitemscontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] :
+eZTemplate: Loading template "node/oocontextsubmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezflcontextsubmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] :
+eZTemplate: Loading template "popupmenu/popup_tag_menu.tpl" with resource "design"
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] Timing Point: Script end
+[ Feb 19 2013 21:34:23 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezxmltext.tpl, utf-8
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+extension/ezdemo/design/ezdemo/templates/content/datatype/view/ezxmltags/paragraph.tpl, utf-8
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "parts/content/menu.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "node/oocontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezflcontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezmucontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "node/oosubitemscontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezflsubitemscontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezmusubitemscontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "node/oocontextsubmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezflcontextsubmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "popupmenu/popup_tag_menu.tpl" with resource "design"
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] Timing Point: Script end
+[ Feb 19 2013 21:34:30 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Feb 19 2013 21:34:34 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Feb 19 2013 21:34:34 ] [127.0.0.1] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Feb 19 2013 21:34:34 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezstring.tpl" with resource "design"
+[ Feb 19 2013 21:34:34 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezstring.tpl" with resource "design"
+[ Feb 19 2013 21:34:34 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezstring.tpl" with resource "design"
+[ Feb 19 2013 21:34:34 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezurl.tpl" with resource "design"
+[ Feb 19 2013 21:34:34 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezurl.tpl, utf-8
+[ Feb 19 2013 21:34:34 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezselection.tpl" with resource "design"
+[ Feb 19 2013 21:34:34 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezselection.tpl, utf-8
+[ Feb 19 2013 21:34:34 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezinteger.tpl" with resource "design"
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezinteger.tpl, utf-8
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezinteger.tpl" with resource "design"
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezinteger.tpl" with resource "design"
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezinteger.tpl" with resource "design"
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin/templates/no_children.tpl" with resource ""
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+design/admin/templates/no_children.tpl, utf-8
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+eZTemplate: Loading template "parts/content/menu.tpl" with resource "design"
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+eZTemplate: Loading template "node/oocontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezflcontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezmucontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+eZTemplate: Loading template "node/oosubitemscontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezflsubitemscontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezmusubitemscontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+eZTemplate: Loading template "node/oocontextsubmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezflcontextsubmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+eZTemplate: Loading template "popupmenu/popup_tag_menu.tpl" with resource "design"
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] Timing Point: Script end
+[ Feb 19 2013 21:34:35 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Feb 19 2013 21:34:38 ] [127.0.0.1] Timing Point: Module start 'class'
+[ Feb 19 2013 21:34:38 ] [127.0.0.1] :
+eZTemplate: Loading template "class/view.tpl" with resource "design"
+[ Feb 19 2013 21:34:38 ] [127.0.0.1] :
+design/admin/templates/class/view.tpl, utf-8
+[ Feb 19 2013 21:34:38 ] [127.0.0.1] :
+eZTemplate: Loading template "class/window_controls.tpl" with resource "design"
+[ Feb 19 2013 21:34:38 ] [127.0.0.1] :
+eZTemplate: Loading template "class/windows.tpl" with resource "design"
+[ Feb 19 2013 21:34:38 ] [127.0.0.1] :
+design/admin/templates/class/window_controls.tpl, utf-8
+[ Feb 19 2013 21:34:38 ] [127.0.0.1] :
+design/admin/templates/class/windows.tpl, utf-8
+[ Feb 19 2013 21:34:38 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin/templates/class/window_controls.tpl" with resource ""
+[ Feb 19 2013 21:34:38 ] [127.0.0.1] :
+design/admin/templates/class/window_controls.tpl, utf-8
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "class/datatype/view/ezstring.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+design/standard/templates/class/datatype/view/ezstring.tpl, utf-8
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "class/datatype/view/ezstring.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "class/datatype/view/ezstring.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "class/datatype/view/ezurl.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+design/standard/templates/class/datatype/view/ezurl.tpl, utf-8
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "class/datatype/view/ezselection.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+design/standard/templates/class/datatype/view/ezselection.tpl, utf-8
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "class/datatype/view/ezinteger.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+design/standard/templates/class/datatype/view/ezinteger.tpl, utf-8
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "class/datatype/view/ezinteger.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "class/datatype/view/ezinteger.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "class/datatype/view/ezinteger.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin/templates/class/windows.tpl" with resource ""
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+design/admin/templates/class/windows.tpl, utf-8
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "class/translations.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "class/groups.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "class/templates.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+design/admin/templates/class/translations.tpl, utf-8
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+design/admin/templates/class/groups.tpl, utf-8
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+design/admin/templates/class/templates.tpl, utf-8
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] Timing Point: Module end 'class'
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "parts/setup/menu.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+design/admin/templates/parts/setup/menu.tpl, utf-8
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "parts/ini_menu.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "node/oocontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezflcontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezmucontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "node/oosubitemscontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezflsubitemscontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezmusubitemscontextmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "node/oocontextsubmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezflcontextsubmenu.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "popupmenu/popup_tag_menu.tpl" with resource "design"
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] Timing Point: Script end
+[ Feb 19 2013 21:34:39 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:17 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] :
+eZTemplate: Loading template "flag_market.tpl" with resource "design"
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/.tpl" with resource "design"
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:35:18 ] [127.0.0.1] :
+eZTemplate: Loading template "_common/page_header_searchbox.tpl" with resource "design"
+[ Feb 19 2013 21:37:41 ] [127.0.0.1] Timing Point: Script start
+[ Feb 19 2013 21:37:41 ] [127.0.0.1] :
+eZTemplate: Loading template "_common/page_header_tools.tpl" with resource "design"
+[ Feb 19 2013 21:37:41 ] [127.0.0.1] :
+extension/dcdgroup/design/group/templates/_common/page_header_tools.tpl, utf-8
+[ Feb 19 2013 21:37:41 ] [127.0.0.1] :
+eZTemplate: Loading template "_common/page_header_searchbox.tpl" with resource "design"
+[ Feb 19 2013 21:37:41 ] [127.0.0.1] :
+eZTemplate: Loading template "page_topmenu.tpl" with resource "design"
+[ Feb 19 2013 21:37:41 ] [127.0.0.1] :
+extension/dcdgroup/design/group/templates/page_topmenu.tpl, utf-8
+[ Feb 19 2013 21:37:41 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:41 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezimage.tpl, utf-8
+[ Feb 19 2013 21:37:41 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:41 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:41 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"
+[ Feb 19 2013 21:37:42 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezimage.tpl" with resource "design"

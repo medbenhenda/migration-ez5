@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4375" name=" Conferences" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Sun, 06 Jan 2013 16:02:12 GMT" ezremote:modified="Sun, 06 Jan 2013 16:02:12 GMT" remote_id="d05f4a82d19ce807cfd7ad931ae54c4a" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Sun, 06 Jan 2013 16:00:41 GMT" ezremote:modified="Sun, 06 Jan 2013 16:02:12 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name=" Conferences">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56083" ezremote:identifier="name" name="Name" type="ezstring">
+          <text> Conferences</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56084" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56085" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="b6645e30c1702695a120384cc7f21981" is-valid="1" last-checked="0" created="1357488132" modified="1357488132">http%3A%2F%2Fwww.datacenterdynamics.com%2Fconference</url>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56086" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="c7a718cc6afde74e761913102ce3e215" name=" Conferences" node-id="4351" remote-id="43c4f687ee6b673a6742a9dda7170c5c" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

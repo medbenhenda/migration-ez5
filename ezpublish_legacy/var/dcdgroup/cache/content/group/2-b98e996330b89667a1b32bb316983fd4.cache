@@ -1,0 +1,881 @@
+a:10:{s:7:"content";s:56442:"
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/full/landing_page.tpl (design:node/view/full.tpl) -->
+<div class="content-view-full">
+    <div class="class-landing-page">
+
+    <div class="attribute-page">
+    
+<!-- START: including template: extension/ezflow/design/standard/templates/content/datatype/view/ezpage.tpl (design:content/datatype/view/ezpage.tpl) -->
+        
+<!-- START: including template: extension/ezdemo/design/ezdemo/templates/zone/2zoneslayout1.tpl (design:zone/2zoneslayout1.tpl) -->
+<div class="zone-layout-2zoneslayout1 row">
+    <div class="span8">
+        <section class="content-view-block">
+                                        
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-865346aabbcc48a9839274cc554868be-4efd68496edd8184aade729b4d2ee17b">
+    
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/block/campaign.tpl (extension/ezdemo/design/ezdemo/override/templates/block/campaign.tpl) -->
+<!-- BLOCK: START -->
+<div class="block-type-campaign">
+    <div class="campaign">
+        <a href="#" class="navig prev" style="opacity:0;"><span class="hide">&lt;</span></a>
+        <a href="#" class="navig next disabled"><span class="hide">&gt;</span></a>
+        <ul class="indicator disabled">
+                        <li class="selected"><span class="hide">1</span></li>
+                    </ul>
+        <ul class="images">
+        <li>
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/block_item_campaign/article.tpl (extension/ezdemo/design/ezdemo/override/templates/block_item_campaign/article.tpl) -->
+<!-- BOX CONTENT: START -->
+<figure class="attribute-image">
+    <img src="/var/storage/images/getting-started/selected-features/getting-started-with-ez-publish-5/301-1-eng-GB/Getting-Started-with-eZ-Publish-5_campaign.jpg" width="770" height="390" alt="Getting Started with eZ Publish 5" />
+    <figcaption class="attribute-caption">
+                    
+<!-- START: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+    
+<!-- START: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Welcome to eZ Publish 5. This release brings several new features and general improvements.</p>
+<!-- STOP: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+                <h3><a href="/Getting-Started/Selected-Features/Getting-Started-with-eZ-Publish-5">Getting Started with eZ Publish 5</a></h3>
+    </figcaption>
+</figure>
+<!-- BOX CONTENT: END -->
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/block_item_campaign/article.tpl (extension/ezdemo/design/ezdemo/override/templates/block_item_campaign/article.tpl) -->
+</li>        </ul>
+    </div>
+</div>
+<!-- BLOCK: END --><script type="text/javascript">
+
+YUI(YUI3_config).use('event', 'ezsimplegallery', function (Y) {
+    Y.on('domready', function () {
+        Y.all('.block-type-campaign').each(function () {
+            var gal = new Y.eZ.SimpleGallery({
+                gallery: this
+            });
+        });
+    });
+});
+
+</script>
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/block/campaign.tpl (extension/ezdemo/design/ezdemo/override/templates/block/campaign.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                            
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-865346aabbcc48a9839274cc554868be-bffec84af43985679e30e6ff6d79c19b">
+    
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/block/content_grid_2cols_2rows.tpl (extension/ezdemo/design/ezdemo/override/templates/block/content_grid_2cols_2rows.tpl) -->
+
+<div class="block-type-content-grid block-view-2_columns_2_rows">
+
+        <div class="attribute-header">
+        <h2>Mixed Content</h2>
+    </div>
+    
+    <div class="row">
+            <div class="span4">
+        
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl (extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl) -->
+<article>
+
+    <a href="/Getting-Started/Selected-Features/Create" class="teaser-link">
+            <div class="attribute-image">
+            
+<!-- START: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+
+
+    
+        
+    
+                                                                                                                                            <img src="/var/storage/images/getting-started/selected-features/create/277-1-eng-GB/Create_contentgrid.jpg" width="370" height="135"  style="border: 0px  ;" alt="Create" title="Create" />
+            
+    
+    
+    
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+        </div>
+            <div class="attribute-header">
+            <h3>Create</h3>
+        </div>
+    </a>
+
+    <div class="attribute-short">
+        
+<!-- START: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+    
+<!-- START: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Increasing the productivity of your content infrastructure, eZ Publish Enterprise provides you with powerful tools to create, automate and collaborate on content.</p>
+<!-- STOP: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+    </div>
+
+</article>
+
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl (extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl) -->
+        </div>
+
+                    <div class="span4">
+        
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl (extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl) -->
+<article>
+
+    <a href="/Getting-Started/Selected-Features/Deliver" class="teaser-link">
+            <div class="attribute-image">
+            
+<!-- START: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+
+
+    
+        
+    
+                                                                                                                                            <img src="/var/storage/images/getting-started/selected-features/deliver/265-1-eng-GB/Deliver_contentgrid.jpg" width="370" height="135"  style="border: 0px  ;" alt="Content Clustering with eZ Find" title="Content Clustering with eZ Find" />
+            
+    
+    
+    
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+        </div>
+            <div class="attribute-header">
+            <h3>Deliver</h3>
+        </div>
+    </a>
+
+    <div class="attribute-short">
+        
+<!-- START: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+    
+<!-- START: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>Content consumption is changing rapidly. An agile solution to distribute your content and empower your digital business model is key to success in every industry.</p>
+<!-- STOP: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+    </div>
+
+</article>
+
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl (extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl) -->
+        </div>
+
+                    </div>
+        <div class="row">
+                <div class="span4">
+        
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl (extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl) -->
+<article>
+
+    <a href="/City-Shopping/Locations/New-York-City" class="teaser-link">
+            <div class="attribute-image">
+            
+<!-- START: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+
+
+    
+        
+    
+                                                                                                                                            <img src="/var/storage/images/city-shopping/locations/new-york-city/451-1-eng-GB/New-York-City_contentgrid.jpg" width="370" height="160"  style="border: 0px  ;" alt="New York City" title="New York City" />
+            
+    
+    
+    
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+        </div>
+            <div class="attribute-header">
+            <h3>New York City</h3>
+        </div>
+    </a>
+
+    <div class="attribute-short">
+        
+<!-- START: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+    
+<!-- START: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>New York is the 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="http://en.wikipedia.org/wiki/List_of_United_States_cities_by_population" title="List of United States cities by population" target="_self">most populous city</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+ in the 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="http://en.wikipedia.org/wiki/United_States" title="United States" target="_self">United States</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+ and the center of the 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="http://en.wikipedia.org/wiki/New_York_Metropolitan_Area" title="New York Metropolitan Area" target="_self">New York Metropolitan Area</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+, one of the 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="http://en.wikipedia.org/wiki/List_of_metropolitan_areas_by_population" title="List of metropolitan areas by population" target="_self">most populous metropolitan areas</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+ in the world.</p>
+<!-- STOP: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+    </div>
+
+</article>
+
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl (extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl) -->
+        </div>
+
+                    <div class="span4">
+        
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl (extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl) -->
+<article>
+
+    <a href="/Travel/Information/Amazon-Jungle" class="teaser-link">
+            <div class="attribute-image">
+            
+<!-- START: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+
+
+    
+        
+    
+                                                                                                                                            <img src="/var/storage/images/travel/information/amazon-jungle/382-1-eng-GB/Amazon-Jungle_contentgrid.jpg" width="370" height="160"  style="border: 0px  ;" alt="Amazon Jungle" title="Amazon Jungle" />
+            
+    
+    
+    
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+        </div>
+            <div class="attribute-header">
+            <h3>Amazon Jungle</h3>
+        </div>
+    </a>
+
+    <div class="attribute-short">
+        
+<!-- START: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+    
+<!-- START: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>The Amazon Rainforest, also known in English as Amazoniaor the Amazon Jungle, is a 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="http://en.wikipedia.org/wiki/Tropical_and_subtropical_moist_broadleaf_forests" title="Tropical and subtropical moist broadleaf forests" target="_self">moist broadleaf forest</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+ that covers most of the 
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<a href="http://en.wikipedia.org/wiki/Amazon_Basin" title="Amazon Basin" target="_self">Amazon Basin</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+ of South America.</p>
+<!-- STOP: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+    </div>
+
+</article>
+
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl (extension/ezdemo/design/ezdemo/override/templates/block_item/article.tpl) -->
+        </div>
+
+                </div>
+
+</div>
+
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/block/content_grid_2cols_2rows.tpl (extension/ezdemo/design/ezdemo/override/templates/block/content_grid_2cols_2rows.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                            
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-865346aabbcc48a9839274cc554868be-d769ae69f693b76429a731a8ce475e23">
+    
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/block/gallery.tpl (extension/ezdemo/design/ezdemo/override/templates/block/gallery.tpl) -->
+<!-- BLOCK: START -->
+<div class="block-type-gallery">
+
+    <div class="block-gallery">
+        <div class="gallery-viewer">
+            
+<!-- START: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_viewer.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_viewer.tpl) -->
+<figure class="gallery-viewer-image visible">
+    <img src="/var/storage/images/travel/peruvian-amazon/river-boat/322-1-eng-GB/River-Boat_gallery.jpg" alt="River Boat" height="390" width="770" />
+    <figcaption>
+        <h3>
+            <span class="counter"><span>1</span>/8</span>
+            <a href="/Travel/Peruvian-Amazon/River-Boat">River Boat</a>
+        </h3>
+        <div>
+                </div>
+    </figcaption>
+</figure>
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_viewer.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_viewer.tpl) -->
+                                                                
+<!-- START: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_viewer.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_viewer.tpl) -->
+<figure class="gallery-viewer-image hidden">
+    <img src="/var/storage/images/travel/peruvian-amazon/amazon-side-river/317-1-eng-GB/Amazon-Side-River_gallery.jpg" alt="Amazon Side River" height="390" width="770" />
+    <figcaption>
+        <h3>
+            <span class="counter"><span>1</span>/8</span>
+            <a href="/Travel/Peruvian-Amazon/Amazon-Side-River">Amazon Side River</a>
+        </h3>
+        <div>
+                </div>
+    </figcaption>
+</figure>
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_viewer.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_viewer.tpl) -->
+                                                                                                                                                                                                                                                                                                                                </div>
+        <div class="gallery-navigator">
+            <a href="#" class="navig prev" style="opacity:0;"><span class="hide">&lt;</span></a>
+            <a href="#" class="navig next"><span class="hide">&gt;</span></a>
+
+            <img src="/extension/ezdemo/design/ezdemo/images/fg-selected.png" alt="Selected indicator" class="cursor" />
+            <ul class="images">
+                            <li>
+<!-- START: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl) -->
+<!-- BOX CONTENT: START -->
+<figure class="attribute-image" data-gallery-src="/var/storage/images/travel/peruvian-amazon/river-boat/322-1-eng-GB/River-Boat_gallery.jpg" data-gallery-height="390" data-gallery-width="770" data-gallery-node-url="/Travel/Peruvian-Amazon/River-Boat" data-gallery-node-id="75" data-gallery-item="image" title="River Boat">
+    <a href="/Travel/Peruvian-Amazon/River-Boat"><img src="/var/storage/images/travel/peruvian-amazon/river-boat/322-1-eng-GB/River-Boat_gallerythumbnail.jpg"
+         width="105" height="70"
+         alt="River Boat" /></a>
+    <figcaption class="attribute-caption">
+            </figcaption>
+</figure>
+<!-- BOX CONTENT: END -->
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl) -->
+</li>
+                            <li>
+<!-- START: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl) -->
+<!-- BOX CONTENT: START -->
+<figure class="attribute-image" data-gallery-src="/var/storage/images/travel/peruvian-amazon/amazon-side-river/317-1-eng-GB/Amazon-Side-River_gallery.jpg" data-gallery-height="390" data-gallery-width="770" data-gallery-node-url="/Travel/Peruvian-Amazon/Amazon-Side-River" data-gallery-node-id="74" data-gallery-item="image" title="Amazon Side River">
+    <a href="/Travel/Peruvian-Amazon/Amazon-Side-River"><img src="/var/storage/images/travel/peruvian-amazon/amazon-side-river/317-1-eng-GB/Amazon-Side-River_gallerythumbnail.jpg"
+         width="105" height="70"
+         alt="Amazon Side River" /></a>
+    <figcaption class="attribute-caption">
+            </figcaption>
+</figure>
+<!-- BOX CONTENT: END -->
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl) -->
+</li>
+                            <li>
+<!-- START: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl) -->
+<!-- BOX CONTENT: START -->
+<figure class="attribute-image" data-gallery-src="/var/storage/images/travel/peruvian-amazon/aligator/352-1-eng-GB/Aligator_gallery.jpg" data-gallery-height="390" data-gallery-width="770" data-gallery-node-url="/Travel/Peruvian-Amazon/Aligator" data-gallery-node-id="81" data-gallery-item="image" title="Aligator">
+    <a href="/Travel/Peruvian-Amazon/Aligator"><img src="/var/storage/images/travel/peruvian-amazon/aligator/352-1-eng-GB/Aligator_gallerythumbnail.jpg"
+         width="105" height="70"
+         alt="Aligator" /></a>
+    <figcaption class="attribute-caption">
+            </figcaption>
+</figure>
+<!-- BOX CONTENT: END -->
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl) -->
+</li>
+                            <li>
+<!-- START: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl) -->
+<!-- BOX CONTENT: START -->
+<figure class="attribute-image" data-gallery-src="/var/storage/images/travel/peruvian-amazon/bird-island/347-1-eng-GB/Bird-Island_gallery.jpg" data-gallery-height="390" data-gallery-width="770" data-gallery-node-url="/Travel/Peruvian-Amazon/Bird-Island" data-gallery-node-id="80" data-gallery-item="image" title="Bird Island">
+    <a href="/Travel/Peruvian-Amazon/Bird-Island"><img src="/var/storage/images/travel/peruvian-amazon/bird-island/347-1-eng-GB/Bird-Island_gallerythumbnail.jpg"
+         width="105" height="70"
+         alt="Bird Island" /></a>
+    <figcaption class="attribute-caption">
+            </figcaption>
+</figure>
+<!-- BOX CONTENT: END -->
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl) -->
+</li>
+                            <li>
+<!-- START: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl) -->
+<!-- BOX CONTENT: START -->
+<figure class="attribute-image" data-gallery-src="/var/storage/images/travel/peruvian-amazon/heron-in-the-water/342-1-eng-GB/Heron-in-the-Water_gallery.jpg" data-gallery-height="390" data-gallery-width="770" data-gallery-node-url="/Travel/Peruvian-Amazon/Heron-in-the-Water" data-gallery-node-id="79" data-gallery-item="image" title="Heron in the Water">
+    <a href="/Travel/Peruvian-Amazon/Heron-in-the-Water"><img src="/var/storage/images/travel/peruvian-amazon/heron-in-the-water/342-1-eng-GB/Heron-in-the-Water_gallerythumbnail.jpg"
+         width="105" height="65"
+         alt="Heron in the Water" /></a>
+    <figcaption class="attribute-caption">
+            </figcaption>
+</figure>
+<!-- BOX CONTENT: END -->
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl) -->
+</li>
+                            <li>
+<!-- START: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl) -->
+<!-- BOX CONTENT: START -->
+<figure class="attribute-image" data-gallery-src="/var/storage/images/travel/peruvian-amazon/hat-on-a-stick/337-1-eng-GB/Hat-on-a-Stick_gallery.jpg" data-gallery-height="390" data-gallery-width="770" data-gallery-node-url="/Travel/Peruvian-Amazon/Hat-on-a-Stick" data-gallery-node-id="78" data-gallery-item="image" title="Hat on a Stick">
+    <a href="/Travel/Peruvian-Amazon/Hat-on-a-Stick"><img src="/var/storage/images/travel/peruvian-amazon/hat-on-a-stick/337-1-eng-GB/Hat-on-a-Stick_gallerythumbnail.jpg"
+         width="105" height="70"
+         alt="Hat on a Stick" /></a>
+    <figcaption class="attribute-caption">
+            </figcaption>
+</figure>
+<!-- BOX CONTENT: END -->
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl) -->
+</li>
+                            <li>
+<!-- START: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl) -->
+<!-- BOX CONTENT: START -->
+<figure class="attribute-image" data-gallery-src="/var/storage/images/travel/peruvian-amazon/turtles/332-1-eng-GB/Turtles_gallery.jpg" data-gallery-height="390" data-gallery-width="770" data-gallery-node-url="/Travel/Peruvian-Amazon/Turtles" data-gallery-node-id="77" data-gallery-item="image" title="Turtles">
+    <a href="/Travel/Peruvian-Amazon/Turtles"><img src="/var/storage/images/travel/peruvian-amazon/turtles/332-1-eng-GB/Turtles_gallerythumbnail.jpg"
+         width="105" height="70"
+         alt="Turtles" /></a>
+    <figcaption class="attribute-caption">
+            </figcaption>
+</figure>
+<!-- BOX CONTENT: END -->
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl) -->
+</li>
+                            <li>
+<!-- START: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl) -->
+<!-- BOX CONTENT: START -->
+<figure class="attribute-image" data-gallery-src="/var/storage/images/travel/peruvian-amazon/flying-bird/327-1-eng-GB/Flying-Bird_gallery.jpg" data-gallery-height="390" data-gallery-width="770" data-gallery-node-url="/Travel/Peruvian-Amazon/Flying-Bird" data-gallery-node-id="76" data-gallery-item="image" title="Flying Bird">
+    <a href="/Travel/Peruvian-Amazon/Flying-Bird"><img src="/var/storage/images/travel/peruvian-amazon/flying-bird/327-1-eng-GB/Flying-Bird_gallerythumbnail.jpg"
+         width="105" height="70"
+         alt="Flying Bird" /></a>
+    <figcaption class="attribute-caption">
+            </figcaption>
+</figure>
+<!-- BOX CONTENT: END -->
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl (extension/ezdemo/design/ezdemo/templates/node/view/gallery_item.tpl) -->
+</li>
+                        </ul>
+        </div>
+
+    </div>
+        <script type="text/javascript">
+    
+
+    YUI(YUI3_config).use('ezgallery', 'event', function (Y) {
+        Y.on('domready', function () {
+            Y.all('.block-type-gallery').each(function () {
+                var g = new Y.eZ.Gallery({
+                    title: 'h3 a',
+                    caption: 'figcaption div',
+                    autoFixSizes: false,
+                    autoScrollOnSelect: false,
+                    navigator: {
+                        gallery: this.one('.block-gallery')
+                    },
+                    initFunc: function () {
+                        var imgs = this.navigator.getImages();
+
+                        setTimeout(function () {
+                            imgs.each(function(elem) {
+                                (new Image).src = elem.getAttribute('data-gallery-src');
+                            });
+                        }, 0);
+                    },
+                    updateFunc: function (item) {
+                        var node = item.imageNode,
+                            img = this.container.one('.gallery-viewer-image').one('> img');
+
+                        if ( node.getAttribute('data-gallery-item') == 'image' ) {
+                            this.container.one('.visible').replaceClass('visible', 'hidden');
+                            this.container.one('.gallery-viewer-image').replaceClass('hidden', 'visible');
+                        } else if ( node.getAttribute('data-gallery-item') == 'video' ) {
+                            this.container.one('.gallery-viewer-image').replaceClass('visible', 'hidden');
+                            this.container.one('#gallery-viewer-video-' + node.getAttribute('data-gallery-node-id')).replaceClass('hidden', 'visible');
+                        }
+
+                        if ( img ) {
+                            img.setAttribute('src', node.getAttribute('data-gallery-src'));
+                            img.setAttribute('height', node.getAttribute('data-gallery-height'));
+                            img.setAttribute('width', node.getAttribute('data-gallery-width'));
+                            img.setAttribute('alt', node.get('title'));
+                        }
+
+                        var t = this.container.one('.visible ' + this.conf.title),
+                            cap = this.container.one('.visible ' + this.conf.caption),
+                            c = this.container.one('.visible ' + this.conf.counter);
+
+                        t.setContent(node.get('title'));
+                        t.setAttribute('href', node.getAttribute('data-gallery-node-url'));
+                        c.setContent(item.index + 1);
+                        cap.setContent(node.one('figcaption').getContent());
+                    }
+                });
+            });
+        });
+    });
+    
+    
+    </script>
+    </div>
+<!-- BLOCK: END -->
+
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/block/gallery.tpl (extension/ezdemo/design/ezdemo/override/templates/block/gallery.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                                </section>
+    </div>
+    <div class="span4">
+        <aside>
+            <section class="content-view-block content-view-aside">
+                                                    
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-f742abffba08fc849b6e80dec769a74c-cd58c813f7463484f22a2168a44cdcc4">
+    
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/block/highlighted_item.tpl (extension/ezdemo/design/ezdemo/override/templates/block/highlighted_item.tpl) -->
+
+<div class="block-type-highlighted-item block-view-default">
+    <article class="highlighted">
+        <a href="/Getting-Started/Selected-Features/Optimize" class="teaser-link">
+                    <div class="attribute-image">
+                
+<!-- START: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+
+
+    
+        
+    
+                                                                                                                                            <img src="/var/storage/images/getting-started/selected-features/optimize/289-1-eng-GB/Optimize_contentgrid.jpg" width="370" height="160"  style="border: 0px  ;" alt="Optimize" title="Optimize" />
+            
+    
+    
+    
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+            </div>
+                    <div class="attribute-header">
+                <h3>Optimize</h3>
+            </div>
+            <div class="attribute-short">
+                
+<!-- START: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+    
+<!-- START: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p>It’s about the right content at the right time and in the right format!</p>
+<!-- STOP: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+
+<!-- STOP: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+            </div>
+        </a>
+    </article>
+</div>
+
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/block/highlighted_item.tpl (extension/ezdemo/design/ezdemo/override/templates/block/highlighted_item.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                                    
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-f742abffba08fc849b6e80dec769a74c-9481d2b1810c928ded55e94b0ae13647">
+    
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/block/content_grid_1col_2rows.tpl (extension/ezdemo/design/ezdemo/override/templates/block/content_grid_1col_2rows.tpl) -->
+
+<div class="block-type-content-grid block-view-default">
+
+        <div class="attribute-header">
+        <h2>Main Items</h2>
+    </div>
+    
+            
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/block_item/product.tpl (extension/ezdemo/design/ezdemo/override/templates/block_item/product.tpl) -->
+<article class="selected-products">
+    <div class="attribute-image">
+        
+<!-- START: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+
+
+    
+        
+    
+                                                                                                                                    <a href="/City-Shopping/Products/Street-Crossing">        <img src="/var/storage/images/city-shopping/products/street-crossing/435-1-eng-GB/Street-Crossing_productthumbnail.jpg" width="170" height="103"  style="border: 0px  ;" alt="Old street crossing." title="Old street crossing." />
+        </a>    
+    
+    
+    
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+    </div>
+    <div class="product-info">
+        <div class="attribute-header">
+            <a href="/City-Shopping/Products/Street-Crossing" class="teaser-link">
+                <h3>Street Crossing</h3>
+            </a>
+        </div>
+        <ul class="breadcrumb">
+                        <li>
+                <a href="/">Home</a>
+                            </li>
+                            <span class="divider">»</span>
+                            <li>
+                <a href="/City-Shopping">City Shopping</a>
+                            </li>
+                            <span class="divider">»</span>
+                            <li>
+                <a href="/City-Shopping/Products">Products</a>
+                            </li>
+                    </ul>
+        <form method="post" action="/content/action">
+            <fieldset>
+                <div class="item-price">
+                    £ 79.00
+                </div>
+                <div class="item-buying-action form-inline">
+                    <label>
+                        <span class="hidden">Amount</span>
+                        <input type="text" name="Quantity" />
+                    </label>
+                    <button class="btn btn-warning" type="submit" name="ActionAddToBasket">
+                        Buy
+                    </button>
+                </div>
+            </fieldset>
+            <input type="hidden" name="ContentNodeID" value="91" />
+            <input type="hidden" name="ContentObjectID" value="89" />
+            <input type="hidden" name="ViewMode" value="full" />
+        </form>
+    </div>
+</article>
+
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/block_item/product.tpl (extension/ezdemo/design/ezdemo/override/templates/block_item/product.tpl) -->
+            
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/block_item/product.tpl (extension/ezdemo/design/ezdemo/override/templates/block_item/product.tpl) -->
+<article class="selected-products">
+    <div class="attribute-image">
+        
+<!-- START: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+
+
+    
+        
+    
+                                                                                                                                    <a href="/City-Shopping/Products/City-View">        <img src="/var/storage/images/city-shopping/products/city-view/424-1-eng-GB/City-View_productthumbnail.jpg" width="170" height="128"  style="border: 0px  ;" alt="City View" title="City View" />
+        </a>    
+    
+    
+    
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezimage.tpl (design:content/datatype/view/ezimage.tpl) -->
+    </div>
+    <div class="product-info">
+        <div class="attribute-header">
+            <a href="/City-Shopping/Products/City-View" class="teaser-link">
+                <h3>City View</h3>
+            </a>
+        </div>
+        <ul class="breadcrumb">
+                        <li>
+                <a href="/">Home</a>
+                            </li>
+                            <span class="divider">»</span>
+                            <li>
+                <a href="/City-Shopping">City Shopping</a>
+                            </li>
+                            <span class="divider">»</span>
+                            <li>
+                <a href="/City-Shopping/Products">Products</a>
+                            </li>
+                    </ul>
+        <form method="post" action="/content/action">
+            <fieldset>
+                <div class="item-price">
+                    £ 256.00
+                </div>
+                <div class="item-buying-action form-inline">
+                    <label>
+                        <span class="hidden">Amount</span>
+                        <input type="text" name="Quantity" />
+                    </label>
+                    <button class="btn btn-warning" type="submit" name="ActionAddToBasket">
+                        Buy
+                    </button>
+                </div>
+            </fieldset>
+            <input type="hidden" name="ContentNodeID" value="90" />
+            <input type="hidden" name="ContentObjectID" value="88" />
+            <input type="hidden" name="ViewMode" value="full" />
+        </form>
+    </div>
+</article>
+
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/block_item/product.tpl (extension/ezdemo/design/ezdemo/override/templates/block_item/product.tpl) -->
+    
+</div>
+
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/block/content_grid_1col_2rows.tpl (extension/ezdemo/design/ezdemo/override/templates/block/content_grid_1col_2rows.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                                    
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-f742abffba08fc849b6e80dec769a74c-b0d7b1fae15381576e13e5bd1480f555">
+    
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/block/feed_reader.tpl (extension/ezdemo/design/ezdemo/override/templates/block/feed_reader.tpl) -->
+
+<div class="block-type-feed-reader item-list">
+    <div class="attribute-header">
+        <h2>
+            <a href="http://ez.no/" title="eZ News">eZ News</a>
+        </h2>
+    </div>
+    <article>
+        <ul>
+                    <li>
+                <a href="http://ez.no/About-eZ/Events-News/News/eZ-Marketing-Automation-The-next-generation-digital-experience-solution" title="eZ Marketing Automation: The next generation digital experience solution.">eZ Marketing Automation: The next generation digital experience solution.</a>
+            </li>
+                    <li>
+                <a href="http://ez.no/About-eZ/Events-News/News/Nominations-open-for-eZ-Awards" title="Nominations open for eZ Awards!">Nominations open for eZ Awards!</a>
+            </li>
+                    <li>
+                <a href="http://ez.no/About-eZ/Events-News/News/The-eZ-Publish-Users-Developers-Meetup-group-presents-a-webcast-recording" title="The eZ Publish Users ">The eZ Publish Users </a>
+            </li>
+                    <li>
+                <a href="http://ez.no/About-eZ/Events-News/News/Mobile-Web-a-growing-market" title="Mobile Web: a growing market">Mobile Web: a growing market</a>
+            </li>
+                    <li>
+                <a href="http://ez.no/About-eZ/Events-News/News/eZ-Publish-International-showcase-on-Deutsche-Telekom-s-WebTV-channel" title="eZ Publish International – showcase on Deutsche Telekom's WebTV channel">eZ Publish International – showcase on Deutsche Telekom's WebTV channel</a>
+            </li>
+                </ul>
+    </article>
+</div>
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/block/feed_reader.tpl (extension/ezdemo/design/ezdemo/override/templates/block/feed_reader.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                                    
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-f742abffba08fc849b6e80dec769a74c-530f34a56860389349bd37e74bc095a7">
+    
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/block/video.tpl (extension/ezdemo/design/ezdemo/override/templates/block/video.tpl) -->
+
+
+
+<script>
+    _V_.options.flash.swf = "/extension/ezdemo/design/ezdemo/flash/video-js.swf"
+</script>
+
+<div class="block-type-video">
+    <div class="attribute-header">
+        <h2>Selected Video</h2>
+    </div>
+    <article>
+        <div class="attribute-video">
+            <video id="video_530f34a56860389349bd37e74bc095a7" class="video-js vjs-default-skin" controls preload="auto" width="330" height="264" poster="" data-setup="{}">
+              <source src="http://dcdmediagroup.ez.dev.local/content/download/80/357/Piraya small – Mobilnett.m4v" type="video/mp4" />
+            </video>
+        </div>
+
+        <div class="attribute-header">
+            <h3>Piranha Fishing</h3>
+        </div>
+
+        <div class="attribute-short">
+            
+<!-- START: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+    
+<!-- STOP: including template: extension/dcdgroup/design/group/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+        </div>
+    </article>
+</div>
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/block/video.tpl (extension/ezdemo/design/ezdemo/override/templates/block/video.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                                    
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-f742abffba08fc849b6e80dec769a74c-27d176fb3baf2ab9dea2b1f98270e701">
+    
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/block/tag_cloud.tpl (extension/ezdemo/design/ezdemo/override/templates/block/tag_cloud.tpl) -->
+<div class="block-type-tagcloud block-view-default">
+    <div class="attribute-header">
+        <h2>Tags</h2>
+    </div>
+    <article>
+                    
+<!-- START: including template: extension/ezdemo/design/ezdemo/templates/tagcloud/tagcloud.tpl (design:tagcloud/tagcloud.tpl) -->
+<a href="/content/keyword/Aligator" style="font-size: 100%" title="1 objects tagged with 'Aligator'">Aligator</a> <a href="/content/keyword/Amazon" style="font-size: 100%" title="1 objects tagged with 'Amazon'">Amazon</a> <a href="/content/keyword/Amazon%20Jungle" style="font-size: 100%" title="1 objects tagged with 'Amazon Jungle'">Amazon Jungle</a> <a href="/content/keyword/Birds" style="font-size: 100%" title="1 objects tagged with 'Birds'">Birds</a> <a href="/content/keyword/Blog%20Post" style="font-size: 100%" title="1 objects tagged with 'Blog Post'">Blog Post</a> <a href="/content/keyword/deliver" style="font-size: 100%" title="1 objects tagged with 'deliver'">deliver</a> <a href="/content/keyword/eZ%20Publish" style="font-size: 100%" title="1 objects tagged with 'eZ Publish'">eZ Publish</a> <a href="/content/keyword/Flying%20Bird" style="font-size: 100%" title="1 objects tagged with 'Flying Bird'">Flying Bird</a> <a href="/content/keyword/Hat" style="font-size: 100%" title="1 objects tagged with 'Hat'">Hat</a> <a href="/content/keyword/Heron" style="font-size: 100%" title="1 objects tagged with 'Heron'">Heron</a> <a href="/content/keyword/Iquitos" style="font-size: 100%" title="1 objects tagged with 'Iquitos'">Iquitos</a> <a href="/content/keyword/kilimanjaro" style="font-size: 166.66666666667%" title="3 objects tagged with 'kilimanjaro'">kilimanjaro</a> <a href="/content/keyword/Logo" style="font-size: 100%" title="1 objects tagged with 'Logo'">Logo</a> <a href="/content/keyword/NYC" style="font-size: 166.66666666667%" title="3 objects tagged with 'NYC'">NYC</a> <a href="/content/keyword/Partner%20info" style="font-size: 100%" title="1 objects tagged with 'Partner info'">Partner info</a> <a href="/content/keyword/Peru" style="font-size: 133.33333333333%" title="2 objects tagged with 'Peru'">Peru</a> <a href="/content/keyword/River" style="font-size: 100%" title="1 objects tagged with 'River'">River</a> <a href="/content/keyword/River%20Boat" style="font-size: 100%" title="1 objects tagged with 'River Boat'">River Boat</a> <a href="/content/keyword/Shopping" style="font-size: 166.66666666667%" title="3 objects tagged with 'Shopping'">Shopping</a> <a href="/content/keyword/Shopping%20New%20York" style="font-size: 100%" title="1 objects tagged with 'Shopping New York'">Shopping New York</a> <a href="/content/keyword/Social" style="font-size: 100%" title="1 objects tagged with 'Social'">Social</a> <a href="/content/keyword/Taxi" style="font-size: 100%" title="1 objects tagged with 'Taxi'">Taxi</a> <a href="/content/keyword/Travel" style="font-size: 200%" title="4 objects tagged with 'Travel'">Travel</a> <a href="/content/keyword/Turtles" style="font-size: 100%" title="1 objects tagged with 'Turtles'">Turtles</a> <a href="/content/keyword/Wiki" style="font-size: 100%" title="1 objects tagged with 'Wiki'">Wiki</a> 
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/templates/tagcloud/tagcloud.tpl (design:tagcloud/tagcloud.tpl) -->
+
+            </article>
+</div>
+
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/block/tag_cloud.tpl (extension/ezdemo/design/ezdemo/override/templates/block/tag_cloud.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                                            </section>
+        </aside>
+    </div>
+</div>
+
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/templates/zone/2zoneslayout1.tpl (design:zone/2zoneslayout1.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/content/datatype/view/ezpage.tpl (design:content/datatype/view/ezpage.tpl) -->
+    </div>
+
+    </div>
+</div>
+
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/full/landing_page.tpl (design:node/view/full.tpl) -->
+";s:15:"view_parameters";a:6:{s:6:"offset";b:0;s:4:"year";b:0;s:5:"month";b:0;s:3:"day";b:0;s:10:"namefilter";b:0;s:8:"noLayout";b:0;}s:4:"path";a:1:{i:0;a:4:{s:4:"text";s:4:"Home";s:3:"url";b:0;s:9:"url_alias";b:0;s:7:"node_id";s:1:"2";}}s:10:"title_path";a:1:{i:0;a:3:{s:4:"text";s:4:"Home";s:3:"url";b:0;s:9:"url_alias";b:0;}}s:10:"section_id";s:1:"1";s:7:"node_id";s:1:"2";s:15:"navigation_part";s:23:"ezcontentnavigationpart";s:12:"content_info";a:24:{s:9:"object_id";s:2:"57";s:7:"node_id";s:1:"2";s:14:"parent_node_id";s:1:"1";s:8:"class_id";s:2:"23";s:16:"class_identifier";s:12:"landing_page";s:9:"remote_id";s:32:"8a9c9c761004866fb458d89910f52bee";s:14:"node_remote_id";s:32:"f3e90596361e31d496d4026eb624c983";s:6:"offset";b:0;s:8:"viewmode";s:4:"full";s:26:"navigation_part_identifier";s:23:"ezcontentnavigationpart";s:10:"node_depth";s:1:"1";s:9:"url_alias";s:0:"";s:16:"current_language";s:6:"eng-GB";s:13:"language_mask";s:1:"3";s:12:"main_node_id";s:1:"2";s:19:"main_node_url_alias";b:0;s:19:"persistent_variable";a:2:{s:9:"css_files";a:1:{i:0;s:9:"video.css";}s:8:"js_files";a:1:{i:0;s:8:"video.js";}}s:11:"class_group";b:0;s:5:"state";a:1:{i:2;s:1:"1";}s:16:"state_identifier";a:1:{i:0;s:18:"ez_lock/not_locked";}s:15:"parent_class_id";s:1:"1";s:23:"parent_class_identifier";s:6:"folder";s:21:"parent_node_remote_id";s:32:"629709ba256fe317c3ddcee35453a96a";s:23:"parent_object_remote_id";s:32:"c6a96666b7c4ac1be630519bc79222ef";}s:13:"template_list";a:2:{i:0;s:62:"extension/ezdemo/design/ezdemo/templates/tagcloud/tagcloud.tpl";i:1;s:70:"extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl";}s:9:"cache_ttl";i:-1;}

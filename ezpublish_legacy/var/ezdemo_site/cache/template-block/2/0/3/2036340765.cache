@@ -1,0 +1,171 @@
+
+<h2>My latest content</h2>
+
+<table class="list" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <th>Name</th>
+        <th>Type</th>
+        <th>Modified</th>
+        <th class="tight"></th>
+    </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/ezdemo_site_admin/footer" title="footer">footer</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                12/11/2012
+            </td>
+            <td>
+                            <a href="/ezdemo_site_admin/content/edit/58/f/eng-GB">
+                    <img src="/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Edit" title="Edit &lt;footer&gt;." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/ezdemo_site_admin/Getting-Started" title="Getting Started">Getting Started</a>
+            </td>
+            <td>
+                Landing Page
+            </td>
+            <td>
+                28/03/2012
+            </td>
+            <td>
+                            <a href="/ezdemo_site_admin/content/edit/59/f/eng-GB">
+                    <img src="/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Edit" title="Edit &lt;Getting Started&gt;." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/ezdemo_site_admin/Getting-Started/Selected-Features/Getting-Started-with-eZ-Publish-5" title="Getting Started with eZ Publish 5">Getting Started with eZ Pub...</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                28/03/2012
+            </td>
+            <td>
+                            <a href="/ezdemo_site_admin/content/edit/69/f/eng-GB">
+                    <img src="/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Edit" title="Edit &lt;Getting Started with eZ Publish 5&gt;." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/ezdemo_site_admin/Getting-Started/Resources/Demos-and-Videos" title="Demos and Videos">Demos and Videos</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                28/03/2012
+            </td>
+            <td>
+                            <a href="/ezdemo_site_admin/content/edit/64/f/eng-GB">
+                    <img src="/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Edit" title="Edit &lt;Demos and Videos&gt;." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/ezdemo_site_admin/Getting-Started/Resources/Technical-Documentation" title="Technical Documentation">Technical Documentation</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                28/03/2012
+            </td>
+            <td>
+                            <a href="/ezdemo_site_admin/content/edit/63/f/eng-GB">
+                    <img src="/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Edit" title="Edit &lt;Technical Documentation&gt;." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/ezdemo_site_admin/Getting-Started/Resources/eZ-Publish-Tutorials" title="eZ Publish Tutorials">eZ Publish Tutorials</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                28/03/2012
+            </td>
+            <td>
+                            <a href="/ezdemo_site_admin/content/edit/61/f/eng-GB">
+                    <img src="/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Edit" title="Edit &lt;eZ Publish Tutorials&gt;." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/ezdemo_site_admin/Getting-Started/Resources/eZ-User-Documentation" title="eZ User Documentation">eZ User Documentation</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                28/03/2012
+            </td>
+            <td>
+                            <a href="/ezdemo_site_admin/content/edit/62/f/eng-GB">
+                    <img src="/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Edit" title="Edit &lt;eZ User Documentation&gt;." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/ezdemo_site_admin/Getting-Started/Selected-Features/Create" title="Create">Create</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                28/03/2012
+            </td>
+            <td>
+                            <a href="/ezdemo_site_admin/content/edit/67/f/eng-GB">
+                    <img src="/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Edit" title="Edit &lt;Create&gt;." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/ezdemo_site_admin/Getting-Started/Selected-Features/Optimize" title="Optimize">Optimize</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                28/03/2012
+            </td>
+            <td>
+                            <a href="/ezdemo_site_admin/content/edit/68/f/eng-GB">
+                    <img src="/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Edit" title="Edit &lt;Optimize&gt;." />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/ezdemo_site_admin/Getting-Started/Selected-Features" title="Selected Features">Selected Features</a>
+            </td>
+            <td>
+                Folder
+            </td>
+            <td>
+                28/03/2012
+            </td>
+            <td>
+                            <a href="/ezdemo_site_admin/content/edit/65/f/eng-GB">
+                    <img src="/extension/ezdemo/design/ezdemo/images/edit.gif" width="16" height="16" alt="Edit" title="Edit &lt;Selected Features&gt;." />
+                </a>
+                        </td>
+        </tr>
+    </table>

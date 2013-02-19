@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content-class xmlns:ezcontentclass-attri="http://ezpublish/contentclassattribute" is-container="false" always-available="false" sort-field="priority" sort-order="1">
+  <serialized-name-list>a:2:{s:6:"eng-GB";s:15:"Location Market";s:16:"always-available";s:6:"eng-GB";}</serialized-name-list>
+  <identifier>location_market</identifier>
+  <serialized-description-list>a:2:{s:6:"eng-GB";s:0:"";s:16:"always-available";s:6:"eng-GB";}</serialized-description-list>
+  <remote-id>e4a3ba8c252b2fccc68c49698c25fc0b</remote-id>
+  <object-name-pattern>&lt;name&gt;</object-name-pattern>
+  <url-alias-pattern></url-alias-pattern>
+  <remote>
+    <site-url>http://dc-professional.local/</site-url>
+    <url>http://dc-professional.local/class/view/65</url>
+    <groups>
+      <group id="5" name="dcpro"/>
+    </groups>
+    <id>65</id>
+    <created>1358127724</created>
+    <modified>1358128054</modified>
+    <creator>
+      <user-id>14</user-id>
+      <user-login>admin</user-login>
+    </creator>
+    <modifier>
+      <user-id>14</user-id>
+      <user-login>admin</user-login>
+    </modifier>
+  </remote>
+  <ezcontentclass-attri:attributes xmlns:ezcontentclass-attribute="http://ezpublish/contentclassattribute">
+    <attribute datatype="ezstring" required="true" searchable="true" information-collector="false" translatable="true">
+      <remote>
+        <id>593</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"eng-GB";s:4:"Name";s:16:"always-available";s:6:"eng-GB";}</serialized-name-list>
+      <identifier>name</identifier>
+      <serialized-description-list>a:2:{s:6:"eng-GB";s:0:"";s:16:"always-available";s:6:"eng-GB";}</serialized-description-list>
+      <category></category>
+      <serialized-data-text>a:2:{s:6:"eng-GB";s:0:"";s:16:"always-available";s:6:"eng-GB";}</serialized-data-text>
+      <placement>1</placement>
+      <datatype-parameters>
+        <max-length>0</max-length>
+        <default-string/>
+      </datatype-parameters>
+    </attribute>
+    <attribute datatype="ezurl" required="true" searchable="false" information-collector="false" translatable="true">
+      <remote>
+        <id>594</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"eng-GB";s:4:"Link";s:16:"always-available";s:6:"eng-GB";}</serialized-name-list>
+      <identifier>link</identifier>
+      <serialized-description-list>a:2:{s:6:"eng-GB";s:0:"";s:16:"always-available";s:6:"eng-GB";}</serialized-description-list>
+      <category></category>
+      <serialized-data-text>a:2:{s:6:"eng-GB";s:0:"";s:16:"always-available";s:6:"eng-GB";}</serialized-data-text>
+      <placement>2</placement>
+      <datatype-parameters/>
+    </attribute>
+    <attribute datatype="ezimage" required="true" searchable="false" information-collector="false" translatable="true">
+      <remote>
+        <id>595</id>
+      </remote>
+      <serialized-name-list>a:2:{s:6:"eng-GB";s:4:"FLag";s:16:"always-available";s:6:"eng-GB";}</serialized-name-list>
+      <identifier>flag</identifier>
+      <serialized-description-list>a:2:{s:6:"eng-GB";s:33:"Flag  of country of this location";s:16:"always-available";s:6:"eng-GB";}</serialized-description-list>
+      <category></category>
+      <serialized-data-text>a:2:{s:6:"eng-GB";s:0:"";s:16:"always-available";s:6:"eng-GB";}</serialized-data-text>
+      <placement>3</placement>
+      <datatype-parameters>
+        <max-size unit-size="mega">0</max-size>
+      </datatype-parameters>
+    </attribute>
+  </ezcontentclass-attri:attributes>
+</content-class>

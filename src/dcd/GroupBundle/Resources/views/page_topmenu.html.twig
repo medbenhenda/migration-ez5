@@ -1,0 +1,56 @@
+
+
+<div class="topsearch">
+    <ul>
+        <li class=""><div class="top_country">
+            <span id="country2">{% trans %}Market{% endtrans %}</span>
+            <div id="countries">
+                <div id="countries_content">
+                    <h2>{% trans %}DatacenterDynamics by Country{% endtrans %}</h2>
+                    
+                    {% for location in locationList %}
+                        {% if location.contentInfo.name == "North America" %}
+                        {% set id_region = 'region_north' %}
+                        {% elseif location.contentInfo.name == "region_latin" %}
+                            {% set id_region = 'region_latin' %}
+                        {% elseif location.contentInfo.name == "Europe" %}
+                            {% set id_region = 'region_europe' %}
+                        {% elseif location.contentInfo.name == "Middle East/ Africa" %}
+                            {% set id_region = 'region_africa' %}
+                        {% elseif location.contentInfo.name == "Asia Pacific" %}
+                            {% set id_region = 'region_asia' %}
+                        {% endif %}
+                        <div id="{{ id_region }}" class="region"> 
+                            <h3>{{ location.contentInfo.name }}</h3>
+                            {% render "dcdGroupBundle:Default:market" with {'locationId': location.contentInfo.mainLocationId, 'excludeContentTypes': [ 'article' ]}, {'standalone': true} %}   
+                        </div>      
+                    {% endfor %}
+                </div>
+            </div>
+            </div>
+            </li>
+            <li class="region">
+                <div class="top_country">
+                    <div id="region">{% trans %}Region{% endtrans %}
+                        <div id="regionlist">
+                            <ul>
+                                {% for region in RegionList %}
+                                    
+                                    <li><a href="{{ region.contentInfo.link }}" title="{{ region.contentInfo.name }}">{{ region.contentInfo.name }}</a></li>
+                                {% endfor %}
+                            </ul>
+
+                            <div class="clear"></div>
+                        </div>
+                    </div>                                
+                </div>
+            </li>
+            <li>
+                {% ez_legacy_include 'design:_common/page_header_searchbox.tpl' %}
+                
+            </li>
+            
+    </ul>
+</div>
+<div class="clr"></div>
+

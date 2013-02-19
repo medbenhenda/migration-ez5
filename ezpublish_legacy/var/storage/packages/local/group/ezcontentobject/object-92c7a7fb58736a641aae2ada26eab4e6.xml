@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4342" name="LATAM y España " ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="62" ezremote:published="Tue, 18 Dec 2012 22:15:42 GMT" ezremote:modified="Wed, 26 Dec 2012 22:13:28 GMT" remote_id="92c7a7fb58736a641aae2ada26eab4e6" class_remote_id="d303e4870aeb852045379831a7fcb1bc" ezremote:class_identifier="region" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Tue, 18 Dec 2012 22:15:05 GMT" ezremote:modified="Tue, 18 Dec 2012 22:15:42 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="LATAM y España ">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55647" ezremote:identifier="region_name" name="Region name" type="ezstring">
+          <text>LATAM y España </text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55648" ezremote:identifier="alternative_text" name="Alternative text" type="ezstring">
+          <text>LATAM y España </text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55649" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>LATAM y España </text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55650" ezremote:identifier="link" name="Link" type="ezurl">
+          <url original-url-md5="f6ef2121679d590b18a906b38433dfea" is-valid="1" last-checked="0" created="1355868916" modified="1355868916">http%3A%2F%2Fwww.datacenterdynamics.es%2F</url>
+          <text>http://www.datacenterdynamics.es/</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55651" ezremote:identifier="shape" name="Shape" type="ezselection">
+          <data-int></data-int>
+          <data-float>0</data-float>
+          <data-text>0</data-text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55652" ezremote:identifier="coords1" name="Coords 1" type="ezinteger">
+          <value>109</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55653" ezremote:identifier="coords2" name="Coords 2" type="ezinteger">
+          <value>22</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55654" ezremote:identifier="coords3" name="Coords 3" type="ezinteger">
+          <value>196</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55655" ezremote:identifier="coords4" name="Coords 4" type="ezinteger">
+          <value>38</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="c15bddfbef524b9d8c99537740ee8cd8" name="LATAM y España " node-id="4342" remote-id="41516d483aaac87ddeca73027c7d92e0" sort-field="published" sort-order="0" priority="2"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

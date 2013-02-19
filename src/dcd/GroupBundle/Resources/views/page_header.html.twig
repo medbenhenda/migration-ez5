@@ -1,0 +1,26 @@
+<header>
+    <div class="container">
+        <div class="navbar extra-navi">
+            <div class="nav-collapse row">
+
+                {% block userlinks %}
+                    
+                {% endblock %}
+            </div>
+        </div>
+        <div class="header">
+            {% block logo %}
+                {% include 'dcdGroupBundle::page_header_logo.html.twig' %}
+            {% endblock %}
+            <div class="header_right">
+                {% block tools %}
+                    {% ez_legacy_include 'design:_common/page_header_tools.tpl' %}
+                    {#% render "dcdGroupBundle:Default:header" with { 'excludeContentTypes': [ 'article' ]}, {'standalone': true} %#}
+                {% endblock %}
+            </div>
+            {% block searchbox %}
+
+            {% endblock %}
+        </div>
+    </div>
+</header>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4390" name="Modular Data Centers" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Sun, 06 Jan 2013 16:34:45 GMT" ezremote:modified="Sun, 06 Jan 2013 16:34:45 GMT" remote_id="14d0cfc600e68470a41686081652eb51" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Sun, 06 Jan 2013 16:34:29 GMT" ezremote:modified="Sun, 06 Jan 2013 16:34:45 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Modular Data Centers">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56143" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Modular Data Centers</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56144" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56145" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="e96a10e6186f610e11ee58637b265e2e" is-valid="1" last-checked="0" created="1357490085" modified="1357490085">http%3A%2F%2Fwww.datacenterdynamics.com%2Ffocus%2Fthemes%2Fmodular-design</url>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56146" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="04d56d1bb563f5c44153924bd65dc9fb" name="Modular Data Centers" node-id="4366" remote-id="52533903588e79d0d1b83e0993796394" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

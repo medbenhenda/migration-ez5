@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4439" name="Datacenter Research Group" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Fri, 18 Jan 2013 23:45:28 GMT" ezremote:modified="Fri, 18 Jan 2013 23:45:28 GMT" remote_id="30b9044df37be9fbdddcff4d1c54f52e" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Fri, 18 Jan 2013 23:45:05 GMT" ezremote:modified="Fri, 18 Jan 2013 23:45:28 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Datacenter Research Group">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56358" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Datacenter Research Group</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56359" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
+            <paragraph>Datacenter Research Group</paragraph>
+          </section>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56360" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="09abe9367647a7633f9efb55bb4af2ba" is-valid="1" last-checked="0" created="1358552728" modified="1358552728">www.datacenterdynamics.com%2Fresearch</url>
+          <text>Datacenter Research Group</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56361" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="a0d88ade7902d737c4990913be3828e5" name="Datacenter Research Group" node-id="4414" remote-id="17324176e05d2658fade128cdd5cb641" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

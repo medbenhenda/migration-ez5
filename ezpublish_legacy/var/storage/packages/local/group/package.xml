@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.5.2" development="false" install_type="install">
+  <name>group</name>
+  <summary>Group</summary>
+  <description>This package contains the following nodes :&#13;
+Group - subtree&#13;
+</description>
+  <type value="contentobject"/>
+  <ezpublish>
+    <version>Community Project 2012.8</version>
+    <named-version>Community Project 2012.8</named-version>
+  </ezpublish>
+  <maintainers>
+    <maintainer>
+      <name>Administrator User</name>
+      <email>benhenda.med@gmail.com</email>
+      <role>lead</role>
+    </maintainer>
+  </maintainers>
+  <packaging>
+    <timestamp>1360065224</timestamp>
+    <host>admin.dcd-mediagroup.local</host>
+  </packaging>
+  <documents>
+    <document mime-type="text/plain" name="LICENCE"/>
+  </documents>
+  <changelog>
+    <entry timestamp="1360065224" person="Administrator User" email="benhenda.med@gmail.com" release="1">
+      <change>Creation of package.</change>
+    </entry>
+  </changelog>
+  <simple-files>
+    <simple-file key="3d030efee1f9d1caf2b3a0c60e17a5c2" original-path="var/dcdpro/storage/images/group/52935-6-eng-GB/Group.png" package-path="simplefiles/384abc20.png"/>
+    <simple-file key="b2c5f21418b3fec461166d658b2da8b0" original-path="var/dcdpro/storage/images/group/55908-45-esl-ES/Grupo.png" package-path="simplefiles/20320b76.png"/>
+    <simple-file key="8911782900ffe3c14c0723e082571e65" original-path="var/dcdpro/storage/images/group/banner/banner-bottom/55875-3-eng-GB/Banner-bottom.jpg" package-path="simplefiles/085db612.jpg"/>
+    <simple-file key="39d8bcf13234b9a21d6e7f23e76e259e" original-path="Banner-bottom1." package-path="simplefiles/c1887506."/>
+    <simple-file key="8d343b0e7539171de9440c0e5ebd8220" original-path="var/dcdpro/storage/images/group/banner/banner-right/55893-2-eng-GB/Banner-Right.jpg" package-path="simplefiles/d843e167.jpg"/>
+    <simple-file key="a81bc4b48152b5652dbcfea30fd63d2c" original-path="var/dcdpro/storage/images/group/banner/banner-right-small/55900-3-eng-GB/Banner-Right-small.jpg" package-path="simplefiles/9dd6e7d4.jpg"/>
+    <simple-file key="41f2eaed2656784c293800e9b3fa80c2" original-path="var/dcdpro/storage/images/group/banner/banner-left/56205-2-eng-GB/Banner-left.jpg" package-path="simplefiles/26a3edb1.jpg"/>
+    <simple-file key="2131534970a274693d2dfc7aff0dbfe2" original-path="var/dcdpro/storage/images/group/banner/banner-top/banner-top/56345-4-eng-GB/Banner-Top.swf" package-path="simplefiles/702718a3.swf"/>
+    <simple-file key="51c6a13ed9d364aebb7e72f8e42883df" original-path="var/dcdpro/storage/images/group/banner/banner-top/banner-top/56346-3-eng-GB/Banner-Top.jpg" package-path="simplefiles/59c02bd0.jpg"/>
+    <simple-file key="9ed42d3eb86efa8b46f838913fade8d3" original-path="var/dcdpro/storage/images/home/group/conferences/features/news-01/55678-1-eng-GB/News-011.jpg" package-path="simplefiles/498c659c.jpg"/>
+    <simple-file key="33a912cf99ba94b9385f75d5e8e07427" original-path="var/dcdpro/storage/images/home/group/conferences/abb-upgrades-dcim-software/55536-1-eng-GB/ABB-upgrades-DCIM-software1.jpg" package-path="simplefiles/e1301852.jpg"/>
+    <simple-file key="fc1330c63dfa58b7a9e31238260691f8" original-path="var/dcdpro/storage/images/home/group/conferences/fujitsu-launches-sap-hana-management-tool/55512-2-eng-GB/Fujitsu-launches-SAP-HANA-management-tool1.jpg" package-path="simplefiles/7c99bbdc.jpg"/>
+    <simple-file key="cf613113acf746216475f0eff753d2e6" original-path="var/dcdpro/storage/images/home/group/news/2rackspace-s-3q-revenue-27/55576-2-eng-GB/2Rackspace-s-3Q-revenue-271.jpg" package-path="simplefiles/bdb8844f.jpg"/>
+    <simple-file key="3ca721c7c8cea7f6f3e14e495a54ed78" original-path="var/dcdpro/storage/images/home/group/news/3rackspace-s-3q-revenue-27/55588-2-eng-GB/3Rackspace-s-3Q-revenue-271.jpg" package-path="simplefiles/0c69385f.jpg"/>
+    <simple-file key="bafeb6310338ac087feb0b1dba1dc874" original-path="var/dcdpro/storage/images/home/group/news/rackspace-s-3q-revenue-27/55564-2-eng-GB/Rackspace-s-3Q-revenue-271.jpg" package-path="simplefiles/6f65cb86.jpg"/>
+    <simple-file key="3584c45ebf00205760882521d047566c" original-path="var/dcdpro/storage/images/home/group/news-and-analysis/fujitsu-launches-sap-hana-management/55797-1-eng-GB/Fujitsu-launches-SAP-HANA-management1.jpg" package-path="simplefiles/2ecb02a3.jpg"/>
+    <simple-file key="7b6113355a114425135ddbc39ec74bac" original-path="var/dcdpro/storage/images/group/market/north-america/atlanta/56262-1-eng-GB/Atlanta.png" package-path="simplefiles/3d28832b.png"/>
+    <simple-file key="e92c404b6f7ffb1d7aba5830f49fa077" original-path="var/dcdpro/storage/images/group/market/north-america/new-york/56265-1-eng-GB/New-York.png" package-path="simplefiles/1b996a72.png"/>
+    <simple-file key="9ae770743aa9598784d9538f36b7bce1" original-path="var/dcdpro/storage/images/group/market/north-america/phoenix/56268-1-eng-GB/Phoenix.png" package-path="simplefiles/8dd7bd0b.png"/>
+    <simple-file key="7e60be6922d31c26903d41db9bdb1d00" original-path="var/dcdpro/storage/images/group/market/north-america/toronto/56271-1-eng-GB/Toronto.png" package-path="simplefiles/b77c2311.png"/>
+    <simple-file key="b356d1d8b6de40feea821d73584f8b5f" original-path="var/dcdpro/storage/images/group/market/latin-america/buenos-aires/56274-1-eng-GB/Buenos-Aires.png" package-path="simplefiles/93cdf3e6.png"/>
+    <simple-file key="78d71b973aa30ff1de12b23f4e22f414" original-path="var/dcdpro/storage/images/group/market/latin-america/madrid/56277-1-eng-GB/Madrid.png" package-path="simplefiles/32c101bc.png"/>
+    <simple-file key="5a0f68d35b415d7054a05704f10197a9" original-path="var/dcdpro/storage/images/group/market/latin-america/bogota/56280-1-eng-GB/Bogota.png" package-path="simplefiles/2d8b648b.png"/>
+    <simple-file key="100aa4cfa5ecb9186eaddd6f9b200b41" original-path="var/dcdpro/storage/images/group/market/europe/milan/56283-1-eng-GB/Milan.png" package-path="simplefiles/eeb9feb1.png"/>
+    <simple-file key="c6491670b8307219aac2f04be6f02f89" original-path="var/dcdpro/storage/images/group/market/europe/paris/56286-1-eng-GB/Paris.png" package-path="simplefiles/f81403ac.png"/>
+    <simple-file key="b36b9e2c46446d9363d6424706da59de" original-path="var/dcdpro/storage/images/group/market/europe/london/56289-1-eng-GB/London.png" package-path="simplefiles/9974c138.png"/>
+    <simple-file key="dc064194749c2198b0d207c6e0188812" original-path="var/dcdpro/storage/images/group/market/middle-east-africa/abu-dhabi/56292-1-eng-GB/Abu-Dhabi.png" package-path="simplefiles/ecb1a351.png"/>
+    <simple-file key="6b327ee5f58cbf3ee6f3258837bb7577" original-path="var/dcdpro/storage/images/group/market/middle-east-africa/johannesburg/56295-1-eng-GB/Johannesburg.png" package-path="simplefiles/825d96b5.png"/>
+    <simple-file key="c7c4822958b47e755c3003f78bc85df2" original-path="var/dcdpro/storage/images/group/market/asia-pacific/mumbai/56298-1-eng-GB/Mumbai.jpg" package-path="simplefiles/ee0d73c9.jpg"/>
+    <simple-file key="1ff9aa4014819f14a5b2877bcb514843" original-path="var/dcdpro/storage/images/group/market/asia-pacific/sydney/56301-1-eng-GB/Sydney.png" package-path="simplefiles/ce15d2ac.png"/>
+    <simple-file key="06ffb4d8c52e73072c3ab436567e11ef" original-path="var/dcdpro/storage/images/group/market/asia-pacific/hong-kong/56304-1-eng-GB/Hong-Kong.png" package-path="simplefiles/647c94dc.png"/>
+    <simple-file key="d3899804f56b643b6b3d595f3ebbe6a2" original-path="var/dcdpro/storage/images/group/market/asia-pacific/shenzen/56307-1-eng-GB/Shenzen.png" package-path="simplefiles/b0175e87.png"/>
+    <simple-file key="979a09fb1229cf455b4d32fcd79afd72" original-path="var/dcdpro/storage/images/group/market/asia-pacific/shanghai/56310-1-eng-GB/Shanghai.png" package-path="simplefiles/5520bc44.png"/>
+    <simple-file key="7f70561b2fead2c90fa52702c707479d" original-path="var/dcdpro/storage/images/group/market/asia-pacific/tokyo/56313-1-eng-GB/Tokyo.png" package-path="simplefiles/2ab1d255.png"/>
+    <simple-file key="08e6193c55dc4b7fab90e4d4a1e6ef26" original-path="var/dcdpro/storage/images/group/market/asia-pacific/singapore/56316-1-eng-GB/Singapore.png" package-path="simplefiles/00cb454f.png"/>
+    <simple-file key="d7f2375afe4ab9638cd5c619b5f57afd" original-path="var/dcdpro/storage/images/group/market/asia-pacific/auckland/56319-1-eng-GB/Auckland.png" package-path="simplefiles/06eeb17d.png"/>
+    <simple-file key="c8b7dc5c33ab443475c7faf46bcd6833" original-path="var/dcdpro/storage/images/group/market/asia-pacific/bangalore/56322-1-eng-GB/Bangalore.jpg" package-path="simplefiles/addfa956.jpg"/>
+    <simple-file key="e1f409d4e5dd4c88d608fd943c6e04f3" original-path="var/dcdpro/storage/images/group/market/asia-pacific/beijing/56325-1-eng-GB/Beijing.png" package-path="simplefiles/dacd1bf1.png"/>
+  </simple-files>
+  <version>
+    <number>1.0</number>
+    <release>1</release>
+  </version>
+  <licence>GPL</licence>
+  <state>stable</state>
+  <dependencies>
+    <provides>
+      <provide type="ezcontentclass" name="contentclass" value="frontpage"/>
+      <provide type="ezcontentclass" name="contentclass" value="folder"/>
+      <provide type="ezcontentclass" name="contentclass" value="link"/>
+      <provide type="ezcontentclass" name="contentclass" value="banner"/>
+      <provide type="ezcontentclass" name="contentclass" value="article"/>
+      <provide type="ezcontentclass" name="contentclass" value="region"/>
+      <provide type="ezcontentclass" name="contentclass" value="location_market"/>
+    </provides>
+    <requires/>
+    <obsoletes/>
+    <conflicts/>
+  </dependencies>
+  <install>
+    <item type="ezcontentclass" filename="class-frontpage" sub-directory="ezcontentclass"/>
+    <item type="ezcontentclass" filename="class-folder" sub-directory="ezcontentclass"/>
+    <item type="ezcontentclass" filename="class-link" sub-directory="ezcontentclass"/>
+    <item type="ezcontentclass" filename="class-banner" sub-directory="ezcontentclass"/>
+    <item type="ezcontentclass" filename="class-article" sub-directory="ezcontentclass"/>
+    <item type="ezcontentclass" filename="class-region" sub-directory="ezcontentclass"/>
+    <item type="ezcontentclass" filename="class-location_market" sub-directory="ezcontentclass"/>
+    <item type="ezcontentobject" filename="contentobjects" sub-directory="ezcontentobject"/>
+  </install>
+  <uninstall>
+    <item type="ezcontentclass" filename="class-frontpage" sub-directory="ezcontentclass"/>
+    <item type="ezcontentclass" filename="class-folder" sub-directory="ezcontentclass"/>
+    <item type="ezcontentclass" filename="class-link" sub-directory="ezcontentclass"/>
+    <item type="ezcontentclass" filename="class-banner" sub-directory="ezcontentclass"/>
+    <item type="ezcontentclass" filename="class-article" sub-directory="ezcontentclass"/>
+    <item type="ezcontentclass" filename="class-region" sub-directory="ezcontentclass"/>
+    <item type="ezcontentclass" filename="class-location_market" sub-directory="ezcontentclass"/>
+    <item type="ezcontentobject" filename="contentobjects" sub-directory="ezcontentobject"/>
+  </uninstall>
+</package>

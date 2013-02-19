@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4388" name="Uptime &amp; Availability" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Sun, 06 Jan 2013 16:33:45 GMT" ezremote:modified="Sun, 06 Jan 2013 16:33:45 GMT" remote_id="4d02b94cbefee8e9cbcf42c6daead847" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Sun, 06 Jan 2013 16:33:25 GMT" ezremote:modified="Sun, 06 Jan 2013 16:33:45 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Uptime &amp; Availability">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56135" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Uptime &amp; Availability</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56136" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56137" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="414254a38e6884e2591adb4013aa92e7" is-valid="1" last-checked="0" created="1357490025" modified="1357490025">http%3A%2F%2Fwww.datacenterdynamics.com%2Ffocus%2Fthemes%2Fuptime-and-availability</url>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56138" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="04d56d1bb563f5c44153924bd65dc9fb" name="Uptime &amp; Availability" node-id="4364" remote-id="47725d400222ac6d9daeb669e1b3c4f4" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

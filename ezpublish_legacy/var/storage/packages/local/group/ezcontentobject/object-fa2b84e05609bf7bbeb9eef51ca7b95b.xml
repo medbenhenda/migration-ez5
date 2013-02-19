@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4395" name="Colocation &amp; Hosting" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Sun, 06 Jan 2013 16:37:20 GMT" ezremote:modified="Sun, 06 Jan 2013 16:37:20 GMT" remote_id="fa2b84e05609bf7bbeb9eef51ca7b95b" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Sun, 06 Jan 2013 16:37:05 GMT" ezremote:modified="Sun, 06 Jan 2013 16:37:20 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Colocation &amp; Hosting">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56163" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Colocation &amp; Hosting</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56164" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56165" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="618a824e576d075eacf4befccedab9dd" is-valid="1" last-checked="0" created="1357490240" modified="1357490240">http%3A%2F%2Fwww.datacenterdynamics.com%2Ffocus%2Fthemes%2Fcolocation-and-hosting</url>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56166" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="04d56d1bb563f5c44153924bd65dc9fb" name="Colocation &amp; Hosting" node-id="4371" remote-id="893d9454d16cca4e45b0db84d5d48dc1" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

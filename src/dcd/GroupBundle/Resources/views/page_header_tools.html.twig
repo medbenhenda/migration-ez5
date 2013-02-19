@@ -1,0 +1,35 @@
+<div class="topsearch">
+    <ul>
+        <li class=""><div class="top_country">
+            <span id="country2">{"Market"|i18n("dcdgroup/header")}</span>
+            <div id="countries">
+                <div id="countries_content">
+                    <h2>{"DatacenterDynamics by Country"|i18n("dcdgroup/header")}</h2>
+                    
+                    {% for location in locationList %}	
+                        <div id="" class="region">
+                            {% if location.contentInfo.contentType.identifer == 'folder' %}
+                                <h3>{{ location.contentInfo.name }}</h3>
+                                {{ location.contentInfo.name|dump }}
+                            {% endif %}
+                            <ul>
+                                <div class="view view-conference-listing-NA-market view-id-conference_listing_NA_market view-display-id-default view-dom-id-1">
+                                    <div class="view-content">
+                                        <div class="item-list">
+                                            <ul>
+                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </ul>
+                        </div>      
+                    {% endfor %}
+                </div>
+            </div>
+            </div>
+            </li>
+            
+    </ul>
+</div>
+<div class="clr"></div>

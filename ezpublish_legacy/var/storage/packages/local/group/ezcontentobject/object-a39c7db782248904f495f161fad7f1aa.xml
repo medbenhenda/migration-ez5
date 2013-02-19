@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4340" name="Europe " ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="62" ezremote:published="Tue, 18 Dec 2012 22:07:25 GMT" ezremote:modified="Wed, 26 Dec 2012 22:11:55 GMT" remote_id="a39c7db782248904f495f161fad7f1aa" class_remote_id="d303e4870aeb852045379831a7fcb1bc" ezremote:class_identifier="region" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Tue, 18 Dec 2012 22:05:58 GMT" ezremote:modified="Tue, 18 Dec 2012 22:07:25 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Europe ">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55629" ezremote:identifier="region_name" name="Region name" type="ezstring">
+          <text>Europe </text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55630" ezremote:identifier="alternative_text" name="Alternative text" type="ezstring">
+          <text>Europe </text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55631" ezremote:identifier="title" name="Title" type="ezstring">
+          <text>Europe </text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55632" ezremote:identifier="link" name="Link" type="ezurl">
+          <url original-url-md5="672cff9a64ae029654eaef0388b589fc" is-valid="1" last-checked="0" created="1355868372" modified="1355868372">http%3A%2F%2Fwww.datacenterdynamics.com%2Feurope%2Ffocus</url>
+          <text>http://www.datacenterdynamics.com/europe/focus</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55633" ezremote:identifier="shape" name="Shape" type="ezselection">
+          <data-int></data-int>
+          <data-float>0</data-float>
+          <data-text>0</data-text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55634" ezremote:identifier="coords1" name="Coords 1" type="ezinteger">
+          <value>110</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55635" ezremote:identifier="coords2" name="Coords 2" type="ezinteger">
+          <value>77</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55636" ezremote:identifier="coords3" name="Coords 3" type="ezinteger">
+          <value>147</value>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55637" ezremote:identifier="coords4" name="Coords 4" type="ezinteger">
+          <value>94</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="c15bddfbef524b9d8c99537740ee8cd8" name="Europe " node-id="4339" remote-id="7f410c9cf60f520accb7f90894e1582c" sort-field="published" sort-order="0" priority="4"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4370" name="Banner bottom" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="42" ezremote:published="Thu, 20 Dec 2012 23:35:18 GMT" ezremote:modified="Sun, 06 Jan 2013 23:00:00 GMT" remote_id="f1d56763c78e7cfe58329ca2532520ee" class_remote_id="9cb558e25fd946246bbb32950c00228e" ezremote:class_identifier="banner" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="3">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="3" ezremote:status="1" ezremote:created="Sun, 06 Jan 2013 22:59:53 GMT" ezremote:modified="Sun, 06 Jan 2013 23:00:00 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="Banner bottom">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55873" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>Banner bottom</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55874" ezremote:identifier="url" name="URL" type="ezstring">
+          <text>#</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55875" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="8911782900ffe3c14c0723e082571e65" alternative-text="banner"/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55876" ezremote:identifier="home_image" name="Home Image" type="ezimage" image-file-key="39d8bcf13234b9a21d6e7f23e76e259e" alternative-text=""/>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55877" ezremote:identifier="image_map" name="Image map" type="eztext">
+          <text></text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55878" ezremote:identifier="tags" name="Tags" type="ezkeyword">
+          <keyword-string></keyword-string>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="55879" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="6c57a4da60795db5700fa64a56a6de10" name="Banner bottom" node-id="4331" remote-id="41c3f79eb9f3945cf8922be30e48eb76" sort-field="published" sort-order="0" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

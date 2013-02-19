@@ -1,0 +1,751 @@
+a:10:{s:7:"content";s:53179:"
+<!-- START: including template: extension/ezdemo/design/ezdemo/override/templates/full/landing_page.tpl (design:node/view/full.tpl) -->
+<div class="content-view-full">
+    <div class="class-landing-page">
+
+    <div class="attribute-page">
+    
+<!-- START: including template: extension/ezflow/design/standard/templates/content/datatype/view/ezpage.tpl (design:content/datatype/view/ezpage.tpl) -->
+        
+<!-- START: including template: extension/dcdgroup/design/group/templates/zone/grouplayout.tpl (design:zone/grouplayout.tpl) -->
+<div class="l_sidebar">
+
+    <!-- ZONE CONTENT: START -->
+                        
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-a3c537897a71a0c2ea471e5ab2b9ff3f-9856ee06b09f80754f23f3958be2e498">
+    
+<!-- START: including template: extension/dcdgroup/design/group/override/templates/block/dcd_zones.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_zones.tpl) -->
+<h2 class="zones">ZONES</h2>
+
+
+<ul>    <li>
+    	<a href="http://www.datacenterdynamics.com/focus/themes/dcim" title="DCIM">
+    		DCIM
+		</a>
+	</li>    <li>
+    	<a href="http://www.datacenterdynamics.com/focus/themes/colocation-and-hosting" title="Colocation &amp; Hosting">
+    		Colocation &amp; Hosting
+		</a>
+	</li>    <li>
+    	<a href="http://www.datacenterdynamics.com/focus/themes/construction-news" title="Project News">
+    		Project News
+		</a>
+	</li>    <li>
+    	<a href="http://www.datacenterdynamics.com/focus/themes/industry-news" title="Company News">
+    		Company News
+		</a>
+	</li>    <li>
+    	<a href="http://www.datacenterdynamics.com/focus/themes/cabling-and-network" title="Cabling &amp; Network">
+    		Cabling &amp; Network
+		</a>
+	</li>    <li>
+    	<a href="http://www.datacenterdynamics.com/focus/themes/governance-and-regulation" title="Governance &amp; Regulation">
+    		Governance &amp; Regulation
+		</a>
+	</li>    <li>
+    	<a href="http://www.datacenterdynamics.com/focus/themes/modular-design" title="Modular Data Centers">
+    		Modular Data Centers
+		</a>
+	</li>    <li>
+    	<a href="http://www.datacenterdynamics.com/focus/themes/metrics-and-standards" title="Metrics &amp; Standards">
+    		Metrics &amp; Standards
+		</a>
+	</li>    <li>
+    	<a href="http://www.datacenterdynamics.com/focus/themes/uptime-and-availability" title="Uptime &amp; Availability">
+    		Uptime &amp; Availability
+		</a>
+	</li>    <li>
+    	<a href="http://www.datacenterdynamics.com/focus/themes/cooling" title="Cooling">
+    		Cooling
+		</a>
+	</li>    <li>
+    	<a href="http://www.datacenterdynamics.com/focus/themes/energy-efficiency" title="Critical Power">
+    		Critical Power
+		</a>
+	</li>    <li>
+    	<a href="http://www.datacenterdynamics.com/focus/themes/energy-efficiency" title="Energy Effeciency">
+    		Energy Effeciency
+		</a>
+	</li>    <li>
+    	<a href="http://www.datacenterdynamics.com/focus/themes/cloud-computing" title="Cloud Computing">
+    		Cloud Computing
+		</a>
+	</li>    <li>
+    	<a href="http://www.datacenterdynamics.com/focus/themes/it_optimization" title="IT Optimization">
+    		IT Optimization
+		</a>
+	</li></ul>
+
+<!-- STOP: including template: extension/dcdgroup/design/group/override/templates/block/dcd_zones.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_zones.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                    
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-a3c537897a71a0c2ea471e5ab2b9ff3f-231b2f3ad5af22c38b9f9f36b2ac9ed4">
+    
+<!-- START: including template: extension/dcdgroup/design/group/override/templates/block/dcd_archives.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_archives.tpl) -->
+
+<h2>ARCHIVES</h2>
+
+<ul>    <li><a href="http://www.datacenterdynamics.com/create-an-account" title="Subscribe">Subscribe</a></li>    <li><a href="http://www.datacenterdynamics.com/rss-feeds" title="RSS Feeds">RSS Feeds</a></li>    <li><a href="http://www.datacenterdynamics.com/focus/digital-editions" title="Digital Editions">Digital Editions</a></li>    <li><a href="http://www.datacenterdynamics.com/search" title="Advanced Search">Advanced Search</a></li>    <li><a href="http://www.datacenterdynamics.com/videos" title="Videos Archive">Videos Archive</a></li>    <li><a href="http://www.datacenterdynamics.com/features" title="Features Archives">Features Archives</a></li>    <li><a href="http://www.datacenterdynamics.com/white-papers" title="White Papers">White Papers</a></li>    <li><a href="http://www.datacenterdynamics.com/focus/blogs_archive" title="Blogs">Blogs</a></li></ul>
+
+<!-- STOP: including template: extension/dcdgroup/design/group/override/templates/block/dcd_archives.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_archives.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                    
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                    
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-a3c537897a71a0c2ea471e5ab2b9ff3f-77a2e0dfad671a8a4b7b32f4ba365651">
+    
+<!-- START: including template: extension/dcdgroup/design/group/override/templates/block/dcd_video_left.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_video_left.tpl) -->
+
+<div class="block block_left">
+
+    <div class="datacenter">
+        <h2>VIDEOS<span class="view">
+	        	<a href="http://www.datacenterdynamics.com/videos" title="Videos" target="_blank">
+	        		View All
+	        	</a>
+        	</span>
+        </h2>
+        <ul class="none">
+	        	        	
+	        	
+					<li>
+						<img src="http://www.datacenterdynamics.com/sites/default/files/Rackspace%20Hosting.png?1361190594" width="147" height="93" alt="Rackspace builds new data center in UK"/>
+						<p>
+							<a href="http://www.datacenterdynamics.com/focus/archive/2013/02/rackspace-builds-new-data-center-uk" title="Rackspace builds new data center in UK">Rackspace builds new data center in UK</a>
+						</p>
+						<p class="dateformate">
+							<span>18</span> Monday, February 2013 
+						</p>
+					</li>
+				
+	            	        	        	
+	        	
+					<li>
+						<img src="http://www.datacenterdynamics.com/sites/default/files/IIJ%20Matsue%20data%20center%20park_0.jpg?1360285941" width="147" height="93" alt="IIJ to double container data center park in Japan"/>
+						<p>
+							<a href="http://www.datacenterdynamics.com/focus/archive/2013/02/iij-double-container-data-center-park-japan" title="IIJ to double container data center park in Japan">IIJ to double container data center park in Japan</a>
+						</p>
+						<p class="dateformate">
+							<span>08</span> Friday, February 2013 
+						</p>
+					</li>
+				
+	            	                </ul>
+    </div>
+    <div class="clr"></div>
+</div>
+<!-- STOP: including template: extension/dcdgroup/design/group/override/templates/block/dcd_video_left.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_video_left.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+            
+    <!-- ZONE CONTENT: END -->
+
+</div>
+
+
+<div class="content">
+
+    <!-- ZONE CONTENT: START -->
+
+                                        
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-c62c43f970e25ee3205124dac6d16110-532a527204f1479ef3c7313c98497085">
+    
+<!-- START: including template: extension/dcdgroup/design/group/override/templates/block/dcd_main_top.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_main_top.tpl) -->
+
+<div class="c_block">
+    <h2>TOP ALL NEWS<span class="view"><a href="http://www.datacenterdynamics.com/focus/themes/industry-news" title="Top All News" target="_blank">View All</a></span></h2>
+    <div class="blockbox">
+        <div class=" jcarousel-skin-tango_big">
+            <div class="jcarousel-container jcarousel-container-horizontal" style="position: relative; display: block;">
+                <div class="jcarousel-clip jcarousel-clip-horizontal" style="position: relative;">
+                    <ul id="mycarouse2" class="jcarousel-skin-tango_big">
+                                              <li>
+                        <img src="http://www.datacenterdynamics.com/sites/default/files/Rackspace%20Hosting.png?1361190594" width="470" height="274" alt="Rackspace builds new data center in UK"/>
+                            <div class="info">
+                                <a href="http://www.datacenterdynamics.com/focus/archive/2013/02/rackspace-builds-new-data-center-uk" title="Rackspace builds new data center in UK"><p class="info-title">Rackspace builds new data center in UK</p></a>
+                                
+                                <p>Confirms Digital Realty will purchase a 12-acre, 10MW site to build new data center for...</p>
+                            </div>
+                       </li>
+                                            <li>
+                        <img src="http://www.datacenterdynamics.com/sites/default/files/2e2%20logo.jpg?1360969408" width="470" height="274" alt="2e2 data center business sold to Oakley Capital"/>
+                            <div class="info">
+                                <a href="http://www.datacenterdynamics.com/focus/archive/2013/02/2e2-data-center-business-sold-oakley-capital" title="2e2 data center business sold to Oakley Capital"><p class="info-title">2e2 data center business sold to Oakley Capital</p></a>
+                                
+                                <p>Daisy appointed to manage sites, attempts to retain customers  
+
+          
+
+        0...</p>
+                            </div>
+                       </li>
+                                            <li>
+                        <img src="http://www.datacenterdynamics.com/sites/default/files/QTS%20Richmond.jpg?1360904252" width="470" height="274" alt="QTS moves into Dallas-Fort Worth market"/>
+                            <div class="info">
+                                <a href="http://www.datacenterdynamics.com/focus/archive/2013/02/qts-moves-dallas-fort-worth-market" title="QTS moves into Dallas-Fort Worth market"><p class="info-title">QTS moves into Dallas-Fort Worth market</p></a>
+                                
+                                <p>Announcement: Buys former semiconductor plant for next massive data center site...</p>
+                            </div>
+                       </li>
+                                        </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- STOP: including template: extension/dcdgroup/design/group/override/templates/block/dcd_main_top.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_main_top.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                                                
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-c62c43f970e25ee3205124dac6d16110-beaab4d07ecdd180ff9377dd4c962a9c">
+    
+<!-- START: including template: extension/dcdgroup/design/group/override/templates/block/dcd_headlines_feeds.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_headlines_feeds.tpl) -->
+
+<div class="c_block">
+   
+ <h2>TODAY'S HEADLINES</h2>
+ <div class="blockbox">
+                        <div class="news_details">
+                <img src="http://www.datacenterdynamics.com/sites/default/files/NetApp%20EF540%20all%20flash%20array.jpg?1361300348" width="219" height="149" alt="NetApp launches all-flash storage array"/>
+                <h3><a href="http://www.datacenterdynamics.com/focus/archive/2013/02/netapp-launches-all-flash-storage-array" title="NetApp launches all-flash storage array">NetApp launches all-flash storage array</a></h3>
+                <p class="date">Published on: 19 Feb 2013 19 59 08 GMT</p>
+                Previews flash-storage operating system  
+
+          
+
+        Featured  
+
+      Add to Awards Page:&nbsp;
+        0  
+
+      Author:&nbsp;
+        Yevgeniy Sverdlik  
+NetApp announced its first all-flash storage array and three new products for its enterprise-grade FAS6200 storage-array series Tuesday. While the all-flash array is based on another firm&#39;s storage operating system,...
+            </div>
+                                                <div class="news_summary">
+                            <div class="summary">
+                    <h3><a href="http://www.datacenterdynamics.com/focus/archive/2013/02/rackspace-builds-new-data-center-uk" title="Rackspace builds new data center in UK">Rackspace builds new data center in UK</a></h3>
+                    Confirms Digital Realty will purchase a 12-acre, 10MW site...
+                    <p class="more"><a href="http://www.datacenterdynamics.com/focus/archive/2013/02/rackspace-builds-new-data-center-uk" title="Rackspace builds new data center in UK">more</a></p>
+                </div>
+                                                           <div class="summary">
+                    <h3><a href="http://www.datacenterdynamics.com/focus/archive/2013/02/huawei-launches-vision-telco-sdn" title="Huawei launches vision for telco SDN">Huawei launches vision for telco SDN</a></h3>
+                    Says software-defined networking vision will transform the...
+                    <p class="more"><a href="http://www.datacenterdynamics.com/focus/archive/2013/02/huawei-launches-vision-telco-sdn" title="Huawei launches vision for telco SDN">more</a></p>
+                </div>
+                                                           <div class="summary">
+                    <h3><a href="http://www.datacenterdynamics.com/focus/archive/2013/02/livestream-switches-amd-seamicro-infrastructure" title="Livestream switches to AMD SeaMicro infrastructure">Livestream switches to AMD SeaMicro infrastructure</a></h3>
+                    NYSERDA efficiency grant pays for part of hardware refresh...
+                    <p class="more"><a href="http://www.datacenterdynamics.com/focus/archive/2013/02/livestream-switches-amd-seamicro-infrastructure" title="Livestream switches to AMD SeaMicro infrastructure">more</a></p>
+                </div>
+                                                           <div class="summary">
+                    <h3><a href="http://www.datacenterdynamics.com/focus/archive/2013/02/intel-releases-cache-accelerator-software-data-center-ssds" title="Intel releases cache accelerator software for data center SSDs">Intel releases cache accelerator software for data center SSDs</a></h3>
+                    Announcement: CAS for Linux prioritizes application perfor...
+                    <p class="more"><a href="http://www.datacenterdynamics.com/focus/archive/2013/02/intel-releases-cache-accelerator-software-data-center-ssds" title="Intel releases cache accelerator software for data center SSDs">more</a></p>
+                </div>
+            </div>            </div>
+    <div class="clr"></div>
+ </div>
+<!-- STOP: including template: extension/dcdgroup/design/group/override/templates/block/dcd_headlines_feeds.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_headlines_feeds.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                                                
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-c62c43f970e25ee3205124dac6d16110-079d687272592d93cb6eb6e499480ade">
+    
+<!-- START: including template: extension/dcdgroup/design/group/override/templates/block/dcd_news_feeds.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_news_feeds.tpl) -->
+
+<div class="c_block">
+
+<h2>NEWS AND ANALYSIS <span class="view"><a title="NEWS AND ANALYSIS" href="http://www.datacenterdynamics.com/focus/themes/construction-news" target="_blank">View All</a></span></h2>
+<div class="blockbox newsblock">
+    <div class="news_left">
+                                                        <div class="news_top infobox">
+                
+                <div class=" infobox">
+
+                    <img src="http://www.datacenterdynamics.com/sites/default/files/Solar.png?1360775372" width="161" height="99" alt="EU energy targets could cause for concern for data center"/>
+                    <div class="info">
+                        Announcement: Emerson resear...
+                        <p class="more">
+                            <a title="EU energy targets could cause for concern for data center" href="http://www.datacenterdynamics.com/focus/archive/2013/02/eu-energy-targets-could-cause-concern-data-center">more</a>
+                        </p>
+                    </div>
+                </div>
+                </div>
+                                                                    <div class="topleft infobox">
+                
+                <div class=" infobox">
+
+                    <img src="http://www.datacenterdynamics.com/sites/default/files/Infinity%20SDC%20Slough.png?1360752827" width="161" height="99" alt="Norland provides infrastructure services for Infinity Slough"/>
+                    <div class="info">
+                        Announcement: Three-year par...
+                        <p class="more">
+                            <a title="Norland provides infrastructure services for Infinity Slough" href="http://www.datacenterdynamics.com/focus/archive/2013/02/norland-provides-infrastructure-services-infinity-slough">more</a>
+                        </p>
+                    </div>
+                </div>
+                </div>
+                                                                    <div class="topleft last infobox">
+                
+                <div class=" infobox">
+
+                    <img src="http://www.datacenterdynamics.com/sites/default/files/Geist%20PDU.jpg?1360621756" width="161" height="99" alt="Geist PDUs pass accuracy tests"/>
+                    <div class="info">
+                        Announcement: Devices shown...
+                        <p class="more">
+                            <a title="Geist PDUs pass accuracy tests" href="http://www.datacenterdynamics.com/focus/archive/2013/02/geist-pdus-pass-accuracy-tests">more</a>
+                        </p>
+                    </div>
+                </div>
+                </div>
+                                                                </div>
+                                                            <div class="news_right infobox">
+                                    <img src="http://www.datacenterdynamics.com/sites/default/files/Doug%20Sabella%20CEO%20Nlyte_0.jpg?1359672228" width="135" height="99" alt="Nlyte integrates intelligent PDUs into DCIM software"/>
+                    <div class="info">
+                        Announcement: Formerly an ad...
+                        <p class="more">
+                            <a title="Nlyte integrates intelligent PDUs into DCIM software" href="http://www.datacenterdynamics.com/focus/archive/2013/01/nlyte-integrates-intelligent-pdus-dcim-software">more</a>
+                        </p>
+                    </div>
+                            </div>
+                                <div class="news_right infobox">
+                                    <div class="info">
+                        Announcement: Says will supply UPS for new UK data center facility...
+                        <p class="more">
+                            <a title="Borri wins new Reading data center contract" href="http://www.datacenterdynamics.com/focus/archive/2013/01/borri-wins-new-reading-data-center-contract">more</a>
+                        </p>
+                    </div>
+                            </div>
+            </div>
+<div class="clr"></div>
+</div>
+<!-- STOP: including template: extension/dcdgroup/design/group/override/templates/block/dcd_news_feeds.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_news_feeds.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                                                
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-c62c43f970e25ee3205124dac6d16110-a26c7b83cec3d261d5c4db7c0599c4ec">
+    
+<!-- START: including template: extension/dcdgroup/design/group/override/templates/block/dcd_features_feeds.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_features_feeds.tpl) -->
+
+<div class="c_block">
+
+<h2>FEATURES AND OPINION <span class="view"><a title="Features and Opinion" href="http://www.datacenterdynamics.com/features" target="_blank">View All</a></span></h2>
+<div class="blockbox newsblock">
+            <div class="featured">
+            <h3><a href="http://www.datacenterdynamics.com/focus/archive/2013/02/interxion-expands-european-data-center-footprint" title="Interxion expands European data center footprint">Interxion expands European data center footprint</a></h3>
+            <p class="date">Posted on: 19 Feb 2013 14 13 52 GMT</p>
+            Announcement: Builds second...
+        </div>
+            <div class="featured">
+            <h3><a href="http://www.datacenterdynamics.com/focus/archive/2013/02/rackspace-opens-new-data-center-australia" title="Rackspace opens new data center in Australia">Rackspace opens new data center in Australia</a></h3>
+            <p class="date">Posted on: 19 Feb 2013 11 52 34 GMT</p>
+            Sydney facility built by Dig...
+        </div>
+            <div class="featured">
+            <h3><a href="http://www.datacenterdynamics.com/focus/archive/2013/02/rackspace-builds-new-data-center-uk" title="Rackspace builds new data center in UK">Rackspace builds new data center in UK</a></h3>
+            <p class="date">Posted on: 18 Feb 2013 13 33 04 GMT</p>
+            Confirms Digital Realty will...
+        </div>
+            <div class="featured">
+            <h3><a href="http://www.datacenterdynamics.com/focus/archive/2013/02/qts-moves-dallas-fort-worth-market" title="QTS moves into Dallas-Fort Worth market">QTS moves into Dallas-Fort Worth market</a></h3>
+            <p class="date">Posted on: 15 Feb 2013 05 57 32 GMT</p>
+            Announcement: Buys former se...
+        </div>
+    </div>
+<div class="clr"></div>
+</div>
+<!-- STOP: including template: extension/dcdgroup/design/group/override/templates/block/dcd_features_feeds.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_features_feeds.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                                                
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-c62c43f970e25ee3205124dac6d16110-f6184146d3402657f4114384c0858863">
+    
+<!-- START: including template: extension/dcdgroup/design/group/override/templates/block/dcd_featured_video_feeds.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_featured_video_feeds.tpl) -->
+
+<div class="c_block">
+
+<h2>FEATURED VIDEOS  <span class="view"><a title="Featured Videos " href="http://www.datacenterdynamics.com/videos" target="_blank">View All</a></span></h2>
+ <div class="blockbox">
+    <ul id="mycarousel" class="jcarousel-skin-tango">
+                   <li><a href="http://www.datacenterdynamics.com/focus/archive/2013/02/emerson-gets-uk-certification-liebert-hpc-free-cooling-chillers" title="Emerson gets UK certification for Liebert HPC free-cooling chillers  "> <img src="http://www.datacenterdynamics.com/sites/default/files/Emerson%20Liebert%20HPC%20free%20cooling.png?1361293776" width="150" height="98" alt="Emerson gets UK certification for Liebert HPC free-cooling chillers  "/></a></li>
+                   <li><a href="http://www.datacenterdynamics.com/focus/archive/2013/02/commscope-demos-category-8-cabling-feasibility-0" title="Commscope demos category 8 cabling feasibility"> <img src="http://www.datacenterdynamics.com/sites/default/files/commscope_0.jpg?1360861692" width="150" height="98" alt="Commscope demos category 8 cabling feasibility"/></a></li>
+                   <li><a href="http://www.datacenterdynamics.com/focus/archive/2013/02/data-center-operators-risk-resiliency-cost" title="Data center operators risk resiliency for cost"> <img src="http://www.datacenterdynamics.com/sites/default/files/risk.jpg?1360844492" width="150" height="98" alt="Data center operators risk resiliency for cost"/></a></li>
+                   <li><a href="http://www.datacenterdynamics.com/focus/archive/2013/01/equinix-achieves-european-energy-efficiency-status" title="Equinix achieves European Energy Efficiency status"> <img src="http://www.datacenterdynamics.com/sites/default/files/WEB_2012_ANNOUNCEMENTS_AMENDED%20%283%29_32.png?1358872775" width="150" height="98" alt="Equinix achieves European Energy Efficiency status"/></a></li>
+                   <li><a href="http://www.datacenterdynamics.com/focus/archive/2013/01/ashrae-revises-data-centers-under-901-energy-standard" title="ASHRAE revises data centers under 90.1 energy standard"> <img src="http://www.datacenterdynamics.com/sites/default/files/cooling%202_0.jpg?1357901010" width="150" height="98" alt="ASHRAE revises data centers under 90.1 energy standard"/></a></li>
+                   <li><a href="http://www.datacenterdynamics.com/focus/archive/2013/01/green-globes-certifies-internap%E2%80%99s-atlanta-data-center" title="Green Globes certifies Internap’s Atlanta data center "> <img src="http://www.datacenterdynamics.com/sites/default/files/Internap%20Atlanta.jpg?1357751897" width="150" height="98" alt="Green Globes certifies Internap’s Atlanta data center "/></a></li>
+                   <li><a href="http://www.datacenterdynamics.com/focus/archive/2013/01/eaton-upss-get-energy-star-rating" title="Eaton UPSs get Energy Star rating"> <img src="http://www.datacenterdynamics.com/sites/default/files/Eaton%209PX%205%20to%206KVA%20rack.jpg?1357573204" width="150" height="98" alt="Eaton UPSs get Energy Star rating"/></a></li>
+                   <li><a href="http://www.datacenterdynamics.com/focus/archive/2012/12/sungard-receives-iso-27001-certification-cloud-services" title="SunGard receives ISO 27001 Certification for cloud services"> <img src="http://www.datacenterdynamics.com/sites/default/files/WEB_2012_ANNOUNCEMENTS_AMENDED%20%283%29_12.png?1355738912" width="150" height="98" alt="SunGard receives ISO 27001 Certification for cloud services"/></a></li>
+                   <li><a href="http://www.datacenterdynamics.com/focus/archive/2012/12/macquarie-telecom-build-intellicentre-4-data-center-canberra" title="Macquarie Telecom to build Intellicentre 4 data center in Canberra"> <img src="http://www.datacenterdynamics.com/sites/default/files/Macquarie%20Telecom_3.jpg?1355137739" width="150" height="98" alt="Macquarie Telecom to build Intellicentre 4 data center in Canberra"/></a></li>
+            </ul>
+</div>
+<div class="clr"></div>
+</div>
+<!-- STOP: including template: extension/dcdgroup/design/group/override/templates/block/dcd_featured_video_feeds.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_featured_video_feeds.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                                            
+    <!-- ZONE CONTENT: END -->
+
+</div>
+
+<div class="r_sidebar">
+    
+<!-- START: including template: extension/dcdgroup/design/group/templates/_common/connect.tpl (extension/dcdgroup/design/group/templates/_common/connect.tpl) -->
+<div class="block block_right">
+    
+        <h2>CONNECT WITH US</h2>
+
+            <div class="form_box">
+            <div class="leftform">
+                <p class="title">Sign in</p>
+            <form action="http://www.datacenterdynamics.com/user/login" method="post" accept-charset="UTF-8">
+                    <label>Username:</label>
+                <input type="text" class="inputbox" value="" name="name"/>
+                <label>Password:</label>
+                <input type="password" class="inputbox" value="" name="pass"/>
+                <input id="edit-user-login" type="hidden" value="user_login" name="form_id">
+                
+                <input type="submit" value='GO' class="sbtn" name="op" />
+            </form>
+            </div>
+
+            <div class="rightform">
+                <p>Create MyDCD account</p>
+                <form action="http://www.datacenterdynamics.com/create-an-account" method="POST">
+                <input type="submit" value='Sign up ' class="signup" />
+                
+                </form>
+            </div><!--rightformn end-->
+
+            <div class="clr"></div>
+
+            <div class="join">
+                <span class="title">Join Us At</span>
+                <span class="icons">
+                    <a class="newsletter" title="Newsletter" href="http://www.datacenterdynamics.com/user/register?account_type=silver/" target="_blank">newsletter</a>
+                    <a class="twitter" title="twitter" href="http://twitter.com/dcdfocus" target="_blank">twitter</a>
+                    <a class="rss" title="rss" href="http://www.datacenterdynamics.com/rss-feeds" target="_blank">Rss</a>
+                    <a class="in" title="in" href="http://www.linkedin.com/groups?gid=153665" target="_blank">In</a>
+                </span>
+                <div class="clr"></div>
+            </div><!--join end-->
+
+        </div><!--form_box end-->
+
+        </div><!--block end-->
+<!-- STOP: including template: extension/dcdgroup/design/group/templates/_common/connect.tpl (extension/dcdgroup/design/group/templates/_common/connect.tpl) -->
+                        
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                    
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                    
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-7cf65f608801891b45aaf35ed0f5f734-6175f9d412256b5dda21bef9f81dc06a">
+    
+<!-- START: including template: extension/dcdgroup/design/group/override/templates/block/dcd_blogs_featured_right_feeds.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_blogs_featured_right_feeds.tpl) -->
+
+<div class="block block_right">
+        <div class="datacenter focus">
+
+            <h2>Blogs
+                <span class="view">
+                    <a title=Blogs href="http://www.datacenterdynamics.com/focus/blogs_archive" target="_blank">View All</a>
+                </span></h2>
+                <ul>
+                                                                    <li>
+                            <a href="http://www.datacenterdynamics.com/focus/archive/2013/02/netapp-launches-all-flash-storage-array" title="NetApp launches all-flash storage array">NetApp launches all-fl...</a>
+                            by
+                            <a href="http://www.datacenterdynamics.com/users/yevgeniy-sverdlik" title="Yevgeniy Sverdlik">Yevgeniy Sverdlik</a>
+                            on 19 Feb 2013 19 59 08 GMT
+                            <br>
+                            <a title="NetApp launches all-flash storage array" href="http://www.datacenterdynamics.com/focus/archive/2013/02/netapp-launches-all-flash-storage-array">Read More...</a>
+                        </li>
+                                                                                            <li>
+                            <a href="http://www.datacenterdynamics.com/focus/archive/2013/02/rackspace-builds-new-data-center-uk" title="Rackspace builds new data center in UK">Rackspace builds new d...</a>
+                            by
+                            <a href="http://www.datacenterdynamics.com/users/penny-jones" title="Penny Jones">Penny Jones</a>
+                            on 18 Feb 2013 13 33 04 GMT
+                            <br>
+                            <a title="Rackspace builds new data center in UK" href="http://www.datacenterdynamics.com/focus/archive/2013/02/rackspace-builds-new-data-center-uk">Read More...</a>
+                        </li>
+                                                            </ul>
+
+            <h2>Features <span class="view"><a title=Features href="http://www.datacenterdynamics.com/features" target="_blank">View All</a></span></h2>
+                <ul>
+                                                                     <li> 
+                            <a href="http://www.datacenterdynamics.com/focus/archive/2013/02/data-center-operators-risk-resiliency-cost" title="Data center operators risk resiliency for cost">Data center operators...</a>
+                            by
+                            <a href="http://www.datacenterdynamics.com/users/penny-jones" title="Penny Jones">Penny Jones</a>
+                            on 14 Feb 2013 13 25 22 GMT
+                            <br>
+                            <a title="Data center operators risk resiliency for cost" href="http://www.datacenterdynamics.com/focus/archive/2013/02/data-center-operators-risk-resiliency-cost">Read More...</a>
+                            
+                        </li>
+                                                                                             <li> 
+                            <a href="http://www.datacenterdynamics.com/focus/archive/2013/02/norland-provides-infrastructure-services-infinity-slough" title="Norland provides infrastructure services for Infinity Slough">Norland provides infra...</a>
+                            by
+                            <a href="http://www.datacenterdynamics.com/users/penny-jones" title="Penny Jones">Penny Jones</a>
+                            on 13 Feb 2013 12 00 26 GMT
+                            <br>
+                            <a title="Norland provides infrastructure services for Infinity Slough" href="http://www.datacenterdynamics.com/focus/archive/2013/02/norland-provides-infrastructure-services-infinity-slough">Read More...</a>
+                            
+                        </li>
+                                                                                             <li> 
+                            <a href="http://www.datacenterdynamics.com/focus/archive/2013/01/new-jersey-state-data-center-loses-power" title="New Jersey State data center loses power">New Jersey State data...</a>
+                            by
+                            <a href="http://www.datacenterdynamics.com/users/penny-jones" title="Penny Jones">Penny Jones</a>
+                            on 25 Jan 2013 12 09 18 GMT
+                            <br>
+                            <a title="New Jersey State data center loses power" href="http://www.datacenterdynamics.com/focus/archive/2013/01/new-jersey-state-data-center-loses-power">Read More...</a>
+                            
+                        </li>
+                                                            </ul>
+                    </div>
+</div>
+<!-- STOP: including template: extension/dcdgroup/design/group/override/templates/block/dcd_blogs_featured_right_feeds.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_blogs_featured_right_feeds.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                    
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+                    
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+    <div id="address-7cf65f608801891b45aaf35ed0f5f734-fb224009a4279cd49dfad89709f12951">
+    
+<!-- START: including template: extension/dcdgroup/design/group/override/templates/block/dcd_whitepapers_feeds.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_whitepapers_feeds.tpl) -->
+
+<div class="block block_right">
+
+    <div class="datacenter">
+        <h2>WHITEPAPERS <span class="view"><a title="Whitepapers" href="http://www.datacenterdynamics.com/white-papers" target="_blank">View All</a></span></h2>
+                            <ul class="none">
+                <li>
+                    <p class="dateformate">
+                    <span>18</span>
+                    Monday, February. 2013 
+                    </p>
+                    <a href="http://www.datacenterdynamics.com/focus/archive/2013/02/rackspace-builds-new-data-center-uk" title="Rackspace builds new data center in UK">Rackspace builds new data center in UK</a>
+                    by
+                    <a href="http://www.datacenterdynamics.com/users/penny-jones" title="Penny Jones">Penny Jones</a>
+                    on 18 Feb 2013 13 33 04 GMT
+                    <br>
+                    <a title="Rackspace builds new data center in UK" href="http://www.datacenterdynamics.com/focus/archive/2013/02/rackspace-builds-new-data-center-uk">Read More...</a>
+                </li>
+            </ul>
+                                        <ul class="none">
+                <li>
+                    <p class="dateformate">
+                    <span>08</span>
+                    Friday, February. 2013 
+                    </p>
+                    <a href="http://www.datacenterdynamics.com/focus/archive/2013/02/iij-double-container-data-center-park-japan" title="IIJ to double container data center park in Japan">IIJ to double container data center park in Japan</a>
+                    by
+                    <a href="http://www.datacenterdynamics.com/users/yevgeniy-sverdlik" title="Yevgeniy Sverdlik">Yevgeniy Sverdlik</a>
+                    on 08 Feb 2013 02 12 21 GMT
+                    <br>
+                    <a title="IIJ to double container data center park in Japan" href="http://www.datacenterdynamics.com/focus/archive/2013/02/iij-double-container-data-center-park-japan">Read More...</a>
+                </li>
+            </ul>
+                        </div>
+    <div class="clr"></div>
+</div>
+<!-- STOP: including template: extension/dcdgroup/design/group/override/templates/block/dcd_whitepapers_feeds.tpl (extension/dcdgroup/design/group/override/templates/block/dcd_whitepapers_feeds.tpl) -->
+    </div>
+    <div class="block-separator"></div>
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+            </div>
+<div class="clr"></div>                                                                                    
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_top.tpl (extension/ezflow/design/standard/templates/parts/zone_block_top.tpl) -->
+
+<!-- START: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl (extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl) -->
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/parts/zone_block.tpl (extension/ezflow/design/standard/templates/parts/zone_block.tpl) -->
+            
+
+<!-- STOP: including template: extension/dcdgroup/design/group/templates/zone/grouplayout.tpl (design:zone/grouplayout.tpl) -->
+
+
+<!-- STOP: including template: extension/ezflow/design/standard/templates/content/datatype/view/ezpage.tpl (design:content/datatype/view/ezpage.tpl) -->
+    </div>
+
+    </div>
+</div>
+
+<!-- STOP: including template: extension/ezdemo/design/ezdemo/override/templates/full/landing_page.tpl (design:node/view/full.tpl) -->
+";s:15:"view_parameters";a:6:{s:6:"offset";b:0;s:4:"year";b:0;s:5:"month";b:0;s:3:"day";b:0;s:10:"namefilter";b:0;s:8:"noLayout";b:0;}s:4:"path";a:2:{i:0;a:4:{s:4:"text";s:4:"Home";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:5:"Group";s:3:"url";b:0;s:9:"url_alias";b:0;s:7:"node_id";s:3:"102";}}s:10:"title_path";a:2:{i:0;a:4:{s:4:"text";s:4:"Home";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:3:{s:4:"text";s:5:"Group";s:3:"url";b:0;s:9:"url_alias";b:0;}}s:10:"section_id";s:1:"1";s:7:"node_id";s:3:"102";s:15:"navigation_part";s:23:"ezcontentnavigationpart";s:12:"content_info";a:24:{s:9:"object_id";s:3:"100";s:7:"node_id";s:3:"102";s:14:"parent_node_id";s:1:"2";s:8:"class_id";s:2:"23";s:16:"class_identifier";s:12:"landing_page";s:9:"remote_id";s:32:"9e23480923794c982b9de0aec818493f";s:14:"node_remote_id";s:32:"c7a718cc6afde74e761913102ce3e215";s:6:"offset";b:0;s:8:"viewmode";s:4:"full";s:26:"navigation_part_identifier";s:23:"ezcontentnavigationpart";s:10:"node_depth";s:1:"2";s:9:"url_alias";s:0:"";s:16:"current_language";s:6:"eng-GB";s:13:"language_mask";s:1:"6";s:12:"main_node_id";s:3:"102";s:19:"main_node_url_alias";b:0;s:19:"persistent_variable";b:0;s:11:"class_group";b:0;s:5:"state";a:1:{i:2;s:1:"1";}s:16:"state_identifier";a:1:{i:0;s:18:"ez_lock/not_locked";}s:15:"parent_class_id";s:2:"23";s:23:"parent_class_identifier";s:12:"landing_page";s:21:"parent_node_remote_id";s:32:"f3e90596361e31d496d4026eb624c983";s:23:"parent_object_remote_id";s:32:"8a9c9c761004866fb458d89910f52bee";}s:13:"template_list";a:17:{i:0;s:71:"extension/ezdemo/design/ezdemo/override/templates/full/landing_page.tpl";i:1;s:75:"extension/ezflow/design/standard/templates/content/datatype/view/ezpage.tpl";i:2;s:62:"extension/dcdgroup/design/group/templates/zone/grouplayout.tpl";i:3;s:63:"extension/ezflow/design/standard/templates/parts/zone_block.tpl";i:4;s:67:"extension/ezflow/design/standard/templates/parts/zone_block_top.tpl";i:5;s:70:"extension/dcdgroup/design/group/override/templates/block/dcd_zones.tpl";i:6;s:70:"extension/ezflow/design/standard/templates/parts/zone_block_bottom.tpl";i:9;s:73:"extension/dcdgroup/design/group/override/templates/block/dcd_archives.tpl";i:16;s:75:"extension/dcdgroup/design/group/override/templates/block/dcd_video_left.tpl";i:20;s:73:"extension/dcdgroup/design/group/override/templates/block/dcd_main_top.tpl";i:24;s:80:"extension/dcdgroup/design/group/override/templates/block/dcd_headlines_feeds.tpl";i:28;s:75:"extension/dcdgroup/design/group/override/templates/block/dcd_news_feeds.tpl";i:32;s:79:"extension/dcdgroup/design/group/override/templates/block/dcd_features_feeds.tpl";i:36;s:85:"extension/dcdgroup/design/group/override/templates/block/dcd_featured_video_feeds.tpl";i:38;s:61:"extension/dcdgroup/design/group/templates/_common/connect.tpl";i:47;s:91:"extension/dcdgroup/design/group/override/templates/block/dcd_blogs_featured_right_feeds.tpl";i:54;s:82:"extension/dcdgroup/design/group/override/templates/block/dcd_whitepapers_feeds.tpl";}s:9:"cache_ttl";i:-1;}

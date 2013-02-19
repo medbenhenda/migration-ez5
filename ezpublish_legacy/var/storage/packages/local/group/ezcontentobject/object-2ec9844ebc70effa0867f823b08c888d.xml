@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="4383" name="IT Optimization" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Sun, 06 Jan 2013 16:14:03 GMT" ezremote:modified="Sun, 06 Jan 2013 16:14:03 GMT" remote_id="2ec9844ebc70effa0867f823b08c888d" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-GB">
+  <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="1">
+    <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1" ezremote:created="Sun, 06 Jan 2013 16:12:58 GMT" ezremote:modified="Sun, 06 Jan 2013 16:14:03 GMT" initial_language="eng-GB">
+      <ezobject:object-translation language="eng-GB" object_name="IT Optimization">
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56115" ezremote:identifier="name" name="Name" type="ezstring">
+          <text>IT Optimization</text>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56116" ezremote:identifier="description" name="Description" type="ezxmltext">
+          <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56117" ezremote:identifier="location" name="Location" type="ezurl">
+          <url original-url-md5="dabe9a5b41ff8595ec5866d390f9d6d1" is-valid="1" last-checked="0" created="1357488843" modified="1357488843">http%3A%2F%2Fwww.datacenterdynamics.com%2Ffocus%2Fthemes%2Fit_optimization</url>
+        </ezobject:attribute>
+        <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="56118" ezremote:identifier="open_in_new_window" name="Open in new window" type="ezboolean">
+          <value>1</value>
+        </ezobject:attribute>
+      </ezobject:object-translation>
+      <ezobject:node-assignment-list>
+        <node-assignment is-main-node="1" parent-node-remote-id="04d56d1bb563f5c44153924bd65dc9fb" name="IT Optimization" node-id="4359" remote-id="290ca60cfda04c75d209c035b73a11e1" sort-field="path" sort-order="1" priority="0"/>
+      </ezobject:node-assignment-list>
+    </ezobject:version>
+  </ezobject:version-list>
+</ezremote:object>

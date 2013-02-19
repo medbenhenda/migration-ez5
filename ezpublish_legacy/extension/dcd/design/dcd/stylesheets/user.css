@@ -1,0 +1,219 @@
+@charset "UTF-8";
+/**
+ * ezpublish override of styles for users
+ *
+ * Paul Leclercq
+ * paul.leclercq@datacenterdynamics.com
+ * 10/10/2012
+ *
+ */
+html body.user #container #book_now a.button {
+  margin: 0 10px;
+  width: 278px; }
+
+html body #container #main #content article h1.long {
+  margin: 10px 20px; }
+
+html body.user #container #course_search_critera{
+  width: 940px;
+  padding: 20px;
+  width: 900px; }
+  html body.user #container #course_search_critera form select{
+    margin: 5px 5px 0 0;
+    width: 230px; }
+html body.user #container #secondary_navigation{
+  width: 300px; }
+html body.user #container .banners{
+  width: 300px; }
+html body.user #container #main{
+  width: 620px;
+  float: left; }
+  html body.user #container #main #content{
+    min-height: 480px; }
+    html body.user #container #main #content ul.short{
+      margin: 0 30px;
+      padding: 0; }
+      html body.user #container #main #content ul.short li{
+        margin: 0 0 5px;
+        padding: 0; }
+        html body.user #container #main #content ul.short li p,
+        html body.user #container #main #content ul.short li a{
+          margin: 0;
+          display: block; }
+    html body.user #container #main #content .faq_question{
+      border-bottom: 1px solid #d6d0d0;
+      margin: 20px;
+      padding-bottom: 10px; }
+      html body.user #container #main #content .faq_question header h4{
+        font-style: bold;
+        margin-bottom: 10px;
+        display: block; }
+        html body.user #container #main #content .faq_question header h4 p{
+          display: block; }
+      html body.user #container #main #content .faq_question p{
+        margin-bottom: 10px; }
+    html body.user #container #main #content .faq_question_open{
+      background: transparent url(/extension/dcd/design/dcd/images/faq_arrow_open.png) 100% 50% no-repeat; }
+    html body.user #container #main #content .download_list{
+      zoom: 1;
+      margin: 20px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #d6d0d0; }
+      html body.user #container #main #content .download_list:before,
+      html body.user #container #main #content .download_list:after{
+        content: "";
+        display: table; }
+      html body.user #container #main #content .download_list:after{
+        clear: both; }
+      html body.user #container #main #content .download_list:last-child{
+        border-bottom: 0; }
+      html body.user #container #main #content .download_list header h4{
+        margin-bottom: 5px; }
+        html body.user #container #main #content .download_list header h4 span{
+          font-weight: normal;
+          font-size: 10px; }
+      html body.user #container #main #content .download_list a.button{
+        float: right; }
+
+
+html body.user #container #main {
+  float: left; }
+  html body.user #container #main #content #course_meta {
+    margin: 0 20px;
+    padding: 0;
+    list-style-type: none; }
+    html body.user #container #main #content #course_meta li {
+      zoom: 1;
+      border-bottom: 1px solid black;
+      padding: 5px 0; }
+      html body.user #container #main #content #course_meta li:before, html body.user #container #main #content #course_meta li:after {
+        content: "";
+        display: table; }
+      html body.user #container #main #content #course_meta li:after {
+        clear: both; }
+      html body.user #container #main #content #course_meta li span {
+        font-weight: bold;
+        float: left;
+        width: 100px;
+        text-align: right;
+        margin-right: 10px; }
+      html body.user #container #main #content #course_meta li a.button {
+        float: left;
+        width: 445px; }
+      html body.user #container #main #content #course_meta li ul {
+        float: left;
+        margin: 0;
+        padding: 0;
+        list-style-type: none; }
+        html body.user #container #main #content #course_meta li ul li {
+          border-bottom: 0;
+          padding: 0;
+          margin: 0; }
+      html body.user #container #main #content #course_meta li table {
+        zoom: 1;
+        width: 465px;
+        float: left; }
+        html body.user #container #main #content #course_meta li table:before, html body.user #container #main #content #course_meta li table:after {
+          content: "";
+          display: table; }
+        html body.user #container #main #content #course_meta li table:after {
+          clear: both; }
+  html body.user #container #main #content h3 {
+    margin: 10px 20px; }
+  html body.user #container #main #content p {
+    margin: 10px 20px 0; }
+  html body.user #container #main #content ol li {
+    border-bottom: 1px solid white;
+    margin-left: 15px; }
+  html body.user #container #main #content #course_outline ol li {
+    margin-right: 20px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px  dotted #000; }
+html body.user #container #book_now a.button {
+  margin: 0 10px;
+  width: 278px; }
+html body.user #container #factsheet {
+  width: 300px;
+  zoom: 1;
+  border: 1px solid #D6D0D0;
+  background: #F7F7F7;
+  float: right;
+  padding: 20px;
+  width: 258px; }
+  html body.user #container #factsheet:before, html body.user #container #factsheet:after {
+    content: "";
+    display: table; }
+  html body.user #container #factsheet:after {
+    clear: both; }
+  html body.user #container #factsheet h3 {
+    color: #000;
+    font-size: 14px;
+    text-transform: none;
+    margin-bottom: 10px; }
+  html body.user #container #factsheet h4 {
+    color: #000;
+    font-size: 12px;
+    margin: 10px 0; }
+  html body.user #container #factsheet ul {
+    padding: 0;
+    margin: 0; }
+    html body.user #container #factsheet ul li {
+      padding: 0;
+      margin-left: 15px; }
+  html body.user #container #factsheet #who_should_attend ul,
+  html body.user #container #factsheet #minimum_requirements ul {
+    margin-top: 10px; }
+    html body.user #container #factsheet #who_should_attend ul li,
+    html body.user #container #factsheet #minimum_requirements ul li {
+      margin-bottom: 10px; }
+  html body.user #container #factsheet #accreditations a {
+    display: block;
+    float: left;
+    width: 124px;
+    margin: 2px; }
+    html body.user #container #factsheet #accreditations a img {
+      display: block;
+      border: 0;
+      max-width: 124px; }
+
+
+html body.user #content article table {
+  margin: 10px;
+  width: 590px;
+  border: 1px solid #ddd;
+  border-radius: 0 0 4px 0; }
+  html body.user #content article table tbody tr:nth-child(odd) td {
+    background-color: #f9f9f9;
+  	border: 1px solid #ddd;
+	}
+  html body.user #content article table tbody tr:hover td {
+    background-color: #f5f5f5; }
+  html body.user #content article table th, html body.user #content article table td {
+    padding: 10px 10px 9px;
+    line-height: 1;
+    text-align: left; }
+  html body.user #content article table th {
+    padding-top: 9px;
+    font-weight: bold;
+    vertical-align: middle;
+    border-bottom: 1px solid #ddd;
+    font-size: 12px; }
+  html body.user #content article table td {
+    vertical-align: top;
+    font-size: 11px; }
+  html body.user #content article table th + th,
+  html body.user #content article table td + td {
+    border-left: 1px solid #ddd; }
+  html body.user #content article table tr + tr td {
+    border-top: 1px solid #ddd; }
+  html body.user #content article table tbody tr:first-child td:first-child {
+    border-radius: 0 0 4px 0; }
+  html body.user #content article table tbody tr:first-child td:last-child {
+    border-radius: 0 0 4px 0; }
+  html body.user #content article table tbody tr:last-child td:first-child {
+    border-radius: 0 0 4px 0; }
+  html body.user #content article table tbody tr:last-child td:last-child {
+    border-radius: 0 0 4px 0; }
+
+  	
